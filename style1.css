@@ -1,0 +1,4570 @@
+* {
+    margin: 0;
+}
+
+.whole-hero-div-main {
+    overflow-x: hidden;
+}
+
+.nav-hero-main {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu-2-thebasic-icon {
+    width: 35px;
+}
+
+.logo-img-nav-home {
+    width: 80px;
+}
+
+.nav-hero-main-logo {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.nav-center-menu {
+    display: none;
+}
+
+.nav-menu-button {
+    display: none;
+}
+
+.nav-menu {
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+/* === HERO SECTION === */
+.whole-hero-div-main {
+    width: 100%;
+    height: 600px;
+}
+
+.backround-img-hero {
+    width: 100%;
+    height: 600px;
+    position: absolute;
+    z-index: -1;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url(images/upscalemedia-transformed-2.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* === YACHT: YHTEISET POHJAT === */
+.biggest-yachts1-mai,
+.biggest-yachts1-mai2,
+.biggest-yachts1-mai3 {
+    display: flex;
+    justify-content: center;
+}
+
+.biggest-yachts1-mai {
+    margin-top: 27px;
+}
+
+.biggest-yachts1-mai2,
+.biggest-yachts1-mai3 {
+    margin-top: 14px;
+}
+
+
+.biggest-yachts1 {
+    width: 90%;
+    height: 130px;
+    border: 2px black solid;
+    border-radius: 5px;
+}
+
+.biggest-heading {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Viktotria-boat-h1 {
+    font-family: helvetica;
+    font-size: 50px;
+    margin: 0;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.bottom-div-big-yachts {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.Viktotria-boat-p {
+    font-size: 10px;
+    width: 230px;
+    margin: 0;
+    margin-left: 5px;
+    margin-top: 15px;
+}
+
+.boat-p2 {
+    font-size: 10px;
+    margin: 0;
+    margin-right: 5px;
+    margin-top: 47px;
+}
+
+
+.biggest-yachts12 {
+    width: 90%;
+    height: 80px;
+    border: 2px black solid;
+    border-radius: 5px;
+}
+
+
+.biggest-yachts13 {
+    width: 90%;
+    height: 80px;
+    border: 2px black solid;
+    border-radius: 5px;
+}
+
+
+
+.div-the-yacht-name-big {
+    display: flex;
+    justify-content: center;
+}
+
+.the-yacht-name-big {
+    font-family: playfair display;
+    font-weight: 400;
+    color: white;
+    font-size: 70px;
+}
+
+.div-button-above-viktoria {
+    display: flex;
+    justify-content: center;
+    margin-top: 400px;
+}
+
+.button-above-viktoria {
+    font-family: playfair display;
+    font-weight: 400;
+    color: black;
+    font-size: 10px;
+    background-color: white;
+    border: none;
+    padding: 13px 25px;
+    border-radius: 30px;
+    font-weight: 500;
+}
+
+.Viktotria-boat-h1 {
+    font-size: 30px;
+}
+
+.biggest-yachts1 {
+    height: 200px;
+}
+
+.img-arrpow-biggest-yachts {
+    width: 35px;
+}
+
+.Viktotria-boat-p {
+    width: 95%;
+}
+
+.div-p-lenght-biggest {
+    display: flex;
+    justify-content: right;
+
+}
+
+.boat-p2 {
+    margin: 0;
+    margin-right: 7px;
+    margin-top: -4px;
+    font-family: playfair display;
+    font-weight: 400;
+    color: white;
+    font-size: 10px;
+    font-weight: 500;
+}
+
+.Viktotria-boat-p {
+    margin-top: 50px;
+    margin-left: 10px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.backround-img-biggest-yachts-1 {
+    width: 90%;
+    height: 200px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3)), url(images/upscalemedia-transformed-3.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    z-index: -2;
+    border-radius: 7px;
+}
+
+.img-arrpow-biggest-yachts {
+    width: 25px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.Viktotria-boat-h1 {
+    color: white;
+}
+
+.Viktotria-boat-p {
+    color: white;
+}
+
+.biggest-yachts1 {
+    border: 0;
+}
+
+
+.backround-img-biggest-yachts-12 {
+    width: 90%;
+    height: 80px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3)), url(images/2191.1124x569.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    z-index: -2;
+    border-radius: 7px;
+}
+
+.biggest-yachts12 {
+    border: none;
+}
+
+.bottom-div-big-yachts2{
+    display: none;
+}
+
+.div-p-lenght-biggest2 {
+    margin-top: 15px;
+    display: flex;
+    justify-content: right;
+}
+
+.div-p-lenght-biggest {
+    margin-top: 15px;
+    display: flex;
+    justify-content: right;
+}
+
+.div-p-lenght-biggest3 {
+    margin-top: 25px;
+    display: flex;
+    justify-content: right;
+}
+
+
+.backround-img-biggest-yachts-13 {
+    width: 90%;
+    height: 80px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3)), url(images/DSC02440.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    z-index: -2;
+    border-radius: 7px;
+}
+
+.biggest-yachts13 {
+    border: none;
+}
+
+.bottom-div-big-yachts3 {
+    display: none;
+}
+
+.div-p-lenght-biggest2 {
+    margin-top: 25px;
+}
+
+.div-about-section-1-section {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+.div-section-1-center {
+    display: flex;
+    justify-content: center;
+}
+
+.div-section2-secton-about {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+.about-heading-arrow {
+    font-size: 17px;
+    margin: 0;
+    font-family: playfair display;
+    font-weight: 400;
+    color: black;
+    font-weight: 500;
+}
+
+.slogan-main {
+    font-size: 7px;
+    margin: 0;
+    font-family: playfair display;
+    font-weight: 400;
+    color: black;
+    font-weight: 500;
+}
+
+.paragrph-long-about {
+    font-size: 7px;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color: black;
+    font-weight: 400;
+    width: 170px;
+}
+
+.button-about-section {
+    font-family: playfair display;
+    font-weight: 400;
+    color: white;
+    font-size: 8px;
+    background-color: black;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 30px;
+    font-weight: 500;
+}
+
+.Viktotria-boat-h12 {
+    font-size: 37px;
+    margin: 0;
+    font-family: playfair display;
+    font-weight: 400;
+    color: white;
+    font-weight: 400;
+    margin: 0;
+    margin-top: 2px;
+    margin-left: 10px;
+}
+
+.div-p-lenght-biggest2 {
+    margin-top:0px;
+}
+
+.Viktotria-boat-h1 {
+    font-size: 40px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.div-p-lenght-biggest {
+    margin: 0;
+}
+
+.div-p-lenght-biggest3 {
+    margin-top: 0;
+    margin-top: 5px;
+}
+
+.Viktotria-boat-h12 {
+    font-size: 40px;
+}
+
+.Viktotria-boat-h13 {
+    color: white;
+    font-family: IBM Plex Mono;
+    font-size: 40px;
+    margin-left: 10px;
+}
+
+.Viktotria-boat-p {
+    margin-top: 70px;
+}
+
+
+.boat-p2 {
+    margin-top: 4px;
+}
+
+.div-section-2-center {
+    display: flex;
+    justify-content: center;
+}
+
+
+.bottom-div-big-yachts3 {
+    display: block;
+}
+
+
+.biggest-yachts1-mai,
+.biggest-yachts1-mai2,
+.biggest-yachts1-mai3 {
+    height: 100px; /* pieni korkeus oletuksena */
+    overflow: hidden;
+    transition: height 0.3s ease;
+    cursor: pointer;
+}
+
+.biggest-yachts1-mai.expanded,
+.biggest-yachts1-mai2.expanded,
+.biggest-yachts1-mai3.expanded {
+    height: 200px; /* isompi korkeus kun "auki" */
+    .bottom-div-big-yachts3 {
+        display: block;
+    }
+}
+
+
+/* Oletuskorkeus */
+.backround-img-biggest-yachts-1,
+.backround-img-biggest-yachts-12,
+.backround-img-biggest-yachts-13 {
+    height: 100px;
+    overflow: hidden;
+    transition: height 0.3s ease;
+    cursor: pointer;
+}
+
+/* Kun vanhemmalla kortilla on "expanded", nämä kasvavat */
+.biggest-yachts1-mai.expanded .backround-img-biggest-yachts-1,
+.biggest-yachts1-mai2.expanded .backround-img-biggest-yachts-12,
+.biggest-yachts1-mai3.expanded .backround-img-biggest-yachts-13 {
+    height: 200px;
+
+    .bottom-div-big-yachts2,
+    .Viktotria-boat-p {
+        display: block;
+    }
+}
+
+
+
+
+@media (max-width: 320px) {
+    
+}
+
+@media (min-width: 321px) {
+    
+}
+
+
+@media (min-width: 400px) {
+    .Viktotria-boat-p {
+        font-size: 11px;
+    }
+
+    .paragrph-long-about {
+        width: 250px;
+    }
+    
+    .div-section-2-center {
+        display: flex;
+        justify-content: center;
+    }
+
+
+
+    .biggest-yachts1-mai,
+.biggest-yachts1-mai2,
+.biggest-yachts1-mai3 {
+    height: 100px; /* pieni korkeus oletuksena */
+    overflow: hidden;
+    transition: height 0.3s ease;
+    cursor: pointer;
+}
+
+.biggest-yachts1-mai.expanded,
+.biggest-yachts1-mai2.expanded,
+.biggest-yachts1-mai3.expanded {
+    height: 200px; /* isompi korkeus kun "auki" */
+    .bottom-div-big-yachts3 {
+        display: block;
+    }
+}
+
+
+/* Oletuskorkeus */
+.backround-img-biggest-yachts-1,
+.backround-img-biggest-yachts-12,
+.backround-img-biggest-yachts-13 {
+    height: 100px;
+    overflow: hidden;
+    transition: height 0.3s ease;
+    cursor: pointer;
+}
+
+/* Kun vanhemmalla kortilla on "expanded", nämä kasvavat */
+.biggest-yachts1-mai.expanded .backround-img-biggest-yachts-1,
+.biggest-yachts1-mai2.expanded .backround-img-biggest-yachts-12,
+.biggest-yachts1-mai3.expanded .backround-img-biggest-yachts-13 {
+    height: 200px;
+
+
+}
+}
+
+@media (min-width: 600px) {
+    .Viktotria-boat-p {
+        font-size: 11px;
+    }
+
+    .paragrph-long-about {
+        width: 300px;
+        font-size: 10px;
+    }
+
+    .about-heading-arrow {
+        font-size: 25px;
+    }
+
+    .button-about-section {
+        font-size: 12px;
+        padding: 15px 32px;
+    }
+
+    .slogan-main {
+        font-size: 10px;
+    }
+
+    .biggest-yachts12 {
+        height: 130px;
+    }
+    .biggest-yachts1-mai3 {
+        height: 130px;
+    }
+
+    .biggest-yachts1-mai2 {
+        height: 130px;
+    }
+
+    .biggest-yachts12 {
+        height: 130px;
+    }
+
+    .backround-img-biggest-yachts-12 {
+        height: 130px;
+    }
+
+    .backround-img-biggest-yachts-13 {
+        height: 130px;
+    }
+
+    .Viktotria-boat-h13 {
+        font-size: 75px;
+    }
+
+    .Viktotria-boat-h12 {
+        font-size: 75px;
+    }
+
+    .Viktotria-boat-h1 {
+        font-size: 75px;
+    }
+
+    .biggest-yachts1-mai {
+        height: 250px;
+    }
+
+    .backround-img-biggest-yachts-1 {
+        height: 250px;
+    }
+    
+    .Viktotria-boat-p {
+        font-size: 12px;
+        width: 85%;
+    }
+
+    .boat-p2 {
+        font-size: 12px;
+    }
+
+    .div-p-lenght-biggest {
+        margin-top: 8px;
+    }
+
+    .the-yacht-name-big {
+        font-size: 145px;
+    }
+
+    .div-button-above-viktoria {
+        margin-top: 500px;
+    }
+
+    .whole-hero-div-main {
+        height: 800px;
+        overflow-y: hidden;
+    }
+
+    .backround-img-hero {
+        height: 800px;
+        overflow-y: hidden;
+    }
+
+    .logo-img-nav-home {
+        width: 100px;
+        overflow-y: hidden;
+    }
+
+    .menu-2-thebasic-icon {
+        width: 40px;
+        margin-top: 15px;
+        margin-right: 15px;
+        overflow-y: hidden;
+    }
+
+    .div-section-1-center {
+        margin-top: 30px;
+    }
+
+    .div-section-2-center {
+        margin-top: 15px;
+        display: flex;
+        justify-content: center;
+    }
+
+
+
+    .biggest-yachts1-mai,
+.biggest-yachts1-mai2,
+.biggest-yachts1-mai3 {
+    height: 100px; /* pieni korkeus oletuksena */
+    overflow: hidden;
+    transition: height 0.3s ease;
+    cursor: pointer;
+}
+
+.biggest-yachts1-mai.expanded,
+.biggest-yachts1-mai2.expanded,
+.biggest-yachts1-mai3.expanded {
+    height: 200px; /* isompi korkeus kun "auki" */
+    .bottom-div-big-yachts3 {
+        display: block;
+    }
+}
+
+
+/* Oletuskorkeus */
+.backround-img-biggest-yachts-1,
+.backround-img-biggest-yachts-12,
+.backround-img-biggest-yachts-13 {
+    height: 100px;
+    overflow: hidden;
+    transition: height 0.3s ease;
+    cursor: pointer;
+}
+
+/* Kun vanhemmalla kortilla on "expanded", nämä kasvavat */
+.biggest-yachts1-mai.expanded .backround-img-biggest-yachts-1,
+.biggest-yachts1-mai2.expanded .backround-img-biggest-yachts-12,
+.biggest-yachts1-mai3.expanded .backround-img-biggest-yachts-13 {
+    height: 200px;
+
+    .bottom-div-big-yachts2,
+    .Viktotria-boat-p {
+        display: block;
+    }
+}
+
+.Viktotria-boat-p {
+    margin-top: 20px;
+}
+
+}
+
+
+@media (min-width: 800px) {
+    .Viktotria-boat-p {
+        font-size: 15px;
+    }
+
+    .paragrph-long-about {
+        width: 500px;
+        font-size: 13px;
+    }
+
+    .about-heading-arrow {
+        font-size: 27px;
+    }
+
+    .button-about-section {
+        font-size: 15px;
+        padding: 15px 32px;
+    }
+
+    .slogan-main {
+        font-size: 13px;
+    }
+
+    .biggest-yachts12 {
+        height: 150px;
+    }
+    .biggest-yachts1-mai3 {
+        height: 150px;
+    }
+
+    .biggest-yachts1-mai2 {
+        height: 150px;
+    }
+
+    .biggest-yachts12 {
+        height: 150px;
+    }
+
+    .backround-img-biggest-yachts-12 {
+        height: 150px;
+    }
+
+    .backround-img-biggest-yachts-13 {
+        height: 150px;
+    }
+
+    .Viktotria-boat-h13 {
+        font-size: 85px;
+    }
+
+    .Viktotria-boat-h12 {
+        font-size: 85px;
+    }
+
+    .Viktotria-boat-h1 {
+        font-size: 85px;
+    }
+
+    .biggest-yachts1-mai {
+        height: 250px;
+    }
+
+    .backround-img-biggest-yachts-1 {
+        height: 250px;
+    }
+    
+    .Viktotria-boat-p {
+        font-size: 17px;
+        width: 85%;
+    }
+
+    .boat-p2 {
+        font-size: 13px;
+    }
+
+    .div-p-lenght-biggest {
+        margin-top: 8px;
+    }
+
+    .the-yacht-name-big {
+        font-size: 185px;
+    }
+
+    .div-button-above-viktoria {
+        margin-top: 500px;
+    }
+
+    .whole-hero-div-main {
+        height: 850px;
+        overflow-y: hidden;
+    }
+
+    .backround-img-hero {
+        height: 850px;
+        overflow-y: hidden;
+    }
+
+    .logo-img-nav-home {
+        width: 130px;
+        overflow-y: hidden;
+    }
+
+    .menu-2-thebasic-icon {
+        width: 60px;
+        margin-top: 15px;
+        margin-right: 15px;
+        overflow-y: hidden;
+    }
+
+    .div-section-1-center {
+        margin-top: 35px;
+    }
+
+    .div-section-2-center {
+        margin-top: 16px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .Viktotria-boat-p {
+        margin-top: 40px;
+    }
+
+    .img-arrpow-biggest-yachts {
+        width: 40px;
+    }
+
+    .button-above-viktoria {
+        font-size: 17px;
+        padding: 17px  37px;
+    }
+
+    .biggest-yachts1-mai,
+    .biggest-yachts1-mai2,
+    .biggest-yachts1-mai3 {
+        height: 150px; /* pieni korkeus oletuksena */
+        overflow: hidden;
+        transition: height 0.3s ease;
+        cursor: pointer;
+    }
+    
+    .biggest-yachts1-mai.expanded,
+    .biggest-yachts1-mai2.expanded,
+    .biggest-yachts1-mai3.expanded {
+        height: 250px; /* isompi korkeus kun "auki" */
+        .bottom-div-big-yachts3 {
+            display: block;
+        }
+    }
+    
+    
+    /* Oletuskorkeus */
+    .backround-img-biggest-yachts-1,
+    .backround-img-biggest-yachts-12,
+    .backround-img-biggest-yachts-13 {
+        height: 150px;
+        overflow: hidden;
+        transition: height 0.3s ease;
+        cursor: pointer;
+    }
+    
+    /* Kun vanhemmalla kortilla on "expanded", nämä kasvavat */
+    .biggest-yachts1-mai.expanded .backround-img-biggest-yachts-1,
+    .biggest-yachts1-mai2.expanded .backround-img-biggest-yachts-12,
+    .biggest-yachts1-mai3.expanded .backround-img-biggest-yachts-13 {
+        height: 250px;
+    
+        .bottom-div-big-yachts2,
+        .Viktotria-boat-p {
+            display: block;
+        }
+    }
+    
+    .Viktotria-boat-p {
+        margin-top: 50px;
+    }
+}
+
+.div-button-and-text {
+    display: none;
+}
+
+.div-class-scroll-now {
+    display: none;
+}
+
+.div-slogan-p-above-benetti {
+    display: none;
+}
+
+.div-the-whole-middle-section-of-hero {
+    display: none;
+}
+
+@media (min-width: 1000px) {
+
+    .div-the-whole-middle-section-of-hero {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .the-yacht-name-big {
+        margin-top: -40px;
+    }
+
+    .div-slogan-p-above-benetti {
+        display: flex;
+        justify-content: center;
+        margin: 0;
+    }
+
+    .slogan-p-above-benetti {
+        font-family: playfair display;
+        font-weight: 400;
+        color: white;
+        font-size: 15px;
+        border: none;
+        font-weight: 500;
+    }
+
+    .nav-menu {
+        display: none;
+    }
+
+    .nav-menu-button {
+        display: inline;
+    }
+
+    .button-talk-to-us-home {
+        font-family: playfair display;
+        font-weight: 400;
+        color: white;
+        font-size: 13px;
+        border: none;
+        padding: 17px 34px;
+        border-radius: 30px;
+        font-weight: 500;
+        border: 1.5px white solid;
+        background: none;
+        margin-top: 20px;
+        margin-right: 20px;
+    }
+
+    .nav-center-menu {
+        display: inline;
+    }
+
+    .nav-center-icon {
+        width: 270px;
+        margin-top: 30px;
+    }
+
+    .div-class-scroll-now {
+        display: inline-block;
+        margin-top: 70px;
+    }
+
+    .div-button-and-text {
+        display: inline-block;
+        margin-top: 60px;
+    }
+
+    .div-gallus-div {
+        display: flex;
+        justify-content: center;
+    }
+    .the-yacht-name-big {
+        font-size: 170px;
+    }
+
+    .dv-div-button-embarak {
+        display: flex;
+        justify-content: center;
+    }
+
+    .div-button-and-text {
+        width: 100%;
+    }
+
+    .div-button-above-viktoria {
+        display: none;
+    }
+
+    .button-above-viktoria2 {
+        font-family: playfair display;
+    font-weight: 400;
+    color: black;
+    font-size: 10px;
+    background-color: white;
+    border: none;
+    padding: 13px 25px;
+    border-radius: 30px;
+    font-weight: 500;
+    }
+
+    .gallus-tect-hero {
+        margin-bottom: 20px;
+        font-size: 25px;
+        color: white;
+        font-family: playfair display;
+    }
+
+    .div-flex-the-whole-beenettin-thing {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .icpn-scroll-now {
+        width: 20px;
+    }
+
+    .div-paragrapa-scrol {
+        justify-content: center;
+        display: flex;
+    }
+
+    .div-class-scroll-now {
+       width: 100%;
+    }
+
+    .div-scroll-icon {
+        justify-content: center;
+        display: flex;
+    }
+
+    .scroll-now-paragraph {
+        margin-bottom: 20px;
+        font-size: 20px;
+        color: white;
+        font-family: playfair display;
+    }
+
+    .icpon-the-length {
+        width: 60px;
+    }
+
+    .move-forward-button-with {
+        width: 150px;
+    }
+
+    .the-p-90deg {
+        transform: rotate(90deg);
+        margin-bottom: 20px;
+        font-size: 13px;
+        color: white;
+        font-family: playfair display;
+        margin: 0;
+        margin-left: -60px;
+    }
+
+    .slogan-text-middle {
+        margin-bottom: 20px;
+        font-size: 15px;
+        color: white;
+        font-family: playfair display;
+        margin: 0;
+    }
+
+    .div-the-whole-middle-section-of-hero {
+        margin-top: 200px;
+    }
+
+    .div-slogan-p-above-benetti {
+        margin-top: 300px;
+    }
+
+    .div-slogan-text-middle {
+        margin-left: -200px;
+        margin-top: 40px;
+    }
+
+    .div-icpon-the-length {
+        margin-top: -105px;
+        margin-left: -120px;
+    }
+
+    .div-move-forward-button-with {
+        margin-right: 60px;
+    }
+
+
+
+
+    .biggest-yachts1-mai,
+    .biggest-yachts1-mai2,
+    .biggest-yachts1-mai3 {
+        height: 150px; /* pieni korkeus oletuksena */
+        overflow: hidden;
+        transition: height 0.3s ease;
+        cursor: pointer;
+    }
+    
+    .biggest-yachts1-mai.expanded,
+    .biggest-yachts1-mai2.expanded,
+    .biggest-yachts1-mai3.expanded {
+        height: 250px; /* isompi korkeus kun "auki" */
+        .bottom-div-big-yachts3 {
+            display: block;
+        }
+    }
+    
+    
+    /* Oletuskorkeus */
+    .backround-img-biggest-yachts-1,
+    .backround-img-biggest-yachts-12,
+    .backround-img-biggest-yachts-13 {
+        height: 150px;
+        overflow: hidden;
+        transition: height 0.3s ease;
+        cursor: pointer;
+    }
+    
+    /* Kun vanhemmalla kortilla on "expanded", nämä kasvavat */
+    .biggest-yachts1-mai.expanded .backround-img-biggest-yachts-1,
+    .biggest-yachts1-mai2.expanded .backround-img-biggest-yachts-12,
+    .biggest-yachts1-mai3.expanded .backround-img-biggest-yachts-13 {
+        height: 250px;
+    
+        .bottom-div-big-yachts2,
+        .Viktotria-boat-p {
+            display: block;
+        }
+    }
+    
+    .Viktotria-boat-p {
+        margin-top: 50px;
+    }
+}
+
+
+
+
+@media (min-width: 1200px) {
+
+    .div-the-whole-middle-section-of-hero {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .the-yacht-name-big {
+        margin-top: -40px;
+    }
+
+    .div-slogan-p-above-benetti {
+        display: flex;
+        justify-content: center;
+        margin: 0;
+    }
+
+    .slogan-p-above-benetti {
+        font-family: playfair display;
+        font-weight: 400;
+        color: white;
+        font-size: 15px;
+        border: none;
+        font-weight: 500;
+    }
+
+    .nav-menu {
+        display: none;
+    }
+
+    .nav-menu-button {
+        display: inline;
+    }
+
+    .button-talk-to-us-home {
+        font-family: playfair display;
+        font-weight: 400;
+        color: white;
+        font-size: 13px;
+        border: none;
+        padding: 17px 34px;
+        border-radius: 30px;
+        font-weight: 500;
+        border: 1.5px white solid;
+        background: none;
+        margin-top: 20px;
+        margin-right: 20px;
+    }
+
+    .nav-center-menu {
+        display: inline;
+    }
+
+    .nav-center-icon {
+        width: 270px;
+        margin-top: 30px;
+    }
+
+    .div-class-scroll-now {
+        display: inline-block;
+        margin-top: 70px;
+    }
+
+    .div-button-and-text {
+        display: inline-block;
+        margin-top: 60px;
+    }
+
+    .div-gallus-div {
+        display: flex;
+        justify-content: center;
+    }
+    .the-yacht-name-big {
+        font-size: 170px;
+    }
+
+    .dv-div-button-embarak {
+        display: flex;
+        justify-content: center;
+    }
+
+    .div-button-and-text {
+        width: 100%;
+    }
+
+    .div-button-above-viktoria {
+        display: none;
+    }
+
+    .button-above-viktoria2 {
+        font-family: playfair display;
+    font-weight: 400;
+    color: black;
+    font-size: 10px;
+    background-color: white;
+    border: none;
+    padding: 13px 25px;
+    border-radius: 30px;
+    font-weight: 500;
+    }
+
+    .gallus-tect-hero {
+        margin-bottom: 20px;
+        font-size: 25px;
+        color: white;
+        font-family: playfair display;
+    }
+
+    .div-flex-the-whole-beenettin-thing {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .icpn-scroll-now {
+        width: 20px;
+    }
+
+    .div-paragrapa-scrol {
+        justify-content: center;
+        display: flex;
+    }
+
+    .div-class-scroll-now {
+       width: 100%;
+    }
+
+    .div-scroll-icon {
+        justify-content: center;
+        display: flex;
+    }
+
+    .scroll-now-paragraph {
+        margin-bottom: 20px;
+        font-size: 20px;
+        color: white;
+        font-family: playfair display;
+    }
+
+    .icpon-the-length {
+        width: 70px;
+    }
+
+    .move-forward-button-with {
+        width: 180px;
+    }
+
+    .the-p-90deg {
+        transform: rotate(90deg);
+        margin-bottom: 20px;
+        font-size: 13px;
+        color: white;
+        font-family: playfair display;
+        margin: 0;
+        margin-left: -60px;
+    }
+
+    .slogan-text-middle {
+        margin-bottom: 20px;
+        font-size: 15px;
+        color: white;
+        font-family: playfair display;
+        margin: 0;
+    }
+
+    .div-the-whole-middle-section-of-hero {
+        margin-top: 200px;
+    }
+
+    .div-slogan-p-above-benetti {
+        margin-top: 300px;
+    }
+
+    .div-slogan-text-middle {
+        margin-left: -200px;
+        margin-top: 40px;
+    }
+
+    .div-icpon-the-length {
+        margin-top: -105px;
+        margin-left: -120px;
+    }
+
+    .div-move-forward-button-with {
+        margin-right: 60px;
+    }
+
+    .Viktotria-boat-p {
+        font-size: 20px;
+        margin-left: 20px;
+    }
+
+    .whole-hero-div-main {
+        height: 900px;
+    }
+
+    .backround-img-hero {
+        height: 900px;
+    }
+    .div-slogan-p-above-benetti {
+        margin-top: 350px;
+    }
+
+    .the-yacht-name-big {
+        font-size: 200px;
+    }
+
+    .Viktotria-boat-h12 {
+        margin-left: 30px;
+    }
+
+    .Viktotria-boat-h13 {
+        margin-left: 20px;
+    }
+
+    .biggest-yachts1-mai,
+    .biggest-yachts1-mai2,
+    .biggest-yachts1-mai3 {
+        height: 150px; /* pieni korkeus oletuksena */
+        overflow: hidden;
+        transition: height 0.3s ease;
+        cursor: pointer;
+    }
+    
+    .biggest-yachts1-mai.expanded,
+    .biggest-yachts1-mai2.expanded,
+    .biggest-yachts1-mai3.expanded {
+        height: 275px; /* isompi korkeus kun "auki" */
+        .bottom-div-big-yachts3 {
+            display: block;
+        }
+    }
+    
+    
+    /* Oletuskorkeus */
+    .backround-img-biggest-yachts-1,
+    .backround-img-biggest-yachts-12,
+    .backround-img-biggest-yachts-13 {
+        height: 150px;
+        overflow: hidden;
+        transition: height 0.3s ease;
+        cursor: pointer;
+    }
+    
+    /* Kun vanhemmalla kortilla on "expanded", nämä kasvavat */
+    .biggest-yachts1-mai.expanded .backround-img-biggest-yachts-1,
+    .biggest-yachts1-mai2.expanded .backround-img-biggest-yachts-12,
+    .biggest-yachts1-mai3.expanded .backround-img-biggest-yachts-13 {
+        height: 275px;
+    
+        .bottom-div-big-yachts2,
+        .Viktotria-boat-p {
+            display: block;
+        }
+    }
+    
+    .Viktotria-boat-p {
+        margin-top: 70px;
+    }
+}
+
+@media (min-width: 1400px) {
+
+    .div-the-whole-middle-section-of-hero {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .the-yacht-name-big {
+        margin-top: -40px;
+    }
+
+    .div-slogan-p-above-benetti {
+        display: flex;
+        justify-content: center;
+        margin: 0;
+    }
+
+    .slogan-p-above-benetti {
+        font-family: playfair display;
+        font-weight: 400;
+        color: white;
+        font-size: 15px;
+        border: none;
+        font-weight: 500;
+    }
+
+    .nav-menu {
+        display: none;
+    }
+
+    .nav-menu-button {
+        display: inline;
+    }
+
+    .button-talk-to-us-home {
+        font-family: playfair display;
+        font-weight: 400;
+        color: white;
+        font-size: 13px;
+        border: none;
+        padding: 17px 34px;
+        border-radius: 30px;
+        font-weight: 500;
+        border: 1.5px white solid;
+        background: none;
+        margin-top: 20px;
+        margin-right: 20px;
+    }
+
+    .nav-center-menu {
+        display: inline;
+    }
+
+    .nav-center-icon {
+        width: 270px;
+        margin-top: 30px;
+    }
+
+    .div-class-scroll-now {
+        display: inline-block;
+        margin-top: 70px;
+    }
+
+    .div-button-and-text {
+        display: inline-block;
+        margin-top: 60px;
+    }
+
+    .div-gallus-div {
+        display: flex;
+        justify-content: center;
+    }
+    .the-yacht-name-big {
+        font-size: 170px;
+    }
+
+    .dv-div-button-embarak {
+        display: flex;
+        justify-content: center;
+    }
+
+    .div-button-and-text {
+        width: 100%;
+    }
+
+    .div-button-above-viktoria {
+        display: none;
+    }
+
+    .button-above-viktoria2 {
+        font-family: playfair display;
+    font-weight: 400;
+    color: black;
+    font-size: 10px;
+    background-color: white;
+    border: none;
+    padding: 13px 25px;
+    border-radius: 30px;
+    font-weight: 500;
+    }
+
+    .gallus-tect-hero {
+        margin-bottom: 20px;
+        font-size: 25px;
+        color: white;
+        font-family: playfair display;
+    }
+
+    .div-flex-the-whole-beenettin-thing {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .icpn-scroll-now {
+        width: 20px;
+    }
+
+    .div-paragrapa-scrol {
+        justify-content: center;
+        display: flex;
+    }
+
+    .div-class-scroll-now {
+       width: 100%;
+    }
+
+    .div-scroll-icon {
+        justify-content: center;
+        display: flex;
+    }
+
+    .scroll-now-paragraph {
+        margin-bottom: 20px;
+        font-size: 20px;
+        color: white;
+        font-family: playfair display;
+    }
+
+    .icpon-the-length {
+        width: 70px;
+    }
+
+    .move-forward-button-with {
+        width: 180px;
+    }
+
+    .the-p-90deg {
+        transform: rotate(90deg);
+        margin-bottom: 20px;
+        font-size: 13px;
+        color: white;
+        font-family: playfair display;
+        margin: 0;
+        margin-left: -60px;
+    }
+
+    .slogan-text-middle {
+        margin-bottom: 20px;
+        font-size: 15px;
+        color: white;
+        font-family: playfair display;
+        margin: 0;
+    }
+
+    .div-the-whole-middle-section-of-hero {
+        margin-top: 200px;
+    }
+
+    .div-slogan-p-above-benetti {
+        margin-top: 300px;
+    }
+
+    .div-slogan-text-middle {
+        margin-left: -200px;
+        margin-top: 40px;
+    }
+
+    .div-icpon-the-length {
+        margin-top: -105px;
+        margin-left: -120px;
+    }
+
+    .div-move-forward-button-with {
+        margin-right: 60px;
+    }
+
+    .Viktotria-boat-p {
+        font-size: 20px;
+        margin-left: 20px;
+    }
+
+    .whole-hero-div-main {
+        height: 900px;
+    }
+
+    .backround-img-hero {
+        height: 900px;
+    }
+    .div-slogan-p-above-benetti {
+        margin-top: 350px;
+    }
+
+    .the-yacht-name-big {
+        font-size: 200px;
+    }
+
+    .Viktotria-boat-h12 {
+        margin-left: 30px;
+    }
+
+    .Viktotria-boat-h13 {
+        margin-left: 20px;
+        font-size: 120px;
+    }
+
+    .biggest-yachts1-mai2 {
+        height: 200px;
+    }
+
+    .backround-img-biggest-yachts-12 {
+        height: 200px;
+    }
+
+    .biggest-yachts1-mai3 {
+        height: 200px;
+    }
+
+    .backround-img-biggest-yachts-13 {
+        height: 200px;
+    }
+
+    .Viktotria-boat-h12 {
+        font-size: 120px;
+    }
+
+    .biggest-yachts1-mai {
+        height: 360px;
+        margin-top: 85px;
+    }
+
+    .backround-img-biggest-yachts-1 {
+        height: 360px;
+    }
+
+    .Viktotria-boat-p {
+        font-size: 25px;
+        margin-left: 30px;
+    }
+
+    .Viktotria-boat-h1 {
+        font-size: 150px;
+        margin-left: 30px;
+    }
+
+    .about-heading-arrow {
+        font-size: 45px;
+    }
+
+    .slogan-main {
+        font-size: 17px;
+    }
+
+    .paragrph-long-about {
+        font-size: 17px;
+        width: 600px;
+    }
+
+    .button-about-section {
+        font-size: 22px;
+        padding: 25px 43px;
+        border-radius: 50px;
+    }
+
+    .img-arrpow-biggest-yachts {
+        width: 50px;
+        margin-top: 20px;
+        margin-right: 20px;
+    }
+
+    .boat-p2 {
+        font-size: 17px;
+    }
+
+    .the-yacht-name-big {
+        font-size: 250px;
+    }
+
+    .div-button-and-text {
+        transform: scale(1.2);
+    }
+
+    .whole-hero-div-main {
+        height: 1000px;
+    }
+
+    .backround-img-hero {
+        height: 1000px;
+    }
+
+    .div-button-and-text {
+        margin-top: 130px;
+    }
+
+    .div-class-scroll-now {
+        transform: scale(1.2);
+        margin-top: 130px;
+    }
+
+    .slogan-p-above-benetti {
+        font-size: 23px;
+    }
+
+    .the-p-90deg {
+        font-size: 17px;
+    }
+
+    .slogan-text-middle {
+        font-size: 17px;
+    }
+
+    .move-forward-button-with {
+        width: 200px;
+    }
+
+
+
+
+    .biggest-yachts1-mai,
+    .biggest-yachts1-mai2,
+    .biggest-yachts1-mai3 {
+        height: 200px; /* pieni korkeus oletuksena */
+        overflow: hidden;
+        transition: height 0.3s ease;
+        cursor: pointer;
+    }
+    
+    .biggest-yachts1-mai.expanded,
+    .biggest-yachts1-mai2.expanded,
+    .biggest-yachts1-mai3.expanded {
+        height: 380px; /* isompi korkeus kun "auki" */
+        .bottom-div-big-yachts3 {
+            display: block;
+        }
+    }
+    
+    
+    /* Oletuskorkeus */
+    .backround-img-biggest-yachts-1,
+    .backround-img-biggest-yachts-12,
+    .backround-img-biggest-yachts-13 {
+        height: 200px;
+        overflow: hidden;
+        transition: height 0.3s ease;
+        cursor: pointer;
+    }
+    
+    /* Kun vanhemmalla kortilla on "expanded", nämä kasvavat */
+    .biggest-yachts1-mai.expanded .backround-img-biggest-yachts-1,
+    .biggest-yachts1-mai2.expanded .backround-img-biggest-yachts-12,
+    .biggest-yachts1-mai3.expanded .backround-img-biggest-yachts-13 {
+        height: 380px;
+    
+        .bottom-div-big-yachts2,
+        .Viktotria-boat-p {
+            display: block;
+        }
+    }
+    
+    .Viktotria-boat-p {
+        margin-top: 70px;
+    }
+}
+
+
+@media (min-width: 1800px) {
+    .the-yacht-name-big {
+        font-size: 300px;
+    }
+
+    .whole-hero-div-main {
+        height: 1250px;
+    }
+
+    .backround-img-hero {
+        height: 1250px;
+    }
+
+    .div-button-and-text {
+        transform: scale(1.5);
+        margin-top: 190px;
+    }
+
+    .div-class-scroll-now {
+        transform: scale(1.5);
+        margin-top: 190px;
+    }
+
+    .slogan-p-above-benetti {
+        font-size: 30px;
+    }
+
+    .div-slogan-p-above-benetti {
+        margin-top: 400px;
+    }
+
+    .logo-img-nav-home {
+        width: 150px;
+    }
+
+    .nav-center-icon {
+        width: 370px;
+    }
+
+    .nav-menu-button {
+        transform: scale(1.3);
+        margin-top: 15px;
+        margin-right: 20px;
+    }
+
+    .the-p-90deg {
+        font-size: 23px;
+        margin-top: 120px;
+        margin-left: -120px;
+    }
+
+    .slogan-text-middle {
+        font-size: 23px;
+        margin-top: 120px;
+    }
+
+    .icpon-the-length {
+        width: 100px;
+    }
+
+    .move-forward-button-with {
+        width: 300px;
+        margin-top: 110px;
+    }
+
+    .backround-img-biggest-yachts-1 {
+        border-radius: 20px;
+    }
+
+    .backround-img-biggest-yachts-12 {
+        border-radius: 20px;
+    }
+
+    .backround-img-biggest-yachts-13 {
+        border-radius: 20px;
+    }
+
+    .Viktotria-boat-p {
+        font-size: 27px;
+    }
+
+
+
+    .biggest-yachts1-mai,
+    .biggest-yachts1-mai2,
+    .biggest-yachts1-mai3 {
+        height: 200px; /* pieni korkeus oletuksena */
+        overflow: hidden;
+        transition: height 0.3s ease;
+        cursor: pointer;
+    }
+    
+    .biggest-yachts1-mai.expanded,
+    .biggest-yachts1-mai2.expanded,
+    .biggest-yachts1-mai3.expanded {
+        height: 380px; /* isompi korkeus kun "auki" */
+        .bottom-div-big-yachts3 {
+            display: block;
+        }
+    }
+    
+    
+    /* Oletuskorkeus */
+    .backround-img-biggest-yachts-1,
+    .backround-img-biggest-yachts-12,
+    .backround-img-biggest-yachts-13 {
+        height: 200px;
+        overflow: hidden;
+        transition: height 0.3s ease;
+        cursor: pointer;
+    }
+    
+    /* Kun vanhemmalla kortilla on "expanded", nämä kasvavat */
+    .biggest-yachts1-mai.expanded .backround-img-biggest-yachts-1,
+    .biggest-yachts1-mai2.expanded .backround-img-biggest-yachts-12,
+    .biggest-yachts1-mai3.expanded .backround-img-biggest-yachts-13 {
+        height: 380px;
+    
+        .bottom-div-big-yachts2,
+        .Viktotria-boat-p {
+            display: block;
+        }
+    }
+    
+    .Viktotria-boat-p {
+        margin-top: 70px;
+    }
+}
+
+
+@media (min-width: 2000px) {
+    .the-yacht-name-big {
+        font-size: 350px;
+    }
+
+    .whole-hero-div-main {
+        height: 1200px;
+    }
+
+    .backround-img-hero {
+        height: 1200px;
+    }
+
+    .div-button-and-text {
+        transform: scale(1.5);
+        margin-top: 190px;
+    }
+
+    .div-class-scroll-now {
+        transform: scale(1.5);
+        margin-top: 190px;
+    }
+
+    .slogan-p-above-benetti {
+        font-size: 30px;
+    }
+
+    .div-slogan-p-above-benetti {
+        margin-top: 250px;
+    }
+
+    .logo-img-nav-home {
+        width: 150px;
+    }
+
+    .nav-center-icon {
+        width: 370px;
+    }
+
+    .nav-menu-button {
+        transform: scale(1.3);
+        margin-top: 15px;
+        margin-right: 20px;
+    }
+
+    .the-p-90deg {
+        font-size: 23px;
+        margin-top: 120px;
+        margin-left: -120px;
+    }
+
+    .slogan-text-middle {
+        font-size: 23px;
+        margin-top: 120px;
+    }
+
+    .icpon-the-length {
+        width: 100px;
+    }
+
+    .move-forward-button-with {
+        width: 300px;
+        margin-top: 110px;
+    }
+
+    .backround-img-biggest-yachts-1 {
+        border-radius: 20px;
+    }
+
+    .backround-img-biggest-yachts-12 {
+        border-radius: 20px;
+    }
+
+    .backround-img-biggest-yachts-13 {
+        border-radius: 20px;
+    }
+
+    .Viktotria-boat-p {
+        font-size: 29.5px;
+    }
+
+    .biggest-yachts1-mai,
+    .biggest-yachts1-mai2,
+    .biggest-yachts1-mai3 {
+        height: 230px; /* pieni korkeus oletuksena */
+        overflow: hidden;
+        transition: height 0.3s ease;
+        cursor: pointer;
+    }
+    
+    .biggest-yachts1-mai.expanded,
+    .biggest-yachts1-mai2.expanded,
+    .biggest-yachts1-mai3.expanded {
+        height: 400px; /* isompi korkeus kun "auki" */
+        .bottom-div-big-yachts3 {
+            display: block;
+        }
+    }
+    
+    
+    /* Oletuskorkeus */
+    .backround-img-biggest-yachts-1,
+    .backround-img-biggest-yachts-12,
+    .backround-img-biggest-yachts-13 {
+        height: 230px;
+        overflow: hidden;
+        transition: height 0.3s ease;
+        cursor: pointer;
+    }
+    
+    /* Kun vanhemmalla kortilla on "expanded", nämä kasvavat */
+    .biggest-yachts1-mai.expanded .backround-img-biggest-yachts-1,
+    .biggest-yachts1-mai2.expanded .backround-img-biggest-yachts-12,
+    .biggest-yachts1-mai3.expanded .backround-img-biggest-yachts-13 {
+        height: 400px;
+    
+        .bottom-div-big-yachts2,
+        .Viktotria-boat-p {
+            display: block;
+        }
+    }
+    
+    .Viktotria-boat-p {
+        margin-top: 70px;
+    }
+}
+
+
+
+
+
+
+@media (min-width: 2400px) {
+    .the-yacht-name-big {
+        font-size: 420px;
+    }
+
+    .whole-hero-div-main {
+        height: 1250px;
+    }
+
+    .backround-img-hero {
+        height: 1250px;
+    }
+
+    .div-button-and-text {
+        transform: scale(1.8);
+        margin-top: 310px;
+    }
+
+    .div-class-scroll-now {
+        transform: scale(1.8);
+        margin-top: 310px;
+    }
+
+    .slogan-p-above-benetti {
+        font-size: 35px;
+        margin-bottom: -100px;
+    }
+
+    .div-slogan-p-above-benetti {
+        margin-top: 270px;
+    }
+
+    .logo-img-nav-home {
+        width: 190px;
+    }
+
+    .nav-center-icon {
+        width: 400px;
+    }
+
+    .nav-menu-button {
+        transform: scale(1.5);
+        margin-top: 17px;
+        margin-right: 30px;
+    }
+
+    .the-p-90deg {
+        font-size: 23px;
+        margin-top: 120px;
+        margin-left: -120px;
+    }
+
+    .slogan-text-middle {
+        font-size: 25px;
+        margin-top: 120px;
+    }
+
+    .icpon-the-length {
+        width: 110px;
+        margin-left: -200px;
+    }
+
+    .move-forward-button-with {
+        width: 350px;
+        margin-top: 110px;
+    }
+
+    .backround-img-biggest-yachts-1 {
+        border-radius: 20px;
+    }
+
+    .backround-img-biggest-yachts-12 {
+        border-radius: 20px;
+    }
+
+    .backround-img-biggest-yachts-13 {
+        border-radius: 20px;
+    }
+
+    .Viktotria-boat-p {
+        font-size: 29.5px;
+    }
+
+    .biggest-yachts1-mai {
+        height: 500px;
+    }
+
+    .backround-img-biggest-yachts-1 {
+        height: 500px;
+    }
+
+    .Viktotria-boat-h1 {
+        font-size: 230px;
+    }
+
+    .Viktotria-boat-p {
+        font-size: 40px;
+    }
+
+    .boat-p2 {
+        font-size: 25px;
+    }
+
+    .biggest-yachts1-mai2 {
+        height: 300px;
+    }
+
+    .backround-img-biggest-yachts-12 {
+        height: 300px;
+    }
+
+    .Viktotria-boat-h12 {
+        font-size: 190px;
+        margin-left: 70px;
+    }
+
+    .biggest-yachts1-mai3 {
+        height: 300px;
+    }
+
+    .backround-img-biggest-yachts-13 {
+        height: 300px;
+    }
+
+    .Viktotria-boat-h13 {
+        font-size: 190px;
+        margin-left: 70px;
+    }
+
+    .about-heading-arrow {
+        font-size: 80px;
+    }
+
+    .paragrph-long-about {
+        font-size: 30px;
+        width: 1200px;
+    }
+
+    .slogan-main {
+        font-size: 27px;
+    }
+
+    .button-about-section {
+        transform: scale(1.5);
+    }
+
+
+
+
+
+    .biggest-yachts1-mai,
+    .biggest-yachts1-mai2,
+    .biggest-yachts1-mai3 {
+        height: 270px; /* pieni korkeus oletuksena */
+        overflow: hidden;
+        transition: height 0.3s ease;
+        cursor: pointer;
+    }
+    
+    .biggest-yachts1-mai.expanded,
+    .biggest-yachts1-mai2.expanded,
+    .biggest-yachts1-mai3.expanded {
+        height: 550px; /* isompi korkeus kun "auki" */
+        .bottom-div-big-yachts3 {
+            display: block;
+        }
+    }
+    
+    
+    /* Oletuskorkeus */
+    .backround-img-biggest-yachts-1,
+    .backround-img-biggest-yachts-12,
+    .backround-img-biggest-yachts-13 {
+        height: 270px;
+        overflow: hidden;
+        transition: height 0.3s ease;
+        cursor: pointer;
+    }
+    
+    /* Kun vanhemmalla kortilla on "expanded", nämä kasvavat */
+    .biggest-yachts1-mai.expanded .backround-img-biggest-yachts-1,
+    .biggest-yachts1-mai2.expanded .backround-img-biggest-yachts-12,
+    .biggest-yachts1-mai3.expanded .backround-img-biggest-yachts-13 {
+        height: 550px;
+    
+        .bottom-div-big-yachts2,
+        .Viktotria-boat-p {
+            display: block;
+        }
+    }
+    
+    .Viktotria-boat-p {
+        margin-top: 70px;
+    }
+}
+
+
+
+
+
+
+
+
+.video-container {
+    position: relative;
+    width: 100%;
+    height: 700px;
+    overflow: hidden;
+    border: none;
+  }
+
+  video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    object-fit: cover;
+    border: none;
+  }
+
+  .video-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5));
+  }
+
+  .overlay-text {
+    position: absolute;
+    top: 5px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: white;
+    font-size: 43px;
+    font-weight: bold;
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.7);
+    z-index: 2;
+    pointer-events: none;
+    text-align: center; 
+    width: 100%;
+    
+  }
+
+  #video-text {
+    color: transparent;
+    -webkit-text-stroke: 1px white;
+    text-shadow: none;
+    letter-spacing: 1.5px;
+  }
+
+  .video-container {
+    margin-top: 60px;
+  }
+
+  .div-bottom-of-video-container {
+    position: absolute;
+    z-index: 2;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 640px;
+  }
+
+  .button-2-video {
+    width: 40px;
+    margin-left: 10px;
+  }
+
+  .button-1-video {
+    width: 40px;
+    margin-left: 20px;
+  }
+
+  .div-the-buttons-video {
+    display: flex;
+    justify-content: center;
+  }
+
+  .full-scrteen-button-icomn {
+    width: 42px;
+  }
+
+  .button-rent-action-video {
+    font-family: playfair display;
+    font-weight: 400;
+    color: white;
+    font-size: 10px;
+    border: none;
+    padding: 10px 14px;
+    border-radius: 30px;
+    font-weight: 500;
+    border: 1px white solid;
+    background: none;;
+    margin-right: 20px;
+  }
+
+
+ 
+
+  @media (min-width: 400px) {
+    .overlay-text {
+        font-size: 55px;
+    }
+  }
+
+
+
+  @media (min-width: 600px) {
+    .overlay-text {
+        font-size: 70px;
+    }
+  }
+
+  @media (min-width: 800px) {
+    .overlay-text {
+        font-size: 100px;
+    }
+  }
+
+  @media (min-width: 1000px) {
+    .overlay-text {
+        font-size: 100px;
+    }
+
+    .button-rent-action-video {
+        font-family: playfair display;
+        font-weight: 400;
+        color: white;
+        font-size: 13px;
+        border: none;
+        padding: 13px 20px;
+        border-radius: 30px;
+        font-weight: 500;
+        border: 1px white solid;
+        background: none;;
+        margin-right: 20px;
+      }
+
+      .full-scrteen-button-icomn {
+        width: 50px;
+      }
+
+      .button-1-video {
+        width: 50px;
+      }
+
+      .button-2-video {
+        width: 50px;
+      }
+
+      .video-container {
+        position: relative;
+        width: 100%;
+        height: 720px;
+        overflow: hidden;
+        border: none;
+      }
+  }
+
+
+
+
+  @media (min-width: 1350px) {
+    .overlay-text {
+        font-size: 150px;
+    }
+
+    .button-rent-action-video {
+        font-family: playfair display;
+        font-weight: 400;
+        color: white;
+        font-size: 15px;
+        border: none;
+        padding: 17px 30px;
+        border-radius: 30px;
+        font-weight: 500;
+        border: 1px white solid;
+        background: none;;
+        margin-right: 20px;
+      }
+
+      .full-scrteen-button-icomn {
+        width: 60px;
+      }
+
+      .button-1-video {
+        width: 55px;
+      }
+
+      .button-2-video {
+        width: 55px;
+      }
+
+      .video-container {
+        position: relative;
+        width: 100%;
+        height: 900px;
+        overflow: hidden;
+        border: none;
+      }
+
+      .div-bottom-of-video-container {
+        margin-top: 810px;
+      }
+  }
+
+
+  @media (min-width: 1650px) {
+    .overlay-text {
+        font-size: 200px;
+    }
+
+    .button-rent-action-video {
+        font-family: playfair display;
+        font-weight: 400;
+        color: white;
+        font-size: 20px;
+        border: none;
+        padding: 23px 46px;
+        border-radius: 50px;
+        font-weight: 500;
+        border: 1px white solid;
+        background: none;;
+        margin-right: 20px;
+      }
+
+      .full-scrteen-button-icomn {
+        width: 80px;
+      }
+
+      .button-1-video {
+        width: 75px;
+      }
+
+      .button-2-video {
+        width: 75px;
+      }
+
+      .video-container {
+        position: relative;
+        width: 100%;
+        height: 1150px;
+        overflow: hidden;
+        border: none;
+      }
+
+      .div-bottom-of-video-container {
+        margin-top: 1050px;
+      }
+  }
+
+
+  @media (min-width: 2200px) {
+    .overlay-text {
+        font-size: 240px;
+    }
+
+    .button-rent-action-video {
+        font-family: playfair display;
+        font-weight: 400;
+        color: white;
+        font-size: 25px;
+        border: none;
+        padding: 27px 50px;
+        border-radius: 50px;
+        font-weight: 500;
+        border: 1px white solid;
+        background: none;;
+        margin-right: 20px;
+      }
+
+      .full-scrteen-button-icomn {
+        width: 100px;
+      }
+
+      .button-1-video {
+        width: 90px;
+      }
+
+      .button-2-video {
+        width: 90px;
+      }
+
+      .video-container {
+        position: relative;
+        width: 100%;
+        height: 1200px;
+        overflow: hidden;
+        border: none;
+      }
+
+      .div-bottom-of-video-container {
+        margin-top: 1050px;
+      }
+  }
+
+
+
+  /* Fullscreen overlay */
+.fullscreen-video {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: black;
+    z-index: 9999;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+  
+  .fullscreen-video video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  /* Sulkupainike */
+  .close-fullscreen {
+    position: absolute;
+    top: 40px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: transparent;
+    border: 2px solid white;
+    border-radius: 50%;
+    color: white;
+    font-size: 20px;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    z-index: 10000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: playfair display;
+    font-weight: 100;
+  }
+
+
+  .prev-video {
+    cursor: pointer;
+  }
+
+  .next-video {
+    cursor: pointer;
+  }
+
+  .open-fullscreen {
+    cursor: pointer;
+  }
+
+  .div-how-it-works-section {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .how-it-works-heading {
+    font-size: 13px;
+    font-family: playfair display;
+    font-weight: 400;
+    margin-left: 15px;
+  }
+
+  .how-it-works-para {
+    font-size: 7px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    text-align: right;
+    width: 170px;
+    margin-right: 15px;
+  }
+
+  .div-how-it-works-section {
+    margin-top: 15px;
+  }
+
+
+
+
+
+  .steps-container {
+    display: flex;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+  }
+  
+  .step {
+    flex: 1;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    transition: flex 0.6s ease;
+    cursor: pointer;
+    overflow: hidden;
+  }
+  
+  .step[data-step="1"] {
+    background-image: url('images/image.png');
+    border-bottom: solid white 0.7px;
+  }
+  .step[data-step="2"] {
+    background-image: url('images/image2.png');
+    border-bottom: solid white 0.7px;
+  }
+  .step[data-step="3"] {
+    background-image: url('images/tempImage0vgcJP.png');
+    border-bottom: solid white 0.7px;
+  }
+  .step[data-step="4"] {
+    background-image: url('images/image3.png');
+    
+  }
+  
+  .step.active {
+    flex: 3;
+  }
+  
+  .overlay {
+    position: absolute;
+    inset: 0;
+    color: white;
+    background: rgba(0,0,0,0.1);
+    display: block;
+    align-items: center;
+    padding: 40px 20px;
+    text-align: center;
+    transition: background 0.4s;
+  }
+  
+  .step.active .overlay {
+    background: rgba(0,0,0,0.3);
+  }
+  
+  .arrow {
+    font-size: 20px;
+    margin-bottom: 10px;
+    transform: rotate(180deg); /* Nuoli ylöspäin */
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  
+  .step.active .arrow {
+    opacity: 1;
+  }
+  
+  .description {
+    opacity: 0;
+    max-height: 0;
+    transition: all 0.3s ease;
+    font-size: 0.9rem;
+  }
+  
+  .step.active .description {
+    opacity: 1;
+    max-height: 200px;
+    margin-top: 10px;
+  }
+
+  .steps-container {
+    display: block;
+    margin-top: 20px;
+  }
+
+  .step {
+    width: 100%;
+    height: 200px;
+    transition: 0.4s;
+  }
+
+  .step.active {
+    width: 100%;
+    height: 350px;
+  }
+
+  .description {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .slogan-name-step {
+    font-family: playfair display;
+    font-weight: 400;
+  }
+
+  .slogan-name-step-heading {
+    font-family: playfair display;
+    font-weight: 400;
+  }
+
+  @media (min-width: 400px) {
+    .how-it-works-heading {
+        font-size: 15px;
+    }
+
+    .how-it-works-para {
+        font-size: 9px;
+        width: 230px;
+    }
+  }
+
+  @media (min-width: 600px) {
+    .how-it-works-heading {
+        font-size: 20px;
+    }
+
+    .how-it-works-para {
+        font-size: 11px;
+        width: 350px;
+    }
+  }
+
+  
+  @media (min-width: 800px) {
+    .how-it-works-heading {
+        font-size: 25px;
+    }
+
+    .how-it-works-para {
+        font-size: 15px;
+        width: 450px;
+    }
+
+    .div-how-it-works-section {
+        margin-top: 50px;
+        margin-bottom: 40px;
+    }
+
+    .step {
+        width: 100%;
+        height: 350px;
+        transition: 0.4s;
+      }
+    
+      .step.active {
+        width: 100%;
+        height: 500px;
+      }
+
+
+      .description {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15px;
+      }
+    
+      .slogan-name-step {
+        font-family: playfair display;
+        font-weight: 400;
+        font-size: 20px;
+      }
+    
+      .slogan-name-step-heading {
+        font-family: playfair display;
+        font-weight: 400;
+        font-size: 25px;
+      }
+  }
+
+
+
+
+
+
+  @media (min-width: 1000px) {
+    .how-it-works-heading {
+        font-size: 30px;
+        margin-left: 50px;
+    }
+
+    .how-it-works-para {
+        font-size: 17px;
+        width: 550px;
+        margin-right: 50px;
+    }
+
+    .div-how-it-works-section {
+        margin-top: 50px;
+        margin-bottom: 40px;
+    }
+
+    .step {
+        width: 100%;
+        height: 700px;
+        transition: 0.4s;
+      }
+    
+      .step.active {
+        width: 100%;
+        height: 700px;
+      }
+
+
+      .description {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15px;
+      }
+    
+      .slogan-name-step {
+        font-family: playfair display;
+        font-weight: 400;
+        font-size: 20px;
+        margin-bottom: 450px;
+      }
+    
+      .slogan-name-step-heading {
+        font-family: playfair display;
+        font-weight: 400;
+        font-size: 25px;
+      }
+
+      .steps-container {
+        display: flex;
+        justify-content: baseline;
+      }
+
+
+
+      .step[data-step="1"] {
+        background-image: url('images/image.png');
+        border-right: solid white 1px;
+      }
+      .step[data-step="2"] {
+        background-image: url('images/image2.png');
+        border-right: solid white 1px;
+      }
+      .step[data-step="3"] {
+        background-image: url('images/tempImage0vgcJP.png');
+        border-bottom: none;
+      }
+      .step[data-step="4"] {
+        background-image: url('images/image3.png');
+        border-left: solid white 1px;
+      }
+  }
+
+
+
+
+
+
+  @media (min-width: 1300px) {
+    .how-it-works-heading {
+        font-size: 30px;
+        margin-left: 50px;
+    }
+
+    .how-it-works-para {
+        font-size: 17px;
+        width: 550px;
+        margin-right: 50px;
+    }
+
+    .div-how-it-works-section {
+        margin-top: 50px;
+        margin-bottom: 40px;
+    }
+
+    .step {
+        width: 100%;
+        height: 1000px;
+        transition: 0.4s;
+      }
+    
+      .step.active {
+        width: 100%;
+        height: 1000px;
+      }
+
+
+      .description {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+      }
+    
+      .slogan-name-step {
+        font-family: playfair display;
+        font-weight: 400;
+        font-size: 25px;
+        margin-bottom: 690px;
+      }
+
+    
+    
+      .slogan-name-step-heading {
+        font-family: playfair display;
+        font-weight: 400;
+        font-size: 35px;
+        margin-bottom: 20px;
+      }
+
+      .steps-container {
+        display: flex;
+        justify-content: baseline;
+      }
+
+
+
+      .step[data-step="1"] {
+        background-image: url('images/image.png');
+        border-right: solid white 1px;
+      }
+      .step[data-step="2"] {
+        background-image: url('images/image2.png');
+        border-right: solid white 1px;
+      }
+      .step[data-step="3"] {
+        background-image: url('images/tempImage0vgcJP.png');
+        border-bottom: none;
+      }
+      .step[data-step="4"] {
+        background-image: url('images/image3.png');
+        border-left: solid white 1px;
+      }
+  }
+
+
+
+
+
+
+
+  @media (min-width: 2000px) {
+    .how-it-works-heading {
+        font-size: 60px;
+        margin-left: 50px;
+    }
+
+    .how-it-works-para {
+        font-size: 25px;
+        width: 750px;
+        margin-right: 50px;
+    }
+
+    .div-how-it-works-section {
+        margin-top: 50px;
+        margin-bottom: 40px;
+    }
+
+    .step {
+        width: 100%;
+        height: 1100px;
+        transition: 0.4s;
+      }
+    
+      .step.active {
+        width: 100%;
+        height: 1100px;
+      }
+
+
+      .description {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 30px;
+      }
+    
+      .slogan-name-step {
+        font-family: playfair display;
+        font-weight: 400;
+        font-size: 35px;
+        margin-bottom: 690px;
+      }
+
+    
+    
+      .slogan-name-step-heading {
+        font-family: playfair display;
+        font-weight: 400;
+        font-size: 40px;
+        margin-bottom: 20px;
+      }
+
+      .steps-container {
+        display: flex;
+        justify-content: baseline;
+      }
+
+
+
+      .step[data-step="1"] {
+        background-image: url('images/image.png');
+        border-right: solid white 1px;
+      }
+      .step[data-step="2"] {
+        background-image: url('images/image2.png');
+        border-right: solid white 1px;
+      }
+      .step[data-step="3"] {
+        background-image: url('images/tempImage0vgcJP.png');
+        border-bottom: none;
+      }
+      .step[data-step="4"] {
+        background-image: url('images/image3.png');
+        border-left: solid white 1px;
+      }
+  }
+
+
+  .arrow-promo-above {
+    width: 20px;
+  }
+
+  .div-above-section-heading-arrow {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .div-below-section-buton-text {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .heading-promo {
+    font-size: 15px;
+    width: 200px;
+    margin-top: 15px;
+    margin-left: 15px;
+    font-family: playfair display;
+    font-weight: 400;
+  }
+
+  .arrow-promo-above {
+    margin-top: 15px;
+    margin-right: 15px;
+  }
+
+  .div-below-section-buton-text {
+    margin-top: 30px;
+  }
+
+  .button-romo-action {
+    margin-left: 15px;
+    font-family: playfair display;
+    font-weight: 400;
+    color: black;
+    font-size: 10px;
+    border: none;
+    padding: 7px 17px;
+    border-radius: 30px;
+    font-weight: 500;
+    border: 0.5px black solid;
+    background: none;;
+    margin-right: 20px;
+  }
+
+  .text-promo-below {
+    font-size: 8px;
+    text-align: right;
+    width: 170px;
+    margin-right: 15px;
+  }
+
+  .div-line-separating-action-why-us {
+    width: 100%;
+    height: 1px;
+    background-color: black;
+    margin-top: 20px;
+  }
+
+  .the-img-of-left-section {
+    width: 300px;
+  }
+
+  .div-the-img-right-side-below {
+    width: 300px;
+  }
+
+  .div-the-left-section {
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+
+  .div-the-right-section-below {
+    margin-top: 50px;
+    margin-left: 10px;
+  }
+
+.div-the-heading-of-right-section {
+    display: flex;
+    justify-content: baseline;
+    display: none;
+  }
+
+  .the-image-before-right-heading {
+    width: 30px;
+  }
+
+  .div-img-arroe-why-us {
+    margin-top: 10px;
+    margin-right: 15px;
+  }
+
+  .div-the-heading-of-right-section2 {
+    display: flex;
+    justify-content: baseline;
+    margin-bottom: 20px;
+  }
+
+  .div-img-arroe-why-us2 {
+    display: none;
+  }
+
+  .the-text-of-left-section {
+    font-size: 10px;
+    width: 280px;
+    text-align: center;
+  }
+
+
+.div-the-whole-end-jne {
+    display: flex;
+    justify-content: center;
+}
+
+
+.text-promo-below {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.the-img-right-side-below {
+    width: 300px;
+  }
+
+
+
+@media (min-width: 550px)  {
+    .the-img-of-left-section {
+        width: 400px;
+      }
+
+      .div-the-img-right-side-below {
+        width: 400px;
+      }
+
+      .the-text-of-left-section {
+        font-size: 15px;
+        width: 380px;
+        text-align: left;
+      }
+
+      .text-promo-below {
+        font-size: 12px;
+        width: 300px;
+      }
+
+      .button-romo-action {
+        font-size: 15px;
+        padding: 11px 30px;
+      }
+
+      .heading-promo {
+        font-size: 25px;
+        width: 350px;
+      }
+
+      .arrow-promo-above {
+        width: 30px;
+      }
+
+      .the-img-right-side-below {
+        width: 400px;
+      }
+    
+}
+
+@media (min-width: 700px)  {
+    .the-img-of-left-section {
+        width: 90%;
+      }
+
+      .div-the-img-right-side-below {
+        width: 101%;
+      }
+
+      .the-text-of-left-section {
+        font-size: 15px;
+        width: 380px;
+        text-align: left;
+      }
+
+      .the-img-right-side-below {
+        width: 101%;
+      }
+
+      .text-promo-below {
+        font-size: 12px;
+        width: 300px;
+      }
+
+      .button-romo-action {
+        font-size: 15px;
+        padding: 11px 30px;
+      }
+
+      .heading-promo {
+        font-size: 25px;
+        width: 350px;
+      }
+
+      .arrow-promo-above {
+        width: 30px;
+      }
+
+      .div-the-whole-why-us-section-right-and-left {
+        display: flex;
+        width: 100%;
+      }
+
+      .the-heading-of-right-section {
+        display: none;
+      }
+
+      .div-the-heading-of-right-section {
+        display: flex;
+      }
+
+      .the-heading-of-right-section {
+        display: flex;
+        font-family: playfair display;
+        font-weight: 400;
+      }
+
+      .div-the-heading-of-right-section2 {
+        display: none;
+      }
+
+
+      .div-the-right-section-below {
+
+        margin: 0;
+      }
+
+      .the-text-of-left-section {
+        font-size: 10px;
+        width: 80%;
+      }
+
+      .div-the-left-section {
+        margin-left: 35px;
+        margin-top: 40px;
+      }
+
+
+      .div-the-right-section-below {
+        margin-bottom: 40px;
+        margin-right: 28px;
+      }
+
+      .div-the-heading-of-right-section {
+        margin-top: 40px;
+        display: flex;
+        justify-content: right;
+        margin-bottom: 60px;
+      }
+
+      .the-text-of-left-section {
+        margin-top: 5px;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+}
+
+@media (min-width: 1150px) {
+    .the-text-of-left-section {
+        font-size: 15px;
+        width: 500px;
+    }
+
+    .the-img-of-left-section {
+        width: 90%;
+      }
+
+      .div-the-img-right-side-below {
+        width: 101%;
+      }
+
+
+      .the-img-right-side-below {
+        width: 101%;
+      }
+
+      .the-heading-of-right-section {
+        font-size: 50px;
+      }
+
+      .the-image-before-right-heading {
+        margin-top: 15px;
+        width: 50px;
+      }
+      .heading-promo {
+        font-size: 40px;
+        margin-left: 40px;
+        margin-top: 40px;
+        width: 500px;
+      }
+
+      .button-romo-action {
+        font-size: 25px;
+        padding: 18px 40px;
+        border-radius: 40px;
+        margin-left: 40px;
+        border: 1px solid black;
+      }
+
+      .text-promo-below {
+        font-size: 18px;
+        width: 600px;
+        margin-right: 40px;
+      }
+
+      .arrow-promo-above {
+        margin-top: 40px;
+        margin-right: 40px;
+        width: 50px;
+      }
+}
+
+
+@media (min-width: 1500px) {
+    .the-text-of-left-section {
+        font-size: 20px;
+        width: 600px;
+        margin-top: 80px;
+    }
+
+    .the-img-of-left-section {
+        width: 90%;
+      }
+
+      .div-the-img-right-side-below {
+        width: 101%;
+      }
+
+
+      .the-img-right-side-below {
+        width: 101%;
+      }
+
+      .the-heading-of-right-section {
+        font-size: 70px;
+        
+      }
+
+      .div-the-heading-of-right-section {
+        margin-bottom: 150px;
+      }
+
+      .the-image-before-right-heading {
+        margin-top: 15px;
+        width: 50px;
+      }
+      .heading-promo {
+        font-size: 40px;
+        margin-left: 40px;
+        margin-top: 40px;
+        width: 500px;
+      }
+
+      .button-romo-action {
+        font-size: 25px;
+        padding: 18px 40px;
+        border-radius: 40px;
+        margin-left: 40px;
+        border: 1px solid black;
+      }
+
+      .text-promo-below {
+        font-size: 18px;
+        width: 600px;
+        margin-right: 40px;
+      }
+
+      .arrow-promo-above {
+        margin-top: 40px;
+        margin-right: 40px;
+        width: 60px;
+      }
+}
+
+
+
+@media (min-width: 2000px) {
+    .the-text-of-left-section {
+        font-size: 25px;
+        width: 800px;
+        margin-top: 100px;
+    }
+
+    .the-img-of-left-section {
+        width: 90%;
+      }
+
+      .div-the-img-right-side-below {
+        width: 101%;
+      }
+
+
+      .the-img-right-side-below {
+        width: 101%;
+      }
+
+      .the-heading-of-right-section {
+        font-size: 100px;
+        
+      }
+
+      .div-the-heading-of-right-section {
+        margin-bottom: 200px;
+      }
+
+      .the-image-before-right-heading {
+        margin-top: 35px;
+        width: 100px;
+      }
+      .heading-promo {
+        font-size: 80px;
+        margin-left: 40px;
+        margin-top: 40px;
+        width: 900px;
+      }
+
+      .button-romo-action {
+        font-size: 40px;
+        padding: 30px 80px;
+        border-radius: 70px;
+        margin-left: 40px;
+        border: 1.5px solid black;
+      }
+
+      .text-promo-below {
+        font-size: 30px;
+        width: 900px;
+        margin-right: 40px;
+      }
+
+      .arrow-promo-above {
+        margin-top: 40px;
+        margin-right: 40px;
+        width: 50px;
+      }
+}
+
+
+
+
+
+
+
+
+
+
+/* footer */
+
+.div-line-1 {
+    background-color: white;
+    width: 100%;
+    height: 0.5px;
+    margin-top: 50px;
+}
+
+.brand-name-big-footer {
+    color: white;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 52px;
+    margin: 0;
+    margin-top: 10px;
+}
+
+.div-brand-name-big-footer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.div-slogan-text-footer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+
+.slogan-text-footer {
+    text-align: center;
+    color: white;
+    font-size: 9px;
+    font-family: cactus classical serif;
+    font-weight: 300;
+    margin: 0;
+    margin-top: 5px;
+}
+
+.div-line-2 {
+    background-color: white;
+    width: 100%;
+    height: 0.5px;
+    margin-top: 15px;
+}
+
+.contact-info-footer {
+    color: white;
+    font-size: 20px;
+    font-family: cactus classical serif;
+    font-weight: 300;
+    margin: 0;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.contact-info-footer2 {
+    color: white;
+    font-size: 13px;
+    font-family: cactus classical serif;
+    font-weight: 300;
+    margin: 0;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.div-phone-numbers-footer {
+    width: 100%;
+    display: flex;
+
+}
+
+.contact-info-footer22 {
+    color: white;
+    font-size: 13px;
+    font-family: cactus classical serif;
+    font-weight: 300;
+    margin: 0;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.contact-info-footer222 {
+    color: white;
+    font-size: 13px;
+    font-family: cactus classical serif;
+    font-weight: 300;
+    margin: 0;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+.contact-info-footer2222 {
+    color: white;
+    font-size: 13px;
+    font-family: cactus classical serif;
+    font-weight: 300;
+    margin: 0;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+.div-phone-numbers-footer1 {
+    width: 100%;
+    display: flex;
+    
+}
+
+.div-buttons-social {
+    width: 100%;
+    display: flex;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.img1-social {
+    width: 40px;
+    margin-right: 10px;
+}
+
+.img2-social {
+    width: 40px;
+}
+
+.img-logo-footer {
+    width: 80px;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+.div-pages-paragraph-footer {
+    display: flex;
+    color: white;
+    font-family: cactus classical serif;
+    font-weight: 300;
+    font-size: 12px;
+    margin-top: 45px;
+}
+
+.pages-paragraph-footer {
+    margin-right: 15px;
+    text-decoration: underline;
+}
+
+.div-pages-and-end-logo {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+@media  (min-width: 450px) {
+    .brand-name-big-footer {
+        font-size: 75px;
+    }
+
+    .slogan-text-footer {
+        font-size: 13px;
+    }
+    .contact-info-footer {
+        font-size: 25px;
+        margin-top: 40px;
+    }
+
+    .contact-info-footer2 {
+        font-size: 17px;
+    }
+    .contact-info-footer22 {
+        font-size: 17px;
+    }
+    .contact-info-footer222 {
+        font-size: 17px;
+        
+    }
+
+    .contact-info-footer2222 {
+        font-size: 17px;
+    }
+
+    .img1-social {
+        width: 50px;
+    }
+
+    .img2-social {
+        width: 50px;
+    }
+
+    .img-logo-footer {
+        width: 100px;
+        margin-top: 80px;
+    }
+
+    .div-pages-paragraph-footer {
+        margin-top: 85px;
+        font-size: 15px;
+    }
+
+    .pages-paragraph-footer {
+        margin-right: 30px;
+    }
+}
+
+
+
+
+
+@media  (min-width: 600px) {
+    .brand-name-big-footer {
+        font-size: 95px;
+    }
+
+    .slogan-text-footer {
+        font-size: 13px;
+    }
+    .contact-info-footer {
+        font-size: 25px;
+        margin-top: 40px;
+    }
+
+    .contact-info-footer2 {
+        font-size: 17px;
+    }
+    .contact-info-footer22 {
+        font-size: 17px;
+    }
+    .contact-info-footer222 {
+        font-size: 17px;
+        
+    }
+
+    .contact-info-footer2222 {
+        font-size: 17px;
+    }
+
+    .img1-social {
+        width: 50px;
+    }
+
+    .img2-social {
+        width: 50px;
+    }
+
+    .img-logo-footer {
+        width: 100px;
+        margin-top: 80px;
+    }
+
+    .div-pages-paragraph-footer {
+        margin-top: 85px;
+        font-size: 18px;
+    }
+
+    .pages-paragraph-footer {
+        margin-right: 30px;
+    }
+}
+
+
+.div-whole-footer-div {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+.email-adress-footer-input {
+    display: flex;
+    justify-content: baseline;
+    margin-top: 83px;
+    margin-right: 40px;
+}
+
+input-email-adress::placeholder {
+    font-size: 20px;
+    font-family: cactus classical serif;
+    font-weight: 500;
+    color: hsla(0, 0%, 100%, 0.700);
+    margin: 0;
+}
+
+input[type=text] {
+    border-bottom: white solid 1px;
+    background: none;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    padding-left: 0;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    font-family: cactus classical serif;
+    margin: 0;
+    font-size: 20px;
+  }
+
+
+  input[type=text]:focus {
+    outline: none;
+    border-bottom: white solid 1px;
+    background: none;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    padding-left: 0;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    font-family: cactus classical serif;
+    margin: 0;
+    color: white;
+  }
+
+
+  .email-adress-submit-button {
+    font-family: cactus classical serif;
+    margin: 0;
+  }
+
+  .button-email-arrow-footer {
+    background: none;
+    border-radius: 0;
+    border: none;
+    border-bottom: white solid 1px;
+    font-family: cactus classical serif;
+    font-weight: 500;
+    font-size: 20px;
+    font-family: cactus classical serif;
+    margin: 0;
+    color: white;
+  }
+
+
+  .paragraph-after-input-text {
+    color: white;
+    font-family: cactus classical serif;
+    font-size: 13px;
+    font-weight: 200;
+  }
+
+
+/* .email-adress-footer-input {
+    width: 10px;
+    height: 50px;
+    font-family: cactus classical serif;
+    display: flex;
+    justify-content: baseline;
+}
+
+.input-email-adress::placeholder {
+    font-size: 27px;
+    letter-spacing: -0.5px;
+    font-family: inter, Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    color: hsla(0, 0%, 100%, 0.700);
+    margin: 0;
+    font-family: cactus classical serif;
+}
+
+input[type=text] {
+    border-bottom: white solid 2px;
+    background: none;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    padding-top: 13px;
+    padding-left: 0;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    font-family: cactus classical serif;
+    margin: 0;
+  }
+
+  input[type=text]:focus {
+    outline: none;
+    border-bottom: white solid 2px;
+    background: none;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    padding-top: 13px;
+    padding-left: 0;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    font-family: cactus classical serif;
+    margin: 0;
+  }
+
+  .input-email-adress {
+    width: 10px;
+    margin: 0;
+    font-size: 27px;
+    letter-spacing: -0.5px;
+    font-family: cactus classical serif;
+    font-weight: 500;
+    color: hsl(0, 0%, 100%);
+    font-family: cactus classical serif;
+    margin: 0;
+  }
+
+  .email-adress-submit-button {
+    margin-top: 2px;
+    font-family: cactus classical serif;
+    margin: 0;
+  }
+
+
+  .button-email-arrow-footer {
+    background: none;
+    border-radius: 0;
+    border: none;
+    border-bottom: white solid 2px;
+    font-family: cactus classical serif;
+    font-weight: 500;
+    font-size: 35px;
+    font-family: cactus classical serif;
+    margin: 0;
+  }
+  
+
+.about-submitting-email-footer-p {
+    font-size: 15px;
+    font-family: cactus classical serif;
+    letter-spacing: -0.5px;
+    margin: 0;
+    margin-left: 40px;
+    margin-top: 2px;
+    font-family: cactus classical serif;
+    margin: 0;
+}
+
+.rigth-section-footer-div {
+    width: 50%;
+    margin-top: 40px;
+    font-family: cactus classical serif;
+    margin: 0;
+}
+
+.rigth-section-footer-div-top1 {
+    display: flex;
+    justify-content: baseline;
+    width: 100%;
+    font-family: cactus classical serif;
+    margin: 0;
+}
+
+.button-email-arrow-footer {
+    color: white;
+    font-family: cactus classical serif;
+    margin: 0;
+} */
+
+
+
+
+
+
+
+
+
+
+
+@media  (min-width: 700px) {
+    .brand-name-big-footer {
+        font-size: 115px;
+    }
+
+    .slogan-text-footer {
+        font-size: 15px;
+    }
+    .contact-info-footer {
+        font-size: 26px;
+        margin-top: 45px;
+    }
+
+    .contact-info-footer2 {
+        font-size: 18px;
+    }
+    .contact-info-footer22 {
+        font-size: 18px;
+    }
+    .contact-info-footer222 {
+        font-size: 18px;
+        
+    }
+
+    .contact-info-footer2222 {
+        font-size: 18px;
+    }
+
+    .img1-social {
+        width: 55px;
+    }
+
+    .img2-social {
+        width: 55px;
+    }
+
+    .img-logo-footer {
+        width: 130px;
+        margin-top: 80px;
+    }
+
+    .div-pages-paragraph-footer {
+        margin-top: 90px;
+        font-size: 19px;
+    }
+
+    .pages-paragraph-footer {
+        margin-right: 30px;
+    }
+
+    .button-email-arrow-footer {
+        background: none;
+        border-radius: 0;
+        border: none;
+        border-bottom: white solid 1px;
+        font-family: cactus classical serif;
+        font-weight: 500;
+        font-size: 25px;
+        font-family: cactus classical serif;
+        margin: 0;
+        color: white;
+      }
+
+      input[type=text] {
+        border-bottom: white solid 1px;
+        background: none;
+        border-top: 0;
+        border-left: 0;
+        border-right: 0;
+        padding-left: 0;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+        font-family: cactus classical serif;
+        margin: 0;
+        font-size: 25px;
+      }
+
+      .paragraph-after-input-text {
+        color: white;
+        font-family: cactus classical serif;
+        font-size: 15px;
+        font-weight: 200;
+      }
+}
+
+
+
+
+
+
+@media  (min-width: 900px) {
+    .brand-name-big-footer {
+        font-size: 145px;
+    }
+
+    .slogan-text-footer {
+        font-size: 18px;
+    }
+    .contact-info-footer {
+        font-size: 28px;
+        margin-top: 50px;
+    }
+
+    .contact-info-footer2 {
+        font-size: 19px;
+    }
+    .contact-info-footer22 {
+        font-size: 19px;
+    }
+    .contact-info-footer222 {
+        font-size: 19px;
+        
+    }
+
+    .contact-info-footer2222 {
+        font-size: 19px;
+    }
+
+    .img1-social {
+        width: 55px;
+    }
+
+    .img2-social {
+        width: 55px;
+    }
+
+    .img-logo-footer {
+        width: 130px;
+        margin-top: 110px;
+    }
+
+    .div-pages-paragraph-footer {
+        margin-top: 90px;
+        font-size: 23px;
+    }
+
+    .pages-paragraph-footer {
+        margin-right: 70px;
+    }
+
+    .button-email-arrow-footer {
+        background: none;
+        border-radius: 0;
+        border: none;
+        border-bottom: white solid 1px;
+        font-family: cactus classical serif;
+        font-weight: 500;
+        font-size: 35px;
+        font-family: cactus classical serif;
+        margin: 0;
+        color: white;
+      }
+
+      input[type=text] {
+        border-bottom: white solid 1px;
+        background: none;
+        border-top: 0;
+        border-left: 0;
+        border-right: 0;
+        padding-left: 0;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+        font-family: cactus classical serif;
+        margin: 0;
+        font-size: 35px;
+      }
+
+      .paragraph-after-input-text {
+        color: white;
+        font-family: cactus classical serif;
+        font-size: 20px;
+        font-weight: 200;
+      }
+}
+
+
+
+
+
+
+
+@media  (min-width: 1200px) {
+    .brand-name-big-footer {
+        font-size: 190px;
+    }
+
+    .slogan-text-footer {
+        font-size: 25px;
+    }
+    .contact-info-footer {
+        font-size: 30px;
+        margin-top: 60px;
+        margin-left: 50px;
+    }
+
+    .contact-info-footer2 {
+        font-size: 20px;
+        margin-left: 50px;
+    }
+    .contact-info-footer22 {
+        font-size: 20px;
+        margin-left: 50px;
+    }
+    .contact-info-footer222 {
+        font-size: 20px;
+        margin-left: 50px;
+        
+    }
+
+    .contact-info-footer2222 {
+        font-size: 20px;
+        margin-left: 50px;
+    }
+
+    .img1-social {
+        width: 60px;
+        margin-left: 30px;
+        margin-top: 10px;
+    }
+
+    .img2-social {
+        width: 60px;
+        margin-top: 10px;
+    }
+
+    .img-logo-footer {
+        width: 150px;
+        margin-top: 110px;
+        margin-left: 50px;
+    }
+
+    .div-pages-paragraph-footer {
+        margin-top: 100px;
+        font-size: 25px;
+    }
+
+    .pages-paragraph-footer {
+        margin-right: 80px;
+    }
+
+    .button-email-arrow-footer {
+        background: none;
+        border-radius: 0;
+        border: none;
+        border-bottom: white solid 1px;
+        font-family: cactus classical serif;
+        font-weight: 500;
+        font-size: 50px;
+        font-family: cactus classical serif;
+        margin: 0;
+        color: white;
+      }
+
+      input[type=text] {
+        border-bottom: white solid 1px;
+        background: none;
+        border-top: 0;
+        border-left: 0;
+        border-right: 0;
+        padding-left: 0;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+        font-family: cactus classical serif;
+        margin: 0;
+        font-size: 50px;
+      }
+
+      .paragraph-after-input-text {
+        color: white;
+        font-family: cactus classical serif;
+        font-size: 20px;
+        font-weight: 200;
+      }
+
+    }
+
+
+
+    @media  (min-width: 1700px) {
+        .brand-name-big-footer {
+            font-size: 230px;
+        }
+    
+        .slogan-text-footer {
+            font-size: 45px;
+        }
+        .contact-info-footer {
+            font-size: 50px;
+            margin-top: 60px;
+            margin-left: 50px;
+        }
+    
+        .contact-info-footer2 {
+            font-size: 30px;
+            margin-left: 50px;
+        }
+        .contact-info-footer22 {
+            font-size: 30px;
+            margin-left: 50px;
+        }
+        .contact-info-footer222 {
+            font-size: 30px;
+            margin-left: 50px;
+            
+        }
+    
+        .contact-info-footer2222 {
+            font-size: 30px;
+            margin-left: 50px;
+        }
+    
+        .img1-social {
+            width: 70px;
+            margin-left: 30px;
+            margin-top: 15px;
+        }
+    
+        .img2-social {
+            width: 70px;
+            margin-top: 15px;
+        }
+    
+        .img-logo-footer {
+            width: 170px;
+            margin-top: 110px;
+            margin-left: 50px;
+        }
+    
+        .div-pages-paragraph-footer {
+            margin-top: 100px;
+            font-size: 35px;
+        }
+    
+        .pages-paragraph-footer {
+            margin-right: 80px;
+        }
+    
+        .button-email-arrow-footer {
+            background: none;
+            border-radius: 0;
+            border: none;
+            border-bottom: white solid 1px;
+            font-family: cactus classical serif;
+            font-weight: 500;
+            font-size: 70px;
+            font-family: cactus classical serif;
+            margin: 0;
+            color: white;
+          }
+    
+          input[type=text] {
+            border-bottom: white solid 1px;
+            background: none;
+            border-top: 0;
+            border-left: 0;
+            border-right: 0;
+            padding-left: 0;
+            background-repeat: no-repeat;
+            box-sizing: border-box;
+            font-family: cactus classical serif;
+            margin: 0;
+            font-size: 70px;
+          }
+    
+          .paragraph-after-input-text {
+            color: white;
+            font-family: cactus classical serif;
+            font-size: 20px;
+            font-weight: 200;
+          }
+    
+        }
+
+
+
+
+        @media  (min-width: 2100px) {
+            .brand-name-big-footer {
+                font-size: 290px;
+            }
+        
+            .slogan-text-footer {
+                font-size: 45px;
+            }
+            .contact-info-footer {
+                font-size: 60px;
+                margin-top: 60px;
+                margin-left: 50px;
+            }
+        
+            .contact-info-footer2 {
+                font-size: 40px;
+                margin-left: 50px;
+            }
+            .contact-info-footer22 {
+                font-size: 40px;
+                margin-left: 50px;
+            }
+            .contact-info-footer222 {
+                font-size: 40px;
+                margin-left: 50px;
+                
+            }
+        
+            .contact-info-footer2222 {
+                font-size: 40px;
+                margin-left: 50px;
+            }
+        
+            .img1-social {
+                width: 85px;
+                margin-left: 30px;
+                margin-top: 15px;
+            }
+        
+            .img2-social {
+                width: 85px;
+                margin-top: 15px;
+            }
+        
+            .img-logo-footer {
+                width: 230px;
+                margin-top: 110px;
+                margin-left: 50px;
+            }
+        
+            .div-pages-paragraph-footer {
+                margin-top: 100px;
+                font-size: 45px;
+            }
+        
+            .pages-paragraph-footer {
+                margin-right: 80px;
+            }
+        
+            .button-email-arrow-footer {
+                background: none;
+                border-radius: 0;
+                border: none;
+                border-bottom: white solid 1px;
+                font-family: cactus classical serif;
+                font-weight: 500;
+                font-size: 90px;
+                font-family: cactus classical serif;
+                margin: 0;
+                color: white;
+              }
+        
+              input[type=text] {
+                border-bottom: white solid 1px;
+                background: none;
+                border-top: 0;
+                border-left: 0;
+                border-right: 0;
+                padding-left: 0;
+                background-repeat: no-repeat;
+                box-sizing: border-box;
+                font-family: cactus classical serif;
+                margin: 0;
+                font-size: 90px;
+              }
+        
+              .paragraph-after-input-text {
+                color: white;
+                font-family: cactus classical serif;
+                font-size: 35px;
+                font-weight: 200;
+              }
+        
+            }
+
+
+
+
+
+
+
+            @media  (min-width: 2560px) {
+                .brand-name-big-footer {
+                    font-size: 390px;
+                }
+            
+                .slogan-text-footer {
+                    font-size: 65px;
+                }
+                .contact-info-footer {
+                    font-size: 80px;
+                    margin-top: 60px;
+                    margin-left: 50px;
+                }
+            
+                .contact-info-footer2 {
+                    font-size: 60px;
+                    margin-left: 50px;
+                }
+                .contact-info-footer22 {
+                    font-size: 60px;
+                    margin-left: 50px;
+                }
+                .contact-info-footer222 {
+                    font-size: 60px;
+                    margin-left: 50px;
+                    
+                }
+            
+                .contact-info-footer2222 {
+                    font-size: 60px;
+                    margin-left: 50px;
+                }
+            
+                .img1-social {
+                    width: 95px;
+                    margin-left: 30px;
+                    margin-top: 15px;
+                }
+            
+                .img2-social {
+                    width: 95px;
+                    margin-top: 15px;
+                }
+            
+                .img-logo-footer {
+                    width: 290px;
+                    margin-top: 180px;
+                    margin-left: 50px;
+                }
+            
+                .div-pages-paragraph-footer {
+                    margin-top: 180px;
+                    font-size: 65px;
+                }
+            
+                .pages-paragraph-footer {
+                    margin-right: 80px;
+                }
+            
+                .button-email-arrow-footer {
+                    background: none;
+                    border-radius: 0;
+                    border: none;
+                    border-bottom: white solid 1px;
+                    font-family: cactus classical serif;
+                    font-weight: 500;
+                    font-size: 115px;
+                    font-family: cactus classical serif;
+                    margin: 0;
+                    color: white;
+                  }
+            
+                  input[type=text] {
+                    border-bottom: white solid 1px;
+                    background: none;
+                    border-top: 0;
+                    border-left: 0;
+                    border-right: 0;
+                    padding-left: 0;
+                    background-repeat: no-repeat;
+                    box-sizing: border-box;
+                    font-family: cactus classical serif;
+                    margin: 0;
+                    font-size: 115px;
+                  }
+            
+                  .paragraph-after-input-text {
+                    color: white;
+                    font-family: cactus classical serif;
+                    font-size: 55px;
+                    font-weight: 200;
+                  }
+            
+                }
+
+
+.button-book-visit:hover {
+    background-color: black;
+    border: black;
+    color: white;
+}
+
+.button-book-visit {
+    transition-duration: 0.5s;
+}
+
+
+
+
+
+
+
+.animated {
+    opacity: 0;
+    transition: all 0.7s ease-out;
+}
+
+.from-right {
+    transform: translateX(100px);
+}
+
+.from-left {
+    transform: translateX(-100px);
+}
+
+.from-top {
+    transform: translateY(-50px);
+}
+
+.visible {
+    opacity: 1;
+    transform: translateX(0) translateY(0);
+}
+
+
+
+.div-backround-foote {
+    width: 100%;
+    background-color: #1a1a1a;
+}
+
+
+
+
+.div-the-whole-site {
+    width: 100%;
+    overflow: hidden;
+}

@@ -1,0 +1,2359 @@
+.img-logo-contact-page {
+    width: 80px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+body {
+    margin: 0;
+    background-color: #1E1E1E;
+    overflow-x: hidden;
+}
+
+.img-menu-icon {
+    width: 30px;
+    margin-top: 30px;
+    margin-right: 30px;
+}
+
+.navbar {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+}
+
+.div-divslogan-left-side {
+    display: none;
+}
+
+
+
+
+
+
+.div-footer-fotm-2 {
+    display: none;
+}
+
+.heading-div {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+   
+}
+
+.heading-paragraph-h1 {
+    color: white;
+    font-family:  cactus classical serif;
+    font-weight: 300;
+}
+
+
+
+.line-div {
+    border: solid 0.5px white;
+    width: 80%;
+}
+
+.div-div-line {
+    display: flex;
+    justify-content: center;
+}
+
+.div-callus {
+    width: 80%;
+    height: 90px;
+    border: solid 1px white;
+    border-radius: 7px;
+    display: flex;
+   align-items: center;
+   justify-content: space-between;
+   cursor: pointer;
+}
+
+.div-contact-info {
+    margin-top: 20px;
+}
+
+
+.callus-icon {
+    width: 45px;
+    margin-left: 15px;
+}
+
+.div-callus2 {
+    cursor: pointer;
+}
+
+
+.div-calus-number2 {
+    color: white;
+    font-family: helvetica;
+    font-size: 15px;
+}
+
+.div-calus-number22 {
+    color: white;
+    font-family: cactus classical serif;
+    font-size: 10px;
+    margin-right: 15px;
+    display: none;
+}
+
+
+.div-contact-info {
+    display: flex;
+    justify-content: center;
+}
+
+
+.div-calus-number29 {
+    color: white;
+    font-family: helvetica;
+    font-size: 15px;
+    margin-right: 40px;
+}
+
+
+.callus-icon4 {
+    width: 35px;
+    margin-left: 15px;
+}
+
+.text-paragraph-contact-about {
+    color: white;
+    font-family: helvetica;
+    font-size: 10px;
+    margin-top: 30px;
+    text-align: center;
+    width: 80%;
+}
+
+.main-div {
+    overflow: hidden;
+}
+
+html {
+    overflow-x: hidden;
+}
+
+.div-button-book-visit {
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    margin-top: 30px;
+}
+
+.button-book-visit {
+    border: 1px white solid;
+    background: none;
+    padding: 13px 27px;
+    border-radius: 30px;
+    color: white;
+    font-family:  cactus classical serif;
+    font-weight: 300;
+    font-size: 12px;
+}
+
+.div-paragraph-text {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.div-img2-nav-icom {
+    display: none;
+}
+
+.button-div-nav-bar {
+    display: none;
+}
+
+
+
+
+@media  (max-width: 320px) {
+    
+}
+
+
+.div-callus2 {
+    width: 80%;
+    height: 90px;
+    border: solid 1px white;
+    border-radius: 7px;
+    display: flex;
+   align-items: center;
+   justify-content: space-between;
+} 
+
+.div-contact-info2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+
+}
+
+
+@media  (min-width: 350px) {
+    .div-paragraph-text {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+
+   
+
+   
+
+    
+}
+
+
+
+
+
+@media  (min-width: 400px) {
+    .div-calus-number22 {
+        display: block;
+    }
+
+   
+
+   
+
+    
+}
+
+@media  (min-width: 450px) {
+    .text-paragraph-contact-about {
+        font-size: 13px;
+    }
+
+    .div-main-2-comtact-ways {
+        display: flex;
+        width: 80%;
+       
+    }
+
+    .div-main-div-for-dic-contact-ways {
+        display: flex;
+        justify-content: center;
+    }
+
+    .div-contact-info2 {
+        margin-top: 20px;
+    }
+
+    .div-calus-number29 {
+        margin: 0;
+    }
+
+    .div-main-2-comtact-ways {
+        display: flex;
+        justify-content: space-between;
+        width: 80%;
+    }
+
+    .div-callus2 {
+        width: 170px;
+    }
+
+    .div-calus-number29 {
+        margin-right: 20px;
+        text-align: right;
+    }
+
+    
+}
+
+@media  (min-width: 500px) {
+    .div-callus2 {
+        width: 195px;
+    }
+
+    .div-calus-number22 {
+        font-size: 13px;
+    }
+
+    .div-calus-number2 {
+        font-size: 17px;
+    }
+
+   
+}
+
+@media  (min-width: 600px) {
+    .div-callus2 {
+        width: 230px;
+    }
+
+    .div-footer-fotm-2 {
+        display: inline-block;
+    }
+
+    .div-calus-number22 {
+        font-size: 14px;
+    }
+
+    .div-calus-number2 {
+        font-size: 18px;
+    }
+
+    .div-txt-and-button-div {
+        display: flex;
+        justify-content: space-between;
+        width: 80%;
+    }
+
+    .text-paragraph-contact-about {
+        text-align: left;
+    }
+
+    .div-button-book-visit {
+        height: 40%;
+        width: 40%;
+        justify-content: right;
+        display: flex;
+        margin-top: 30px;
+    }
+
+    .main-div-button-and-text {
+        display: flex;
+        justify-content: center;
+    }
+
+    .div-paragraph-text {
+        display: flex;
+        justify-content: left;
+        width: 100%;
+    }
+
+    .img-logo-contact-page {
+        width: 100px;
+        margin-top: 30px;
+        margin-left: 40px;
+    }
+
+    .img-menu-icon {
+        width: 40px;
+        margin-top: 40px;
+        margin-right: 40px;
+    }
+}
+
+
+@media  (min-width: 650px) {
+    .div-callus2 {
+        width: 250px;
+    }
+
+    .div-calus-number22 {
+        font-size: 16px;
+    }
+
+    .div-calus-number2 {
+        font-size: 20px;
+    }
+
+    .callus-icon {
+        width: 50px;
+    }
+
+    .div-calus-number29 {
+        margin-right: 30px;
+        font-size: 17px;
+    }
+
+    .div-button-book-visit {
+        margin-top: 60px;
+    }
+
+    .div-footer-fotm-2 {
+        display: inline-block;
+    }
+}
+
+@media  (min-width: 700px) {
+    .div-callus2 {
+        width: 275px;
+    }
+
+    .div-calus-number22 {
+        font-size: 16px;
+    }
+
+    .div-calus-number2 {
+        font-size: 20px;
+    }
+
+    .callus-icon {
+        width: 50px;
+    }
+
+    .div-calus-number29 {
+        margin-right: 30px;
+        font-size: 17px;
+    }
+
+    .div-button-book-visit {
+        margin-top: 50px;
+    }
+}
+
+@media  (min-width: 800px) {
+    .div-callus2 {
+        width: 310px;
+    }
+
+    .div-calus-number22 {
+        font-size: 17px;
+    }
+
+    .div-calus-number2 {
+        font-size: 20px;
+    }
+
+    .callus-icon {
+        width: 55px;
+    }
+
+    .div-calus-number29 {
+        margin-right: 30px;
+        font-size: 19px;
+    }
+
+    .div-button-book-visit {
+        margin-top: 60px;
+    }
+
+    .text-paragraph-contact-about {
+        font-size: 15px;
+    }
+}
+
+.slogan-left-side5 {
+    display: none;
+}
+
+@media  (min-width: 900px) {
+    .div-divslogan-left-side {
+        display: block;
+        position: absolute;
+        z-index: 1;
+        width: 30px;
+        display: none;
+    }
+
+    .slogan-left-side {
+        transform: rotate(90deg);
+        margin: 0;
+        margin-top: 285px;
+        margin-right: 20px;
+        width: 120px;
+    }
+
+    .div-mainof-contact-info {
+        width: 100%;
+    }
+
+    .div-main-main-main-div {
+        display: flex;
+    }
+
+    
+
+
+
+
+
+
+    .div-divslogan-left-side3 {
+        display: flex;
+        justify-content: right;
+        height: 500px;
+        position: absolute;
+        z-index: 2;
+        width: 100%;
+        display: none;
+        
+    }
+
+    .slogan-left-side5 {
+        transform: rotate(-90deg);
+        width: 120px;
+        margin-top: 285px;
+    }
+    
+
+
+
+
+
+
+    .div-callus2 {
+        width: 353px;
+    }
+
+    .div-calus-number22 {
+        font-size: 17px;
+        margin-right: 30px;
+    }
+
+    .div-calus-number2 {
+        font-size: 21px;
+    }
+
+    .callus-icon {
+        width: 55px;
+    }
+
+    .div-calus-number29 {
+        margin-right: 30px;
+        font-size: 19px;
+    }
+
+    .div-button-book-visit {
+        margin-top: 60px;
+    }
+
+    .text-paragraph-contact-about {
+        font-size: 15px;
+    }
+    
+}
+
+@media  (min-width: 950px) {
+    .div-callus2 {
+        width: 373px;
+    }
+}
+
+
+@media  (min-width: 1050px) {
+    .div-divslogan-left-side {
+        display: block;
+        position: absolute;
+        z-index: 1;
+        width: 30px;
+       
+    }
+
+    .slogan-left-side {
+        transform: rotate(90deg);
+        margin: 0;
+        margin-top: 330px;
+        margin-right: 20px;
+        width: 120px;
+        color: white;
+        font-family:  cactus classical serif;
+        font-weight: 300;
+        font-size: 12px;
+    }
+
+    .div-mainof-contact-info {
+        width: 100%;
+    }
+
+    .div-main-main-main-div {
+        display: flex;
+    }
+
+    
+
+
+
+
+
+
+    .div-divslogan-left-side3 {
+        display: flex;
+        justify-content: right;
+        height: 500px;
+        position: absolute;
+        z-index: 2;
+        width: 100%;
+        
+    }
+
+    .slogan-left-side5 {
+        transform: rotate(-90deg);
+        width: 120px;
+        margin-top: 330px;
+        color: white;
+        font-family:  cactus classical serif;
+        font-weight: 300;
+        font-size: 12px;
+    }
+    
+
+
+
+
+
+
+    .div-callus2 {
+        width: 413px;
+    }
+
+    .div-calus-number22 {
+        font-size: 17px;
+        margin-right: 30px;
+    }
+
+    .div-calus-number2 {
+        font-size: 21px;
+    }
+
+    .callus-icon {
+        width: 55px;
+    }
+
+    .div-calus-number29 {
+        margin-right: 30px;
+        font-size: 19px;
+    }
+
+    .div-button-book-visit {
+        margin-top: 60px;
+    }
+
+    .text-paragraph-contact-about {
+        font-size: 15px;
+    }
+
+    .book-visit {
+       font-size: 90px;
+    }
+
+    .heading-paragraph-h1 {
+        font-size: 45px;
+    }
+
+    .classdiv-menu-img {
+        display: none;
+    }
+
+
+
+    .div-img2-nav-icom {
+        display: inline-block;
+    }
+
+    .button-div-nav-bar {
+        display: inline-block;
+    }
+
+
+    .nav-img-2-icon {
+        width: 210px;
+        margin-top: 43px;
+        margin-right: 5px;
+    }
+
+    .navbar {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 90px;
+    }
+
+    .nav-bar-button {
+        border: 1px white solid;
+        background: none;
+        padding: 14px 29px;
+        border-radius: 30px;
+        color: white;
+        font-family:  cactus classical serif;
+        font-weight: 300;
+        font-size: 13px;
+        margin-top: 37px;
+        margin-right: 40px;
+    }
+
+    .button-book-visit {
+        font-size: 14px;
+    }
+
+    .text-paragraph-contact-about {
+        font-size: 18px;
+    }
+
+    .main-div-button-and-text {
+        margin-top: 35px;
+    }
+}
+
+@media  (min-width: 1150px) {
+    .div-callus2 {
+        width: 453px;
+        height: 110px;
+    }
+
+    .div-callus {
+        height: 110px;
+    }
+
+
+    
+
+    .div-calus-number22 {
+        font-size: 19px;
+        margin-right: 30px;
+    }
+
+    .div-calus-number2 {
+        font-size: 25px;
+    }
+
+    .callus-icon {
+        width: 55px;
+    }
+
+    .div-calus-number29 {
+        margin-right: 30px;
+        font-size: 21px;
+    }
+
+    .div-button-book-visit {
+        margin-top: 60px;
+    }
+
+    .text-paragraph-contact-about {
+        font-size: 17px;
+    }
+
+    .book-visit {
+       font-size: 90px;
+    }
+
+    .heading-paragraph-h1 {
+        font-size: 45px;
+    }
+
+    .callus-icon {
+        width: 65px;
+    }
+
+    .callus-icon4 {
+        width: 40px;
+        margin-left: 20px;
+    }
+
+  
+
+    
+    
+}
+
+@media  (min-width: 1250px) {
+    .div-callus2 {
+        width: 493px;
+    }
+}
+
+
+@media  (min-width: 1338px) {
+    .div-callus2 {
+        width: 523px;
+    }
+
+    .text-paragraph-contact-about {
+        font-size: 20px;
+    }
+}
+
+@media  (min-width: 1450px) {
+    .div-callus2 {
+        width: 573px;
+    }
+
+    .nav-bar-button {
+        font-size: 17px;
+    }
+
+    .nav-img-2-icon {
+        width: 240px;
+    }
+
+    .img-logo-contact-page {
+        width: 140px;
+    }
+
+    .button-book-visit {
+        font-size: 18px;
+    }
+
+    .div-callus {
+        height: 130px;
+    }
+
+    .div-callus2 {
+        height: 130px;
+    }
+
+    .callus-icon4 {
+        width: 50px;
+    }
+
+    .callus-icon {
+        width: 70px;
+    }
+
+    .div-calus-number2 {
+        font-size: 29px;
+    }
+
+    .div-calus-number29 {
+        font-size: 25px;
+    }
+
+    .div-calus-number22 {
+        font-size: 23px;
+    }
+    .text-paragraph-contact-about {
+        font-size: 22px;
+    }
+
+    .slogan-left-side {
+        margin-top: 390px;
+        font-size: 16px;
+        width: 160px;
+    }
+
+    .slogan-left-side5 {
+        margin-top: 390px;
+        font-size: 16px;
+        width: 160px;
+    }
+}
+
+
+
+
+@media  (min-width: 1550px) {
+    .div-callus2 {
+        width: 613px;
+    }
+
+    .nav-bar-button {
+        font-size: 17px;
+    }
+
+    .nav-img-2-icon {
+        width: 240px;
+    }
+
+    .img-logo-contact-page {
+        width: 140px;
+    }
+
+    .button-book-visit {
+        font-size: 18px;
+    }
+
+    .div-callus {
+        height: 130px;
+    }
+
+    .div-callus2 {
+        height: 130px;
+    }
+
+    .callus-icon4 {
+        width: 50px;
+    }
+
+    .callus-icon {
+        width: 70px;
+    }
+
+    .div-calus-number2 {
+        font-size: 29px;
+    }
+
+    .div-calus-number29 {
+        font-size: 25px;
+    }
+
+    .div-calus-number22 {
+        font-size: 23px;
+    }
+    .text-paragraph-contact-about {
+        font-size: 22px;
+    }
+
+    .slogan-left-side {
+        margin-top: 390px;
+        font-size: 16px;
+        width: 160px;
+    }
+
+    .slogan-left-side5 {
+        margin-top: 390px;
+        font-size: 16px;
+        width: 160px;
+    }
+}
+
+
+
+
+
+
+
+
+
+@media  (min-width: 1750px) {
+    .div-callus2 {
+        width: 693px;
+    }
+
+    .nav-bar-button {
+        font-size: 20px;
+    }
+
+    .nav-img-2-icon {
+        width: 270px;
+    }
+
+    .img-logo-contact-page {
+        width: 150px;
+    }
+
+    .button-book-visit {
+        font-size: 19px;
+    }
+
+    .div-callus {
+        height: 150px;
+    }
+
+    .div-callus2 {
+        height: 150px;
+    }
+
+    .callus-icon4 {
+        width: 60px;
+    }
+
+    .callus-icon {
+        width: 80px;
+    }
+
+    .div-calus-number2 {
+        font-size: 33px;
+    }
+
+    .div-calus-number29 {
+        font-size: 27px;
+    }
+
+    .div-calus-number22 {
+        font-size: 25px;
+    }
+    .text-paragraph-contact-about {
+        font-size: 25px;
+    }
+
+    .slogan-left-side {
+        margin-top: 390px;
+        font-size: 16px;
+        width: 160px;
+    }
+
+    .slogan-left-side5 {
+        margin-top: 390px;
+        font-size: 16px;
+        width: 160px;
+    }
+
+    .heading-paragraph-h1 {
+        font-size: 70px;
+    }
+}
+
+
+
+
+@media  (min-width: 1950px) {
+    .div-callus2 {
+        width: 773px;
+    }
+
+    .nav-bar-button {
+        font-size: 23px;
+    }
+
+    .nav-img-2-icon {
+        width: 310px;
+    }
+
+    .img-logo-contact-page {
+        width: 170px;
+    }
+
+    .button-book-visit {
+        font-size: 22px;
+    }
+
+    .div-callus {
+        height: 170px;
+    }
+
+    .div-callus2 {
+        height: 170px;
+    }
+
+    .callus-icon4 {
+        width: 65px;
+    }
+
+    .callus-icon {
+        width: 90px;
+    }
+
+    .div-calus-number2 {
+        font-size: 35px;
+    }
+
+    .div-calus-number29 {
+        font-size: 33px;
+        margin-right: 80px;
+    }
+
+    .div-calus-number22 {
+        font-size: 28px;
+    }
+    .text-paragraph-contact-about {
+        font-size: 28px;
+    }
+
+    .slogan-left-side {
+        margin-top: 490px;
+        font-size: 20px;
+        width: 200px;
+    }
+
+    .slogan-left-side5 {
+        margin-top: 490px;
+        font-size: 20px;
+        width: 200px;
+    }
+
+    .heading-paragraph-h1 {
+        font-size: 70px;
+    }
+}
+
+
+
+
+
+
+@media  (min-width: 2150px) {
+    .div-callus2 {
+        width: 853px;
+    }
+
+    .nav-bar-button {
+        font-size: 30px;
+    }
+
+    .nav-img-2-icon {
+        width: 360px;
+    }
+
+    .img-logo-contact-page {
+        width: 190px;
+    }
+
+    .button-book-visit {
+        font-size: 26px;
+    }
+
+    .div-callus {
+        height: 190px;
+    }
+
+    .div-callus2 {
+        height: 190px;
+    }
+
+    .callus-icon4 {
+        width: 70px;
+        margin-left: 40px;
+    }
+
+    .callus-icon {
+        width: 100px;
+        margin-left: 40px;
+    }
+
+    .div-calus-number2 {
+        font-size: 39px;
+    }
+
+    .div-calus-number29 {
+        font-size: 35px;
+        margin-right: 80px;
+    }
+
+    .div-calus-number22 {
+        font-size: 30px;
+    }
+    .text-paragraph-contact-about {
+        font-size: 32px;
+    }
+
+    .slogan-left-side {
+        margin-top: 590px;
+        font-size: 20px;
+        width: 200px;
+    }
+
+    .slogan-left-side5 {
+        margin-top: 590px;
+        font-size: 20px;
+        width: 200px;
+    }
+
+    .heading-paragraph-h1 {
+        font-size: 80px;
+        margin-top: 100px;
+    }
+}
+
+
+
+@media  (min-width: 2350px) {
+    .div-callus2 {
+        width: 933px;
+    }
+
+    .nav-bar-button {
+        font-size: 34px;
+    }
+
+    .nav-img-2-icon {
+        width: 390px;
+    }
+
+    .img-logo-contact-page {
+        width: 200px;
+    }
+
+    .button-book-visit {
+        font-size: 29px;
+    }
+
+    .div-callus {
+        height: 210px;
+    }
+
+    .div-callus2 {
+        height: 210px;
+    }
+
+    .callus-icon4 {
+        width: 80px;
+        margin-left: 50px;
+    }
+
+    .callus-icon {
+        width: 120px;
+        margin-left: 50px;
+    }
+
+    .div-calus-number2 {
+        font-size: 45px;
+    }
+
+    .div-calus-number29 {
+        font-size: 39px;
+        margin-right: 90px;
+    }
+
+    .div-calus-number22 {
+        font-size: 36px;
+        margin-right: 80px;
+
+    }
+    .text-paragraph-contact-about {
+        font-size: 38px;
+    }
+
+    .slogan-left-side {
+        margin-top: 590px;
+        font-size: 20px;
+        width: 200px;
+    }
+
+    .slogan-left-side5 {
+        margin-top: 590px;
+        font-size: 20px;
+        width: 200px;
+    }
+
+    .heading-paragraph-h1 {
+        font-size: 80px;
+        margin-top: 100px;
+    }
+}
+
+@media  (min-width: 2560px) {
+    .div-callus2 {
+        width: 1013px;
+    }
+
+    .nav-bar-button {
+        font-size: 38px;
+        padding: 23px 46px;
+        border-radius: 50px;
+    }
+
+    .nav-img-2-icon {
+        width: 430px;
+    }
+
+    .img-logo-contact-page {
+        width: 240px;
+    }
+
+    .button-book-visit {
+        font-size: 35px;
+        padding: 23px 46px;
+        border-radius: 50px;
+    }
+
+    .div-callus {
+        height: 230px;
+    }
+
+    .div-callus2 {
+        height: 230px;
+    }
+
+    .callus-icon4 {
+        width: 90px;
+        margin-left: 60px;
+    }
+
+    .callus-icon {
+        width: 130px;
+        margin-left: 60px;
+    }
+
+    .div-calus-number2 {
+        font-size: 45px;
+    }
+
+    .div-calus-number29 {
+        font-size: 44px;
+        margin-right: 90px;
+    }
+
+    .div-calus-number22 {
+        font-size: 39px;
+        margin-right: 80px;
+
+    }
+    .text-paragraph-contact-about {
+        font-size: 40px;
+    }
+
+    .slogan-left-side {
+        margin-top: 690px;
+        font-size: 25px;
+        width: 250px;
+    }
+
+    .slogan-left-side5 {
+        margin-top: 690px;
+        font-size: 25px;
+        width: 250px;
+    }
+
+    .heading-paragraph-h1 {
+        font-size: 80px;
+        margin-top: 100px;
+    }
+}
+
+
+
+/* footer */
+
+.div-line-1 {
+    background-color: white;
+    width: 100%;
+    height: 0.5px;
+    margin-top: 50px;
+}
+
+.brand-name-big-footer {
+    color: white;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 52px;
+    margin: 0;
+    margin-top: 10px;
+}
+
+.div-brand-name-big-footer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.div-slogan-text-footer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+
+.slogan-text-footer {
+    text-align: center;
+    color: white;
+    font-size: 9px;
+    font-family: cactus classical serif;
+    font-weight: 300;
+    margin: 0;
+    margin-top: 5px;
+}
+
+.div-line-2 {
+    background-color: white;
+    width: 100%;
+    height: 0.5px;
+    margin-top: 15px;
+}
+
+.contact-info-footer {
+    color: white;
+    font-size: 20px;
+    font-family: cactus classical serif;
+    font-weight: 300;
+    margin: 0;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.contact-info-footer2 {
+    color: white;
+    font-size: 13px;
+    font-family: cactus classical serif;
+    font-weight: 300;
+    margin: 0;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.div-phone-numbers-footer {
+    width: 100%;
+    display: flex;
+
+}
+
+.contact-info-footer22 {
+    color: white;
+    font-size: 13px;
+    font-family: cactus classical serif;
+    font-weight: 300;
+    margin: 0;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.contact-info-footer222 {
+    color: white;
+    font-size: 13px;
+    font-family: cactus classical serif;
+    font-weight: 300;
+    margin: 0;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+.contact-info-footer2222 {
+    color: white;
+    font-size: 13px;
+    font-family: cactus classical serif;
+    font-weight: 300;
+    margin: 0;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+.div-phone-numbers-footer1 {
+    width: 100%;
+    display: flex;
+    
+}
+
+.div-buttons-social {
+    width: 100%;
+    display: flex;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.img1-social {
+    width: 40px;
+    margin-right: 10px;
+}
+
+.img2-social {
+    width: 40px;
+}
+
+.img-logo-footer {
+    width: 80px;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+.div-pages-paragraph-footer {
+    display: flex;
+    color: white;
+    font-family: cactus classical serif;
+    font-weight: 300;
+    font-size: 12px;
+    margin-top: 45px;
+}
+
+.pages-paragraph-footer {
+    margin-right: 15px;
+    text-decoration: underline;
+}
+
+.div-pages-and-end-logo {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+@media  (min-width: 450px) {
+    .brand-name-big-footer {
+        font-size: 75px;
+    }
+
+    .slogan-text-footer {
+        font-size: 13px;
+    }
+    .contact-info-footer {
+        font-size: 25px;
+        margin-top: 40px;
+    }
+
+    .contact-info-footer2 {
+        font-size: 17px;
+    }
+    .contact-info-footer22 {
+        font-size: 17px;
+    }
+    .contact-info-footer222 {
+        font-size: 17px;
+        
+    }
+
+    .contact-info-footer2222 {
+        font-size: 17px;
+    }
+
+    .img1-social {
+        width: 50px;
+    }
+
+    .img2-social {
+        width: 50px;
+    }
+
+    .img-logo-footer {
+        width: 100px;
+        margin-top: 80px;
+    }
+
+    .div-pages-paragraph-footer {
+        margin-top: 85px;
+        font-size: 15px;
+    }
+
+    .pages-paragraph-footer {
+        margin-right: 30px;
+    }
+}
+
+
+
+
+
+@media  (min-width: 600px) {
+    .brand-name-big-footer {
+        font-size: 95px;
+    }
+
+    .slogan-text-footer {
+        font-size: 13px;
+    }
+    .contact-info-footer {
+        font-size: 25px;
+        margin-top: 40px;
+    }
+
+    .contact-info-footer2 {
+        font-size: 17px;
+    }
+    .contact-info-footer22 {
+        font-size: 17px;
+    }
+    .contact-info-footer222 {
+        font-size: 17px;
+        
+    }
+
+    .contact-info-footer2222 {
+        font-size: 17px;
+    }
+
+    .img1-social {
+        width: 50px;
+    }
+
+    .img2-social {
+        width: 50px;
+    }
+
+    .img-logo-footer {
+        width: 100px;
+        margin-top: 80px;
+    }
+
+    .div-pages-paragraph-footer {
+        margin-top: 85px;
+        font-size: 18px;
+    }
+
+    .pages-paragraph-footer {
+        margin-right: 30px;
+    }
+}
+
+
+.div-whole-footer-div {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+.email-adress-footer-input {
+    display: flex;
+    justify-content: baseline;
+    margin-top: 83px;
+    margin-right: 40px;
+}
+
+input-email-adress::placeholder {
+    font-size: 20px;
+    font-family: cactus classical serif;
+    font-weight: 500;
+    color: hsla(0, 0%, 100%, 0.700);
+    margin: 0;
+}
+
+input[type=text] {
+    border-bottom: white solid 1px;
+    background: none;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    padding-left: 0;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    font-family: cactus classical serif;
+    margin: 0;
+    font-size: 20px;
+  }
+
+
+  input[type=text]:focus {
+    outline: none;
+    border-bottom: white solid 1px;
+    background: none;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    padding-left: 0;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    font-family: cactus classical serif;
+    margin: 0;
+    color: white;
+  }
+
+
+  .email-adress-submit-button {
+    font-family: cactus classical serif;
+    margin: 0;
+  }
+
+  .button-email-arrow-footer {
+    background: none;
+    border-radius: 0;
+    border: none;
+    border-bottom: white solid 1px;
+    font-family: cactus classical serif;
+    font-weight: 500;
+    font-size: 20px;
+    font-family: cactus classical serif;
+    margin: 0;
+    color: white;
+  }
+
+
+  .paragraph-after-input-text {
+    color: white;
+    font-family: cactus classical serif;
+    font-size: 13px;
+    font-weight: 200;
+  }
+
+
+/* .email-adress-footer-input {
+    width: 10px;
+    height: 50px;
+    font-family: cactus classical serif;
+    display: flex;
+    justify-content: baseline;
+}
+
+.input-email-adress::placeholder {
+    font-size: 27px;
+    letter-spacing: -0.5px;
+    font-family: inter, Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    color: hsla(0, 0%, 100%, 0.700);
+    margin: 0;
+    font-family: cactus classical serif;
+}
+
+input[type=text] {
+    border-bottom: white solid 2px;
+    background: none;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    padding-top: 13px;
+    padding-left: 0;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    font-family: cactus classical serif;
+    margin: 0;
+  }
+
+  input[type=text]:focus {
+    outline: none;
+    border-bottom: white solid 2px;
+    background: none;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    padding-top: 13px;
+    padding-left: 0;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    font-family: cactus classical serif;
+    margin: 0;
+  }
+
+  .input-email-adress {
+    width: 10px;
+    margin: 0;
+    font-size: 27px;
+    letter-spacing: -0.5px;
+    font-family: cactus classical serif;
+    font-weight: 500;
+    color: hsl(0, 0%, 100%);
+    font-family: cactus classical serif;
+    margin: 0;
+  }
+
+  .email-adress-submit-button {
+    margin-top: 2px;
+    font-family: cactus classical serif;
+    margin: 0;
+  }
+
+
+  .button-email-arrow-footer {
+    background: none;
+    border-radius: 0;
+    border: none;
+    border-bottom: white solid 2px;
+    font-family: cactus classical serif;
+    font-weight: 500;
+    font-size: 35px;
+    font-family: cactus classical serif;
+    margin: 0;
+  }
+  
+
+.about-submitting-email-footer-p {
+    font-size: 15px;
+    font-family: cactus classical serif;
+    letter-spacing: -0.5px;
+    margin: 0;
+    margin-left: 40px;
+    margin-top: 2px;
+    font-family: cactus classical serif;
+    margin: 0;
+}
+
+.rigth-section-footer-div {
+    width: 50%;
+    margin-top: 40px;
+    font-family: cactus classical serif;
+    margin: 0;
+}
+
+.rigth-section-footer-div-top1 {
+    display: flex;
+    justify-content: baseline;
+    width: 100%;
+    font-family: cactus classical serif;
+    margin: 0;
+}
+
+.button-email-arrow-footer {
+    color: white;
+    font-family: cactus classical serif;
+    margin: 0;
+} */
+
+
+
+
+
+
+
+
+
+
+
+@media  (min-width: 700px) {
+    .brand-name-big-footer {
+        font-size: 115px;
+    }
+
+    .slogan-text-footer {
+        font-size: 15px;
+    }
+    .contact-info-footer {
+        font-size: 26px;
+        margin-top: 45px;
+    }
+
+    .contact-info-footer2 {
+        font-size: 18px;
+    }
+    .contact-info-footer22 {
+        font-size: 18px;
+    }
+    .contact-info-footer222 {
+        font-size: 18px;
+        
+    }
+
+    .contact-info-footer2222 {
+        font-size: 18px;
+    }
+
+    .img1-social {
+        width: 55px;
+    }
+
+    .img2-social {
+        width: 55px;
+    }
+
+    .img-logo-footer {
+        width: 130px;
+        margin-top: 80px;
+    }
+
+    .div-pages-paragraph-footer {
+        margin-top: 90px;
+        font-size: 19px;
+    }
+
+    .pages-paragraph-footer {
+        margin-right: 30px;
+    }
+
+    .button-email-arrow-footer {
+        background: none;
+        border-radius: 0;
+        border: none;
+        border-bottom: white solid 1px;
+        font-family: cactus classical serif;
+        font-weight: 500;
+        font-size: 25px;
+        font-family: cactus classical serif;
+        margin: 0;
+        color: white;
+      }
+
+      input[type=text] {
+        border-bottom: white solid 1px;
+        background: none;
+        border-top: 0;
+        border-left: 0;
+        border-right: 0;
+        padding-left: 0;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+        font-family: cactus classical serif;
+        margin: 0;
+        font-size: 25px;
+      }
+
+      .paragraph-after-input-text {
+        color: white;
+        font-family: cactus classical serif;
+        font-size: 15px;
+        font-weight: 200;
+      }
+}
+
+
+
+
+
+
+@media  (min-width: 900px) {
+    .brand-name-big-footer {
+        font-size: 145px;
+    }
+
+    .slogan-text-footer {
+        font-size: 18px;
+    }
+    .contact-info-footer {
+        font-size: 28px;
+        margin-top: 50px;
+    }
+
+    .contact-info-footer2 {
+        font-size: 19px;
+    }
+    .contact-info-footer22 {
+        font-size: 19px;
+    }
+    .contact-info-footer222 {
+        font-size: 19px;
+        
+    }
+
+    .contact-info-footer2222 {
+        font-size: 19px;
+    }
+
+    .img1-social {
+        width: 55px;
+    }
+
+    .img2-social {
+        width: 55px;
+    }
+
+    .img-logo-footer {
+        width: 130px;
+        margin-top: 110px;
+    }
+
+    .div-pages-paragraph-footer {
+        margin-top: 90px;
+        font-size: 23px;
+    }
+
+    .pages-paragraph-footer {
+        margin-right: 70px;
+    }
+
+    .button-email-arrow-footer {
+        background: none;
+        border-radius: 0;
+        border: none;
+        border-bottom: white solid 1px;
+        font-family: cactus classical serif;
+        font-weight: 500;
+        font-size: 35px;
+        font-family: cactus classical serif;
+        margin: 0;
+        color: white;
+      }
+
+      input[type=text] {
+        border-bottom: white solid 1px;
+        background: none;
+        border-top: 0;
+        border-left: 0;
+        border-right: 0;
+        padding-left: 0;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+        font-family: cactus classical serif;
+        margin: 0;
+        font-size: 35px;
+      }
+
+      .paragraph-after-input-text {
+        color: white;
+        font-family: cactus classical serif;
+        font-size: 20px;
+        font-weight: 200;
+      }
+}
+
+
+
+
+
+
+
+@media  (min-width: 1200px) {
+    .brand-name-big-footer {
+        font-size: 190px;
+    }
+
+    .slogan-text-footer {
+        font-size: 25px;
+    }
+    .contact-info-footer {
+        font-size: 30px;
+        margin-top: 60px;
+        margin-left: 50px;
+    }
+
+    .contact-info-footer2 {
+        font-size: 20px;
+        margin-left: 50px;
+    }
+    .contact-info-footer22 {
+        font-size: 20px;
+        margin-left: 50px;
+    }
+    .contact-info-footer222 {
+        font-size: 20px;
+        margin-left: 50px;
+        
+    }
+
+    .contact-info-footer2222 {
+        font-size: 20px;
+        margin-left: 50px;
+    }
+
+    .img1-social {
+        width: 60px;
+        margin-left: 30px;
+        margin-top: 10px;
+    }
+
+    .img2-social {
+        width: 60px;
+        margin-top: 10px;
+    }
+
+    .img-logo-footer {
+        width: 150px;
+        margin-top: 110px;
+        margin-left: 50px;
+    }
+
+    .div-pages-paragraph-footer {
+        margin-top: 100px;
+        font-size: 25px;
+    }
+
+    .pages-paragraph-footer {
+        margin-right: 80px;
+    }
+
+    .button-email-arrow-footer {
+        background: none;
+        border-radius: 0;
+        border: none;
+        border-bottom: white solid 1px;
+        font-family: cactus classical serif;
+        font-weight: 500;
+        font-size: 50px;
+        font-family: cactus classical serif;
+        margin: 0;
+        color: white;
+      }
+
+      input[type=text] {
+        border-bottom: white solid 1px;
+        background: none;
+        border-top: 0;
+        border-left: 0;
+        border-right: 0;
+        padding-left: 0;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+        font-family: cactus classical serif;
+        margin: 0;
+        font-size: 50px;
+      }
+
+      .paragraph-after-input-text {
+        color: white;
+        font-family: cactus classical serif;
+        font-size: 20px;
+        font-weight: 200;
+      }
+
+    }
+
+
+
+    @media  (min-width: 1700px) {
+        .brand-name-big-footer {
+            font-size: 230px;
+        }
+    
+        .slogan-text-footer {
+            font-size: 45px;
+        }
+        .contact-info-footer {
+            font-size: 50px;
+            margin-top: 60px;
+            margin-left: 50px;
+        }
+    
+        .contact-info-footer2 {
+            font-size: 30px;
+            margin-left: 50px;
+        }
+        .contact-info-footer22 {
+            font-size: 30px;
+            margin-left: 50px;
+        }
+        .contact-info-footer222 {
+            font-size: 30px;
+            margin-left: 50px;
+            
+        }
+    
+        .contact-info-footer2222 {
+            font-size: 30px;
+            margin-left: 50px;
+        }
+    
+        .img1-social {
+            width: 70px;
+            margin-left: 30px;
+            margin-top: 15px;
+        }
+    
+        .img2-social {
+            width: 70px;
+            margin-top: 15px;
+        }
+    
+        .img-logo-footer {
+            width: 170px;
+            margin-top: 110px;
+            margin-left: 50px;
+        }
+    
+        .div-pages-paragraph-footer {
+            margin-top: 100px;
+            font-size: 35px;
+        }
+    
+        .pages-paragraph-footer {
+            margin-right: 80px;
+        }
+    
+        .button-email-arrow-footer {
+            background: none;
+            border-radius: 0;
+            border: none;
+            border-bottom: white solid 1px;
+            font-family: cactus classical serif;
+            font-weight: 500;
+            font-size: 70px;
+            font-family: cactus classical serif;
+            margin: 0;
+            color: white;
+          }
+    
+          input[type=text] {
+            border-bottom: white solid 1px;
+            background: none;
+            border-top: 0;
+            border-left: 0;
+            border-right: 0;
+            padding-left: 0;
+            background-repeat: no-repeat;
+            box-sizing: border-box;
+            font-family: cactus classical serif;
+            margin: 0;
+            font-size: 70px;
+          }
+    
+          .paragraph-after-input-text {
+            color: white;
+            font-family: cactus classical serif;
+            font-size: 20px;
+            font-weight: 200;
+          }
+    
+        }
+
+
+
+
+        @media  (min-width: 2100px) {
+            .brand-name-big-footer {
+                font-size: 290px;
+            }
+        
+            .slogan-text-footer {
+                font-size: 45px;
+            }
+            .contact-info-footer {
+                font-size: 60px;
+                margin-top: 60px;
+                margin-left: 50px;
+            }
+        
+            .contact-info-footer2 {
+                font-size: 40px;
+                margin-left: 50px;
+            }
+            .contact-info-footer22 {
+                font-size: 40px;
+                margin-left: 50px;
+            }
+            .contact-info-footer222 {
+                font-size: 40px;
+                margin-left: 50px;
+                
+            }
+        
+            .contact-info-footer2222 {
+                font-size: 40px;
+                margin-left: 50px;
+            }
+        
+            .img1-social {
+                width: 85px;
+                margin-left: 30px;
+                margin-top: 15px;
+            }
+        
+            .img2-social {
+                width: 85px;
+                margin-top: 15px;
+            }
+        
+            .img-logo-footer {
+                width: 230px;
+                margin-top: 110px;
+                margin-left: 50px;
+            }
+        
+            .div-pages-paragraph-footer {
+                margin-top: 100px;
+                font-size: 45px;
+            }
+        
+            .pages-paragraph-footer {
+                margin-right: 80px;
+            }
+        
+            .button-email-arrow-footer {
+                background: none;
+                border-radius: 0;
+                border: none;
+                border-bottom: white solid 1px;
+                font-family: cactus classical serif;
+                font-weight: 500;
+                font-size: 90px;
+                font-family: cactus classical serif;
+                margin: 0;
+                color: white;
+              }
+        
+              input[type=text] {
+                border-bottom: white solid 1px;
+                background: none;
+                border-top: 0;
+                border-left: 0;
+                border-right: 0;
+                padding-left: 0;
+                background-repeat: no-repeat;
+                box-sizing: border-box;
+                font-family: cactus classical serif;
+                margin: 0;
+                font-size: 90px;
+              }
+        
+              .paragraph-after-input-text {
+                color: white;
+                font-family: cactus classical serif;
+                font-size: 35px;
+                font-weight: 200;
+              }
+        
+            }
+
+
+
+
+
+
+
+            @media  (min-width: 2560px) {
+                .brand-name-big-footer {
+                    font-size: 390px;
+                }
+            
+                .slogan-text-footer {
+                    font-size: 65px;
+                }
+                .contact-info-footer {
+                    font-size: 80px;
+                    margin-top: 60px;
+                    margin-left: 50px;
+                }
+            
+                .contact-info-footer2 {
+                    font-size: 60px;
+                    margin-left: 50px;
+                }
+                .contact-info-footer22 {
+                    font-size: 60px;
+                    margin-left: 50px;
+                }
+                .contact-info-footer222 {
+                    font-size: 60px;
+                    margin-left: 50px;
+                    
+                }
+            
+                .contact-info-footer2222 {
+                    font-size: 60px;
+                    margin-left: 50px;
+                }
+            
+                .img1-social {
+                    width: 95px;
+                    margin-left: 30px;
+                    margin-top: 15px;
+                }
+            
+                .img2-social {
+                    width: 95px;
+                    margin-top: 15px;
+                }
+            
+                .img-logo-footer {
+                    width: 290px;
+                    margin-top: 180px;
+                    margin-left: 50px;
+                }
+            
+                .div-pages-paragraph-footer {
+                    margin-top: 180px;
+                    font-size: 65px;
+                }
+            
+                .pages-paragraph-footer {
+                    margin-right: 80px;
+                }
+            
+                .button-email-arrow-footer {
+                    background: none;
+                    border-radius: 0;
+                    border: none;
+                    border-bottom: white solid 1px;
+                    font-family: cactus classical serif;
+                    font-weight: 500;
+                    font-size: 115px;
+                    font-family: cactus classical serif;
+                    margin: 0;
+                    color: white;
+                  }
+            
+                  input[type=text] {
+                    border-bottom: white solid 1px;
+                    background: none;
+                    border-top: 0;
+                    border-left: 0;
+                    border-right: 0;
+                    padding-left: 0;
+                    background-repeat: no-repeat;
+                    box-sizing: border-box;
+                    font-family: cactus classical serif;
+                    margin: 0;
+                    font-size: 115px;
+                  }
+            
+                  .paragraph-after-input-text {
+                    color: white;
+                    font-family: cactus classical serif;
+                    font-size: 55px;
+                    font-weight: 200;
+                  }
+            
+                }
+
+
+.button-book-visit:hover {
+    background-color: black;
+    border: black;
+    color: white;
+}
+
+.button-book-visit {
+    transition-duration: 0.5s;
+}
+
+
+
+
+
+
+
+.animated {
+    opacity: 0;
+    transition: all 0.7s ease-out;
+}
+
+.from-right {
+    transform: translateX(100px);
+}
+
+.from-left {
+    transform: translateX(-100px);
+}
+
+.from-top {
+    transform: translateY(-50px);
+}
+
+.visible {
+    opacity: 1;
+    transform: translateX(0) translateY(0);
+}

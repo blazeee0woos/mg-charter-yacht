@@ -1,0 +1,6570 @@
+html {
+    margin: 0;
+    overflow-x: hidden;
+}
+
+body {
+    margin: 0;
+}
+
+
+
+.div-main-img-backround-hero {
+    width: 100%;
+    height: 100vh;
+    background-image: url(images/Rectangle\ 22\ 2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    position: absolute;
+    z-index: -1;
+}
+
+.img-logo2 {
+    width: 35px;
+    margin-top: 30px;
+    margin-right: 20px;
+    
+}
+
+.img-logo {
+    width: 75px;
+    margin-top: 20px;
+    margin-left: 20px;
+    
+}
+
+.div-nav-main {
+    display: flex;
+    justify-content: space-between;
+}
+
+.heading-about-oage {
+    color: white;
+    font-family: cactus classical serif;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 100;
+    margin: 0;
+    margin-top: 250px;
+}
+
+.heading-about-oage4 {
+    color:  white;
+    text-align: center;
+    font-size: 9px;
+    font-weight: 100;
+    margin: 0;
+    margin-top: 15px;
+}
+
+.div-img-scroll-arrow {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.img-scroll-arrow {
+    width: 30px;
+}
+
+@media (max-width: 320px) {
+    
+    
+    .img-logo2 {
+        width: 35px;
+        margin-top: 30px;
+        margin-right: 20px;
+        
+    }
+    
+    .img-logo {
+        width: 75px;
+        margin-top: 20px;
+        margin-left: 20px;
+        
+    }
+    
+    .div-nav-main {
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .heading-about-oage {
+        color: white;
+        font-family: cactus classical serif;
+        text-align: center;
+        font-size: 18px;
+        font-weight: 100;
+        margin: 0;
+        margin-top: 60vh;
+    }
+    
+    .heading-about-oage4 {
+        color:  white;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+        font-size: 9px;
+        font-weight: 100;
+        margin: 0;
+        margin-top: 15px;
+    }
+    
+    .div-img-scroll-arrow {
+        display: flex;
+        justify-content: center;
+        margin-top: 40px;
+    }
+    
+    .img-scroll-arrow {
+        width: 30px;
+    }
+}
+
+@media (min-width: 321px) {
+    
+    
+    .img-logo2 {
+        width: 35px;
+        margin-top: 30px;
+        margin-right: 20px;
+        
+    }
+    
+    .img-logo {
+        width: 75px;
+        margin-top: 20px;
+        margin-left: 20px;
+        
+    }
+    
+    .div-nav-main {
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .heading-about-oage {
+        color: white;
+        font-family: cactus classical serif;
+        text-align: center;
+        font-size: 18px;
+        font-weight: 100;
+        margin: 0;
+        margin-top: 60vh;
+        
+    }
+    
+    .heading-about-oage4 {
+        color:  white;
+        font-family: cactus classical serif;
+        text-align: center;
+        font-size: 9px;
+        font-weight: 100;
+        margin: 0;
+        margin-top: 15px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .div-img-scroll-arrow {
+        display: flex;
+        justify-content: center;
+        margin-top: 40px;
+    }
+    
+    .img-scroll-arrow {
+        width: 30px;
+    }
+}
+
+
+
+
+@media (min-width: 500px) {
+    
+    
+    .img-logo2 {
+        width: 40px;
+        margin-top: 30px;
+        margin-right: 20px;
+        
+    }
+    
+    .img-logo {
+        width: 85px;
+        margin-top: 20px;
+        margin-left: 20px;
+        
+    }
+    
+    .div-nav-main {
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .heading-about-oage {
+        color: white;
+        font-family: cactus classical serif;
+        text-align: center;
+        font-size: 30px;
+        font-weight: 100;
+        margin: 0;
+        margin-top: 370px;
+    }
+    
+    .heading-about-oage4 {
+        color:  white;
+        font-family: cactus classical serif;
+        text-align: center;
+        font-size: 12px;
+        font-weight: 100;
+        margin: 0;
+        margin-top: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .div-img-scroll-arrow {
+        display: flex;
+        justify-content: center;
+        margin-top: 40px;
+    }
+    
+    .img-scroll-arrow {
+        width: 40px;
+    }
+}
+
+
+
+@media (min-width: 700px) {
+    
+    
+    .img-logo2 {
+        width: 50px;
+        margin-top: 40px;
+        margin-right: 30px;
+        
+    }
+    
+    .img-logo {
+        width: 100px;
+        margin-top: 30px;
+        margin-left: 30px;
+        
+    }
+    
+    .div-nav-main {
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .heading-about-oage {
+        color: white;
+        font-family: cactus classical serif;
+        text-align: center;
+        font-size: 42px;
+        font-weight: 100;
+        margin: 0;
+        margin-top: 300px;
+    }
+    
+    .heading-about-oage4 {
+        color:  white;
+        font-family: cactus classical serif;
+        text-align: center;
+        font-size: 17px;
+        font-weight: 100;
+        margin: 0;
+        margin-top: 30px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .div-img-scroll-arrow {
+        display: flex;
+        justify-content: center;
+        margin-top: 60px;
+    }
+    
+    .img-scroll-arrow {
+        width: 60px;
+    }
+}
+
+
+
+.mg-nav-icon-px {
+    width: 230px;
+    margin-top: 40px;
+    display: none;
+}
+
+
+.div-left-section-hero {
+    width: 17.65%;
+    height: 1350px;
+    background-color: pink;
+    display: none;
+}
+
+.div-left-section-hero2 {
+    width: 17.65%;
+    height: 1350px;
+    background-color: pink;
+    display: none;
+}
+
+
+/* .div-main-main-div-hero {
+    display: flex;
+} */
+
+
+
+.loggo-nav-lerft {
+    width: 105px;
+    margin-top: 30px;
+    margin-right: 10px;
+}
+
+.div-loggo-nav-lerft {
+    display: flex;
+    justify-content: center;
+}
+
+.slogan-90-degrees {
+    color: white;
+    font-family: cactus classical serif;
+    font-size: 14px;
+    font-weight: 100;
+    transform: rotate(90deg);
+    margin: 0;
+    margin-top: 40vh;
+}
+
+.div-slogan-90-degrees {
+    display: flex;
+    justify-content: center;
+}
+
+.butoon-for-div-hero {
+    color: white;
+    font-family: cactus classical serif;
+    font-size: 16px;
+    font-weight: 100;
+    background: none;
+    border: solid 1px white;
+    padding: 13px 24px;
+    border-radius: 30px;
+    margin-top: 35vh;
+}
+
+.div-butoon-for-div-hero {
+    display: flex;
+    justify-content: center;
+}
+
+.div-butoon-for-div-hero2 {
+    display: flex;
+    justify-content: center;
+}
+
+
+.butoon-for-div-hero23 {
+    color: white;
+    font-family: cactus classical serif;
+    font-size: 16px;
+    font-weight: 100;
+    background: none;
+    border: solid 1px white;
+    padding: 12px 17px;
+    border-radius: 30px;
+    margin-top: 4vh;
+}
+
+
+.slogan-90-degrees2 {
+    color: white;
+    font-family: cactus classical serif;
+    font-size: 14px;
+    font-weight: 100;
+    transform: rotate(-90deg);
+    margin: 0;
+    margin-top: 40vh;
+}
+
+.div-slogan-90-degrees2 {
+    display: flex;
+    justify-content: center;
+}
+
+.link2-social {
+    width: 45px;
+}
+.link1-social {
+    width: 45px;
+    margin-right: 10px;
+}
+
+.div-social-links {
+    display: flex;
+    justify-content: center;
+    margin-top: 35vh;
+}
+
+@media (min-width: 1000px) {
+   
+
+    
+
+    .div-nav-main {
+        display: flex;
+        justify-content: center;
+    }
+    
+    
+    .div-left-section-hero {
+        width: 17.65%;
+        height: 100vh;
+        display: inline-block;
+        border-right: 1px solid white;
+        background: none;
+    }
+    
+    .div-left-section-hero2 {
+        width: 17.65%;
+        height: 100vh;
+        display: inline-block;
+        border-left: 1px solid white;
+        background: none;
+    }
+    
+    
+     .div-main-main-div-hero {
+        display: flex;
+    }
+
+    .div-center-div {
+        width: 64.7%;
+    } 
+    
+    .img-logo2 {
+        width: 80px;
+        margin-top: 50px;
+        margin-right: 40px;
+        display: none;
+        
+    }
+    
+    .img-logo {
+        width: 180px;
+        margin-top: 40px;
+        margin-left: 40px;
+        display: none;
+        
+        
+    }
+    
+    .div-nav-main {
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .heading-about-oage {
+        color: white;
+        font-family: cactus classical serif;
+        text-align: center;
+        font-size: 40px;
+        font-weight: 100;
+        margin: 0;
+        margin-top: 50vh;
+    }
+    
+    .heading-about-oage4 {
+        color:  white;
+        font-family: cactus classical serif;
+        text-align: center;
+        font-size: 18px;
+        font-weight: 100;
+        margin: 0;
+        margin-top: 35px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .div-img-scroll-arrow {
+        display: flex;
+        justify-content: center;
+        margin-top: 10vh;
+    }
+    
+    .img-scroll-arrow {
+        width: 50px;
+    }
+
+    .mg-nav-icon-px {
+        width: 230px;
+        margin-top: 40px;
+        display: inline-block;
+    } 
+
+   
+}
+
+
+@media (min-width: 2000px) {
+   
+
+    
+
+    .div-nav-main {
+        display: flex;
+        justify-content: center;
+    }
+    
+    
+    .div-left-section-hero {
+        width: 17.65%;
+        height: 100vh;
+        display: inline-block;
+        border-right: 1px solid white;
+        background: none;
+    }
+    
+    .div-left-section-hero2 {
+        width: 17.65%;
+        height: 100vh;
+        display: inline-block;
+        border-left: 1px solid white;
+        background: none;
+    }
+    
+    
+     .div-main-main-div-hero {
+        display: flex;
+    }
+
+    .div-center-div {
+        width: 64.7%;
+    } 
+
+    .loggo-nav-lerft {
+        width: 150px;
+        margin-top: 40px;
+    }
+
+    .butoon-for-div-hero {
+        font-size: 25px;
+        padding: 20px 40px;
+        border-radius: 35px;
+    }
+
+    .slogan-90-degrees {
+        font-size: 20px;
+    }
+    .slogan-90-degrees2 {
+        font-size: 20px;
+    }
+
+    .butoon-for-div-hero23 {
+        font-size: 25px;
+        padding: 20px 40px;
+        border-radius: 35px;
+    }
+
+    
+    .img-logo2 {
+        width: 100px;
+        margin-top: 50px;
+        margin-right: 40px;
+        display: none;
+        
+    }
+    
+    .img-logo {
+        width: 280px;
+        margin-top: 40px;
+        margin-left: 40px;
+        display: none;
+        
+        
+    }
+    
+    .div-nav-main {
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .heading-about-oage {
+        color: white;
+        font-family: cactus classical serif;
+        text-align: center;
+        font-size: 50px;
+        font-weight: 100;
+        margin: 0;
+        margin-top: 50vh;
+    }
+    
+    .heading-about-oage4 {
+        color:  white;
+        font-family: cactus classical serif;
+        text-align: center;
+        font-size: 20px;
+        font-weight: 100;
+        margin: 0;
+        margin-top: 35px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .div-img-scroll-arrow {
+        display: flex;
+        justify-content: center;
+        margin-top: 10vh;
+    }
+    
+    .img-scroll-arrow {
+        width: 50px;
+    }
+
+    .mg-nav-icon-px {
+        width: 300px;
+        margin-top: 40px;
+        display: inline-block;
+    } 
+
+    .link1-social {
+        width: 70px;
+    }
+    .link2-social {
+        width: 70px;
+    }
+
+    .heading-about-oage {
+        font-size: 65px;
+    }
+   
+}
+
+
+
+@media (min-width: 2560px) {
+   
+
+    
+
+    .div-nav-main {
+        display: flex;
+        justify-content: center;
+    }
+    
+    
+    .div-left-section-hero {
+        width: 17.65%;
+        height: 100vh;
+        display: inline-block;
+        border-right: 1px solid white;
+        background: none;
+    }
+    
+    .div-left-section-hero2 {
+        width: 17.65%;
+        height: 100vh;
+        display: inline-block;
+        border-left: 1px solid white;
+        background: none;
+    }
+    
+    
+     .div-main-main-div-hero {
+        display: flex;
+    }
+
+    .div-center-div {
+        width: 64.7%;
+    } 
+
+    .loggo-nav-lerft {
+        width: 180px;
+        margin-top: 60px;
+    }
+
+    .butoon-for-div-hero {
+        font-size: 25px;
+        padding: 20px 40px;
+        border-radius: 35px;
+    }
+
+    .slogan-90-degrees {
+        font-size: 20px;
+    }
+    .slogan-90-degrees2 {
+        font-size: 20px;
+    }
+
+    .butoon-for-div-hero23 {
+        font-size: 25px;
+        padding: 20px 40px;
+        border-radius: 35px;
+    }
+
+    
+    .img-logo2 {
+        width: 100px;
+        margin-top: 50px;
+        margin-right: 40px;
+        display: none;
+        
+    }
+    
+    .img-logo {
+        width: 280px;
+        margin-top: 40px;
+        margin-left: 40px;
+        display: none;
+        
+        
+    }
+    
+    .div-nav-main {
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .heading-about-oage {
+        color: white;
+        font-family: cactus classical serif;
+        text-align: center;
+        font-size: 50px;
+        font-weight: 100;
+        margin: 0;
+        margin-top: 50vh;
+    }
+    
+    .heading-about-oage4 {
+        color:  white;
+        font-family: cactus classical serif;
+        text-align: center;
+        font-size: 20px;
+        font-weight: 100;
+        margin: 0;
+        margin-top: 35px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .div-img-scroll-arrow {
+        display: flex;
+        justify-content: center;
+        margin-top: 10vh;
+    }
+    
+    .img-scroll-arrow {
+        width: 50px;
+    }
+
+    .mg-nav-icon-px {
+        width: 390px;
+        margin-top: 40px;
+        display: inline-block;
+    } 
+
+    .link1-social {
+        width: 70px;
+    }
+    .link2-social {
+        width: 70px;
+    }
+
+    .heading-about-oage {
+        font-size: 65px;
+    }
+   
+}
+
+
+
+
+
+/* our vision section */
+
+
+.div-our-mission- {
+    margin-top: 20vh;
+    width: 100%;
+}
+
+
+
+.h1-heading-our-mission {
+    font-size: 25px;
+    margin-top: 55px;
+    margin-left: 4vh;
+    font-family: cactus classical serif;
+    font-weight: 100;
+    position: sticky;
+}
+
+.h1-heading-our-mission3 {
+    font-size: 9px;
+    margin-top: 2vh;
+    margin-left: 4vh;
+    font-family: cactus classical serif;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.slogan-before-imgs {
+    font-size: 5px;
+    margin-top: 40px;
+    margin-left: 2vh;
+    font-family: cactus classical serif;
+    font-weight: 500;
+}
+
+
+.div-img-1-missioms{
+    width: 50%;
+    background-image: url(images/tempImageoGBQjX\ 2.png);
+   height: 160px;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.div-img-1-missioms2 {
+    width: 50%;
+    background-image: url(images/tempImage34StyE\ 2.png);
+    height: 160px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.div-imgs-main-mission {
+    display: flex;
+    justify-content: baseline;
+}
+
+.div-img-our-mission-section-center {
+    background-image: url(images/tempImageF6trjh\ 2-2.png);
+    width: 120px;
+    height: 160px;
+    position: absolute;
+    z-index: 4;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 126vh;
+    border-radius: 7px;
+}
+
+.div-divimg-our-mission-section-center {
+    display: flex;
+    justify-content: center;
+}
+
+.div-slogan-before-imgs2 {
+    display: flex;
+    justify-content: right;
+}
+
+.slogan-before-imgs2 {
+    font-size: 5px;
+    margin-top: 5px;
+    margin-right: 2vh;
+    font-family: cactus classical serif;
+    font-weight: 500;
+}
+
+
+
+.div-slogan-before-imgs23 {
+    font-size: 8px;
+    margin-top: 40px;
+    margin-right: 2vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+
+.div-slogan-before-imgs233 {
+    font-size: 8px;
+    margin-top: 20px;
+    margin-right: 2vh;
+    font-family: cactus classical serif;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.div-slogan-before-imgs233 {
+    display: flex;
+    justify-content: right;
+}
+
+.div-img-mission-vision-main-thing {
+    background-image: url(images/center-our-vivion.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    background-size: contain;
+}
+
+.div-slogan-before-imgs23 {
+    margin-top: 0;
+}
+
+@media (max-width: 320px) {
+    .div-img-mission-vision-main-thing {
+        background-image: url(images/center-our-vivion.png);
+        width: 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+        height: 35vh;
+        background-size: contain;
+    }
+}
+@media (min-width: 321px) {
+    .div-img-mission-vision-main-thing {
+        background-image: url(images/center-our-vivion.png);
+        width: 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+        height: 35vh;
+        background-size: contain;
+    }
+}
+
+@media (min-width: 412px) {
+    .div-img-mission-vision-main-thing {
+        background-image: url(images/center-our-vivion.png);
+        width: 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+        height: 45vh;
+        background-size: contain;
+    }
+}
+
+
+@media (min-width: 500px) {
+    .h1-heading-our-mission {
+        font-size: 35px;
+        margin-top: 200px;
+        margin-left: 4vh;
+        font-family: cactus classical serif;
+        font-weight: 100;
+    }
+
+    .div-img-mission-vision-main-thing {
+        background-image: url(images/center-our-vivion.png);
+        width: 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+        height: 55vh;
+        background-size: contain;
+    }
+    
+    .h1-heading-our-mission3 {
+        font-size: 13px;
+        margin-top: 2vh;
+        margin-left: 4vh;
+        font-family: cactus classical serif;
+        font-weight: 500;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    
+    .slogan-before-imgs {
+        font-size: 8px;
+        margin-top: 80px;
+        margin-left: 2vh;
+        font-family: cactus classical serif;
+        font-weight: 500;
+    }
+    
+    
+    .div-img-1-missioms{
+        width: 50%;
+        background-image: url(images/tempImageoGBQjX\ 2.png);
+       height: 170px;
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+    }
+    .div-img-1-missioms2 {
+        width: 50%;
+        background-image: url(images/tempImage34StyE\ 2.png);
+        height: 170px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+    .div-imgs-main-mission {
+        display: flex;
+        justify-content: baseline;
+    }
+    
+    .div-img-our-mission-section-center {
+        background-image: url(images/tempImageF6trjh\ 2-2.png);
+        width: 170px;
+        height: 220px;
+        position: absolute;
+        z-index: 2;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-top: 970px;
+        border-radius: 7px;
+    }
+    
+    .div-divimg-our-mission-section-center {
+        display: flex;
+        justify-content: center;
+    }
+    
+    .div-slogan-before-imgs2 {
+        display: flex;
+        justify-content: right;
+    }
+    
+    .slogan-before-imgs2 {
+        font-size: 8px;
+        margin-top: 5px;
+        margin-right: 2vh;
+        font-family: cactus classical serif;
+        font-weight: 500;
+    }
+    
+    
+    
+    .div-slogan-before-imgs23 {
+        font-size: 12px;
+        margin-top: 60px;
+        margin-right: 2vh;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 500;
+        margin-left: 10px;
+        margin-left: 20px;
+    }
+    
+    
+    .div-slogan-before-imgs233 {
+        font-size: 10px;
+        margin-top: 40px;
+        margin-right: 2vh;
+        font-family: cactus classical serif;
+        font-weight: 500;
+        margin-left: 10px;
+    }
+}
+
+
+@media (min-width: 700px) {
+    .h1-heading-our-mission {
+        font-size: 45px;
+        margin-top: 300px;
+        margin-left: 4vh;
+        font-family: cactus classical serif;
+        font-weight: 100;
+    }
+
+    .div-img-mission-vision-main-thing {
+        background-image: url(images/center-our-vivion.png);
+        width: 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+        height: 50vh;
+        background-size: contain;
+    }
+    
+    .h1-heading-our-mission3 {
+        font-size: 16px;
+        margin-top: 70px;
+        margin-left: 4vh;
+        font-family: cactus classical serif;
+        font-weight: 500;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    
+    .slogan-before-imgs {
+        font-size: 12px;
+        margin-top: 160px;
+        margin-left: 2vh;
+        font-family: cactus classical serif;
+        font-weight: 500;
+    }
+    
+    
+    .div-img-1-missioms{
+        width: 50%;
+        background-image: url(images/tempImageoGBQjX\ 2.png);
+       height: 260px;
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+    }
+    .div-img-1-missioms2 {
+        width: 50%;
+        background-image: url(images/tempImage34StyE\ 2.png);
+        height: 260px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+    .div-imgs-main-mission {
+        display: flex;
+        justify-content: baseline;
+    }
+    
+    .div-img-our-mission-section-center {
+        background-image: url(images/tempImageF6trjh\ 2-2.png);
+        width: 250px;
+        height: 320px;
+        position: absolute;
+        z-index: 2;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-top: 1189px;
+        border-radius: 7px;
+    }
+    
+    .div-divimg-our-mission-section-center {
+        display: flex;
+        justify-content: center;
+    }
+    
+    .div-slogan-before-imgs2 {
+        display: flex;
+        justify-content: right;
+    }
+    
+    .slogan-before-imgs2 {
+        font-size: 12px;
+        margin-top: 5px;
+        margin-right: 2vh;
+        font-family: cactus classical serif;
+        font-weight: 500;
+    }
+    
+    
+    
+    .div-slogan-before-imgs23 {
+        font-size: 13px;
+        margin-top: 70px;
+        margin-right: 2vh;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 500;
+        margin-left: 10px;
+        margin-left: 20px;
+    }
+    
+    
+    .div-slogan-before-imgs233 {
+        font-size: 12px;
+        margin-top: 40px;
+        margin-right: 2vh;
+        font-family: cactus classical serif;
+        font-weight: 500;
+        margin-left: 10px;
+    }
+}
+
+
+
+@media (min-width: 800px) {
+    .h1-heading-our-mission {
+        font-size: 45px;
+        margin-top: 300px;
+        margin-left: 4vh;
+        font-family: cactus classical serif;
+        font-weight: 100;
+    }
+
+    .div-img-mission-vision-main-thing {
+        background-image: url(images/Frame\ 59-2.png);
+        width: 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+        height: 80vh;
+        background-size: contain;
+    }
+}
+
+
+
+
+
+@media (min-width: 1000px) {
+    .div-img-mission-vision-main-thing {
+        background-image: url(images/center-our-vivion.png);
+        width: 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+        height: 100vh;
+        background-size: contain;
+    }
+
+    .h1-heading-our-mission {
+        font-size: 45px;
+        margin-top: 0px;
+        margin-left: 4vh;
+        font-family: cactus classical serif;
+        font-weight: 100;
+    }
+
+    .div-section1-our-ission {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .h1-heading-our-mission {
+        font-size: 45px;
+        margin-top: 0px;
+        margin-left: 4vh;
+        font-family: cactus classical serif;
+        font-weight: 100;
+    }
+    
+    .h1-heading-our-mission3 {
+        font-size: 14px;
+        margin-top: 0px;
+        margin-left: 4vh;
+        font-family: cactus classical serif;
+        font-weight: 500;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: right;
+        margin-right: 30px;
+    }
+    
+    
+    .slogan-before-imgs {
+        font-size: 14px;
+        margin-top: 70px;
+        margin-left: 30px;
+        font-family: cactus classical serif;
+        font-weight: 500;
+    }
+    
+    
+    .div-img-1-missioms{
+        width: 50%;
+        background-image: url(images/tempImageoGBQjX\ 2.png);
+       height: 360px;
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+    }
+    .div-img-1-missioms2 {
+        width: 50%;
+        background-image: url(images/tempImage34StyE\ 2.png);
+        height: 360px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+    .div-imgs-main-mission {
+        display: flex;
+        justify-content: baseline;
+    }
+    
+    .div-img-our-mission-section-center {
+        background-image: url(images/tempImageF6trjh\ 2-2.png);
+        width: 370px;
+        height: 450px;
+        position: absolute;
+        z-index: 2;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-top: 1075px;
+        border-radius: 7px;
+    }
+    
+    .div-divimg-our-mission-section-center {
+        display: flex;
+        justify-content: center;
+    }
+    
+    .div-slogan-before-imgs2 {
+        display: flex;
+        justify-content: right;
+    }
+    
+    .slogan-before-imgs2 {
+        font-size: 14px;
+        margin-top: 5px;
+        margin-right: 30px;
+        font-family: cactus classical serif;
+        font-weight: 500;
+    }
+    
+    
+    
+    .div-slogan-before-imgs23 {
+        font-size: 15px;
+        margin-top: 100px;
+        margin-right: 2vh;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 500;
+        margin-left: 10px;
+        margin-left: 20px;
+    }
+    
+    
+    .div-slogan-before-imgs233 {
+        font-size: 14px;
+        margin-top: 40px;
+        margin-right: 30px;
+        font-family: cactus classical serif;
+        font-weight: 500;
+        margin-left: 10px;
+    }
+}
+
+
+
+
+
+
+
+
+
+@media (min-width: 1500px) {
+    .div-img-mission-vision-main-thing {
+        background-image: url(images/center-our-vivion.png);
+        width: 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+        height: 120vh;
+        background-size: contain;
+    }
+
+    .div-section1-our-ission {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .h1-heading-our-mission {
+        font-size: 65px;
+        margin-top: 85px;
+        margin-left: 4vh;
+        font-family: cactus classical serif;
+        font-weight: 100;
+    }
+    
+    .h1-heading-our-mission3 {
+        font-size: 18px;
+        margin-top: 105px;
+        margin-left: 4vh;
+        font-family: cactus classical serif;
+        font-weight: 500;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: right;
+        margin-right: 30px;
+    }
+    
+    
+    .slogan-before-imgs {
+        font-size: 18px;
+        margin-top: 150px;
+        margin-left: 30px;
+        font-family: cactus classical serif;
+        font-weight: 500;
+    }
+    
+    
+    .div-img-1-missioms{
+        width: 50%;
+        background-image: url(images/tempImageoGBQjX\ 2.png);
+       height: 460px;
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+    }
+    .div-img-1-missioms2 {
+        width: 50%;
+        background-image: url(images/tempImage34StyE\ 2.png);
+        height: 460px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+    .div-imgs-main-mission {
+        display: flex;
+        justify-content: baseline;
+    }
+    
+    .div-img-our-mission-section-center {
+        background-image: url(images/tempImageF6trjh\ 2-2.png);
+        width: 590px;
+        height: 650px;
+        position: absolute;
+        z-index: 2;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-top: 1185px;
+        border-radius: 7px;
+    }
+    
+    .div-divimg-our-mission-section-center {
+        display: flex;
+        justify-content: center;
+    }
+    
+    .div-slogan-before-imgs2 {
+        display: flex;
+        justify-content: right;
+    }
+    
+    .slogan-before-imgs2 {
+        font-size: 18px;
+        margin-top: 5px;
+        margin-right: 30px;
+        font-family: cactus classical serif;
+        font-weight: 500;
+    }
+    
+    
+    
+    .div-slogan-before-imgs23 {
+        font-size: 20px;
+        margin-top: 190px;
+        margin-right: 2vh;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 500;
+        margin-left: 10px;
+        margin-left: 20px;
+    }
+    
+    
+    .div-slogan-before-imgs233 {
+        font-size: 18px;
+        margin-top: 70px;
+        margin-right: 30px;
+        font-family: cactus classical serif;
+        font-weight: 500;
+        margin-left: 10px;
+    }
+}
+
+
+@media (min-width: 2000px) {
+    .div-img-mission-vision-main-thing {
+        background-image: url(images/center-our-vivion.png);
+        width: 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+        height: 120vh;
+        background-size: contain;
+    }
+
+    .div-section1-our-ission {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .h1-heading-our-mission {
+        font-size: 90px;
+        margin-top: 85px;
+        margin-left: 15vh;
+        font-family: cactus classical serif;
+        font-weight: 100;
+    }
+    
+    .h1-heading-our-mission3 {
+        font-size: 30px;
+        margin-top: 135px;
+        margin-left: 10vh;
+        font-family: cactus classical serif;
+        font-weight: 500;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: right;
+        margin-right: 50px;
+    }
+    
+    
+    .slogan-before-imgs {
+        font-size: 18px;
+        margin-top: 150px;
+        margin-left: 30px;
+        font-family: cactus classical serif;
+        font-weight: 500;
+    }
+    
+    
+    .div-img-1-missioms{
+        width: 50%;
+        background-image: url(images/tempImageoGBQjX\ 2.png);
+       height: 460px;
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+    }
+    .div-img-1-missioms2 {
+        width: 50%;
+        background-image: url(images/tempImage34StyE\ 2.png);
+        height: 460px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+    .div-imgs-main-mission {
+        display: flex;
+        justify-content: baseline;
+    }
+    
+    .div-img-our-mission-section-center {
+        background-image: url(images/tempImageF6trjh\ 2-2.png);
+        width: 590px;
+        height: 650px;
+        position: absolute;
+        z-index: 2;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-top: 1185px;
+        border-radius: 7px;
+    }
+    
+    .div-divimg-our-mission-section-center {
+        display: flex;
+        justify-content: center;
+    }
+    
+    .div-slogan-before-imgs2 {
+        display: flex;
+        justify-content: right;
+    }
+    
+    .slogan-before-imgs2 {
+        font-size: 18px;
+        margin-top: 5px;
+        margin-right: 30px;
+        font-family: cactus classical serif;
+        font-weight: 500;
+    }
+    
+    
+    
+    .div-slogan-before-imgs23 {
+        font-size: 32px;
+        margin-top: 190px;
+        margin-right: 10vh;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 500;
+        margin-left: 10px;
+        margin-left: 70px;
+    }
+    
+    
+    .div-slogan-before-imgs233 {
+        font-size: 28px;
+        margin-top: 70px;
+        margin-right: 30px;
+        font-family: cactus classical serif;
+        font-weight: 500;
+        margin-left: 10px;
+    }
+}
+
+
+
+
+@media (min-width: 2560px) {
+    .div-img-mission-vision-main-thing {
+        background-image: url(images/center-our-vivion.png);
+        width: 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+        height: 150vh;
+        background-size: contain;
+    }
+
+    .div-section1-our-ission {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .h1-heading-our-mission {
+        font-size: 120px;
+        margin-top: 85px;
+        margin-left: 15vh;
+        font-family: cactus classical serif;
+        font-weight: 100;
+    }
+    
+    .h1-heading-our-mission3 {
+        font-size: 35px;
+        margin-top: 135px;
+        margin-left: 10vh;
+        font-family: cactus classical serif;
+        font-weight: 500;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: right;
+        margin-right: 70px;
+    }
+    
+    
+    .slogan-before-imgs {
+        font-size: 18px;
+        margin-top: 150px;
+        margin-left: 30px;
+        font-family: cactus classical serif;
+        font-weight: 500;
+    }
+    
+    
+    .div-img-1-missioms{
+        width: 50%;
+        background-image: url(images/tempImageoGBQjX\ 2.png);
+       height: 460px;
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+    }
+    .div-img-1-missioms2 {
+        width: 50%;
+        background-image: url(images/tempImage34StyE\ 2.png);
+        height: 460px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+    .div-imgs-main-mission {
+        display: flex;
+        justify-content: baseline;
+    }
+    
+    .div-img-our-mission-section-center {
+        background-image: url(images/tempImageF6trjh\ 2-2.png);
+        width: 590px;
+        height: 650px;
+        position: absolute;
+        z-index: 2;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-top: 1185px;
+        border-radius: 7px;
+    }
+    
+    .div-divimg-our-mission-section-center {
+        display: flex;
+        justify-content: center;
+    }
+    
+    .div-slogan-before-imgs2 {
+        display: flex;
+        justify-content: right;
+    }
+    
+    .slogan-before-imgs2 {
+        font-size: 18px;
+        margin-top: 5px;
+        margin-right: 30px;
+        font-family: cactus classical serif;
+        font-weight: 500;
+    }
+    
+    
+    
+    .div-slogan-before-imgs23 {
+        font-size: 39px;
+        margin-top: 190px;
+        margin-right: 10vh;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 500;
+        margin-left: 10px;
+        margin-left: 70px;
+    }
+    
+    
+    .div-slogan-before-imgs233 {
+        font-size: 35px;
+        margin-top: 70px;
+        margin-right: 30px;
+        font-family: cactus classical serif;
+        font-weight: 500;
+        margin-left: 10px;
+    }
+}
+
+
+
+
+.div-slogan-before-imgs23 {
+    margin-top: 0;
+}
+
+
+
+
+
+
+/* our vision section */
+
+
+.div-line-to-start-ne-section {
+    width: 100%;
+    height: 0.5px;
+    background-color: black;
+}
+
+.slogan1-value {
+    margin: 0px;
+    font-size: 5px;
+    font-family: cactus classical serif;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.slogan2-value {
+    margin: 0px;
+    font-size: 5px;
+    font-family: cactus classical serif;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+.img-arrow-vauers {
+    width: 7px;
+    margin-left: 55px;
+    margin-top: 25px;
+}
+
+.div-black-box-values-1-value {
+    width: 140px;
+    height: 170px;
+    background-color: #1e1e1e;
+    border-top-right-radius: 5px; 
+    border-bottom-right-radius: 5px;
+}
+
+.divheading-ofthevalue {
+    display: flex;
+    justify-content: center;
+}
+
+.heading-ofthevalue {
+    color: white;
+    font-size: 10px;
+    font-family: cactus classical serif;
+}
+
+.div-div-line-after-value-heading {
+    display: flex;
+    justify-content: center;
+}
+
+.div-line-after-value-heading {
+    width: 75%;
+    height: 0.5px;
+    background-color: white;
+}
+
+
+
+.divheading-ofthevalue3 {
+    display: flex;
+    justify-content: center;
+}
+
+.divheading-ofthevalue3 {
+    color: white;
+    font-size: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.div-down-section-of-value-box {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+}
+
+.div-buttons-next-last {
+    display: flex;
+    justify-content: center;
+}
+
+.paragraph-about-nect-box {
+    font-size: 7px;
+    color: white;
+    margin: 0;
+    font-family: cactus classical serif;
+    margin-top: 7px;
+    margin-left: 5px;
+}
+
+.button-next-box-1 {
+    background: none;
+    border: solid 0.5px white;
+    color: white;
+    border-radius: 100%;
+    padding-top: 3px;
+    padding-bottom: 4px;
+    font-size: 10px;
+    margin-right: 5px;
+}
+
+.button-next-box-2 {
+    background: none;
+    border: solid 0.5px white;
+    color: white;
+    border-radius: 100%;
+    padding-top: 3px;
+    padding-bottom: 4px;
+    font-size: 10px;
+    margin-right: 10px;
+}
+
+.div-headin-of-the-values-section {
+    position: relative;
+    z-index: -2;
+    bottom: 260px;
+    left: 150px;
+    margin-top: 37px;
+    margin-bottom: 0;
+}
+
+
+
+.div-headin-of-the-values-section-img {
+    position: relative;
+    z-index: -2;
+    bottom: 282px;
+    left: 107px;
+   
+}
+
+.headin-of-the-values-section-img {
+    width: 220px;
+    border-bottom-left-radius: 6px;
+    border-top-left-radius: 6px;
+}
+
+.headin-of-the-values-section {
+    margin-bottom: 25px;
+    font-family: cactus classical serif;
+    font-size: 27px;
+    font-weight: 100;
+}
+
+.button-next-box-1 {
+    padding-top: 3px;
+    bottom: 4px;
+    padding: 4px 6px 6px 6px;
+}
+
+.button-next-box-2 {
+   padding: 4px 6px 6px 6px;
+}
+
+
+
+.div-main-main-whole-site {
+    overflow-x: hidden;
+}
+
+@media (min-width: 325px) {
+    .div-line-to-start-ne-section {
+        width: 100%;
+        height: 0.5px;
+        background-color: black;
+    }
+    
+    .slogan1-value {
+        margin: 0px;
+        font-size: 5px;
+        font-family: cactus classical serif;
+        margin-left: 20px;
+        margin-top: 10px;
+    }
+    
+    .slogan2-value {
+        margin: 0px;
+        font-size: 5px;
+        font-family: cactus classical serif;
+        margin-left: 20px;
+        margin-top: 20px;
+        margin-bottom: 5px;
+    }
+    
+    .img-arrow-vauers {
+        width: 7px;
+        margin-left: 55px;
+        margin-top: 25px;
+    }
+    
+    .div-black-box-values-1-value {
+        width: 140px;
+        height: 170px;
+        background-color: #1e1e1e;
+        border-top-right-radius: 5px; 
+        border-bottom-right-radius: 5px;
+    }
+    
+    .divheading-ofthevalue {
+        display: flex;
+        justify-content: center;
+    }
+    
+    .heading-ofthevalue {
+        color: white;
+        font-size: 10px;
+        font-family: cactus classical serif;
+    }
+    
+    .div-div-line-after-value-heading {
+        display: flex;
+        justify-content: center;
+    }
+    
+    .div-line-after-value-heading {
+        width: 75%;
+        height: 0.5px;
+        background-color: white;
+    }
+    
+    
+    
+    .divheading-ofthevalue3 {
+        display: flex;
+        justify-content: center;
+    }
+    
+    .divheading-ofthevalue3 {
+        color: white;
+        font-size: 4px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 100;
+        text-align: center;
+        margin-top: 5px;
+    }
+    
+    .div-down-section-of-value-box {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 70px;
+    }
+    
+    .div-buttons-next-last {
+        display: flex;
+        justify-content: center;
+    }
+    
+    .paragraph-about-nect-box {
+        font-size: 7px;
+        color: white;
+        margin: 0;
+        font-family: cactus classical serif;
+        margin-top: 7px;
+        margin-left: 5px;
+    }
+    
+    .button-next-box-1 {
+        background: none;
+        border: solid 0.5px white;
+        color: white;
+        border-radius: 100%;
+        padding-top: 3px;
+        padding-bottom: 4px;
+        font-size: 10px;
+        margin-right: 5px;
+    }
+    
+    .button-next-box-2 {
+        background: none;
+        border: solid 0.5px white;
+        color: white;
+        border-radius: 100%;
+        padding-top: 3px;
+        padding-bottom: 4px;
+        font-size: 10px;
+        margin-right: 10px;
+    }
+    
+    .div-headin-of-the-values-section {
+        position: relative;
+        z-index: -2;
+        bottom: 260px;
+        left: 150px;
+        margin-top: 37px;
+        margin-bottom: 0;
+    }
+    
+    
+    
+    .div-headin-of-the-values-section-img {
+        position: relative;
+        z-index: -2;
+        bottom: 282px;
+        left: 107px;
+       
+    }
+    
+    .headin-of-the-values-section-img {
+        width: 220px;
+        border-bottom-left-radius: 6px;
+        border-top-left-radius: 6px;
+    }
+    
+    .headin-of-the-values-section {
+        margin-bottom: 25px;
+        font-family: cactus classical serif;
+        font-size: 27px;
+        font-weight: 100;
+    }
+    
+    .button-next-box-1 {
+        padding-top: 3px;
+        bottom: 4px;
+        padding: 4px 6px 6px 6px;
+    }
+    
+    .button-next-box-2 {
+       padding: 4px 6px 6px 6px;
+    }
+    
+    
+    
+    .div-main-main-whole-site {
+        overflow-x: hidden;
+    }
+}
+
+
+
+@media (min-width: 327px) {
+    .div-line-to-start-ne-section {
+        width: 100%;
+        height: 0.5px;
+        background-color: black;
+    }
+    
+    .slogan1-value {
+        margin: 0px;
+        font-size: 5px;
+        font-family: cactus classical serif;
+        margin-left: 20px;
+        margin-top: 10px;
+    }
+    
+    .slogan2-value {
+        margin: 0px;
+        font-size: 5px;
+        font-family: cactus classical serif;
+        margin-left: 20px;
+        margin-top: 20px;
+        margin-bottom: 5px;
+    }
+    
+    .img-arrow-vauers {
+        width: 7px;
+        margin-left: 55px;
+        margin-top: 25px;
+    }
+    
+    .div-black-box-values-1-value {
+        width: 45%;
+        height: 51vw;
+        background-color: #1e1e1e;
+        border-top-right-radius: 5px; 
+        border-bottom-right-radius: 5px;
+    }
+    
+    .divheading-ofthevalue {
+        display: flex;
+        justify-content: center;
+    }
+    
+    .heading-ofthevalue {
+        color: white;
+        font-size: 10px;
+        font-family: cactus classical serif;
+    }
+    
+    .div-div-line-after-value-heading {
+        display: flex;
+        justify-content: center;
+    }
+    
+    .div-line-after-value-heading {
+        width: 75%;
+        height: 0.5px;
+        background-color: white;
+    }
+    
+    
+    
+    .divheading-ofthevalue3 {
+        display: flex;
+        justify-content: center;
+    }
+    
+    .divheading-ofthevalue3 {
+        color: white;
+        font-size: 4px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 100;
+        text-align: center;
+        margin-top: 5px;
+    }
+    
+    .div-down-section-of-value-box {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 70px;
+    }
+    
+    .div-buttons-next-last {
+        display: flex;
+        justify-content: center;
+    }
+    
+    .paragraph-about-nect-box {
+        font-size: 7px;
+        color: white;
+        margin: 0;
+        font-family: cactus classical serif;
+        margin-top: 7px;
+        margin-left: 5px;
+    }
+    
+    .button-next-box-1 {
+        background: none;
+        border: solid 0.5px white;
+        color: white;
+        border-radius: 100%;
+        padding-top: 3px;
+        padding-bottom: 4px;
+        font-size: 10px;
+        margin-right: 5px;
+    }
+    
+    .button-next-box-2 {
+        background: none;
+        border: solid 0.5px white;
+        color: white;
+        border-radius: 100%;
+        padding-top: 3px;
+        padding-bottom: 4px;
+        font-size: 10px;
+        margin-right: 10px;
+    }
+    
+    .div-headin-of-the-values-section {
+        position: relative;
+        z-index: -10;
+        bottom: 260px;
+        left: 50%;
+
+        margin-bottom: 0;
+    }
+    
+    
+    
+    .div-headin-of-the-values-section-img {
+        position: relative;
+        z-index: -10;
+        bottom: 282px;
+        left: 32%;
+       
+    }
+    
+    .headin-of-the-values-section-img {
+        width: 70%;
+        height: 100%;
+        border-bottom-left-radius: 6px;
+        border-top-left-radius: 6px;
+    }
+    
+    .headin-of-the-values-section {
+        margin-bottom: 25px;
+        font-family: cactus classical serif;
+        font-size: 27px;
+        font-weight: 100;
+    }
+    
+    .button-next-box-1 {
+        padding-top: 3px;
+        bottom: 4px;
+        padding: 4px 6px 6px 6px;
+    }
+    
+    .button-next-box-2 {
+       padding: 4px 6px 6px 6px;
+    }
+    
+    
+    
+    .div-main-main-whole-site {
+        overflow-x: hidden;
+    }
+
+    .div-around-black-value-box {
+        width: 100%;
+
+    }
+
+    .div-rigth-heading-value-img {
+        position: relative;
+        z-index: -10;
+        margin: 0;
+        bottom:  0px;
+    }
+}
+
+
+@media (min-width: 340px) {
+    .div-rigth-heading-value-img {
+        bottom:  12px;
+    }
+}
+
+
+@media (min-width: 360px) {
+    .div-rigth-heading-value-img {
+        bottom: 24px;
+    }
+}
+
+@media (min-width: 380px) {
+    .div-rigth-heading-value-img {
+        bottom: 36px;
+    }
+}
+
+@media (min-width: 400px) {
+    .div-rigth-heading-value-img {
+        bottom: 48px;
+    }
+}
+
+@media (min-width: 420px) {
+    .div-rigth-heading-value-img {
+        bottom: 60px;
+    }
+}
+
+@media (min-width: 440px) {
+    .div-rigth-heading-value-img {
+        bottom: 72px;
+    }
+}
+
+@media (min-width: 460px) {
+    .div-rigth-heading-value-img {
+        bottom: 84px;
+    }
+}
+
+
+@media (min-width: 480px) {
+    .div-rigth-heading-value-img {
+        bottom: 96px;
+    }
+}
+
+@media (min-width: 500px) {
+    .div-rigth-heading-value-img {
+        bottom: 108px;
+    }
+}
+
+@media (min-width: 520px) {
+    .div-rigth-heading-value-img {
+        bottom: 120px;
+    }
+}
+
+@media (min-width: 540px) {
+    .div-rigth-heading-value-img {
+        bottom: 132px;
+    }
+}
+
+@media (min-width: 560px) {
+    .div-rigth-heading-value-img {
+        bottom: 144px;
+    }
+}
+
+@media (min-width: 580px) {
+    .div-rigth-heading-value-img {
+        bottom: 156px;
+    }
+}
+
+@media (min-width: 600px) {
+    .div-rigth-heading-value-img {
+        bottom: 168px;
+    }
+}
+
+@media (min-width: 620px) {
+    .div-rigth-heading-value-img {
+        bottom: 180px;
+    }
+}
+
+@media (min-width: 640px) {
+    .div-rigth-heading-value-img {
+        bottom: 192px;
+    }
+}
+
+@media (min-width: 660px) {
+    .div-rigth-heading-value-img {
+        bottom: 204px;
+    }
+}
+
+@media (min-width: 680px) {
+    .div-rigth-heading-value-img {
+        bottom: 216px;
+    }
+}
+
+@media (min-width: 700px) {
+    .div-rigth-heading-value-img { bottom: 258px; }
+}
+
+@media (min-width: 720px) {
+    .div-rigth-heading-value-img { bottom: 270px; }
+}
+
+@media (min-width: 740px) {
+    .div-rigth-heading-value-img { bottom: 282px; }
+}
+
+@media (min-width: 760px) {
+    .div-rigth-heading-value-img { bottom: 294px; }
+}
+
+@media (min-width: 780px) {
+    .div-rigth-heading-value-img { bottom: 306px; }
+}
+
+@media (min-width: 800px) {
+    .div-rigth-heading-value-img { bottom: 318px; }
+}
+
+@media (min-width: 820px) {
+    .div-rigth-heading-value-img { bottom: 330px; }
+}
+
+@media (min-width: 840px) {
+    .div-rigth-heading-value-img { bottom: 342px; }
+}
+
+@media (min-width: 860px) {
+    .div-rigth-heading-value-img { bottom: 354px; }
+}
+
+@media (min-width: 880px) {
+    .div-rigth-heading-value-img { bottom: 366px; }
+}
+
+@media (min-width: 900px) {
+    .div-rigth-heading-value-img { bottom: 378px; }
+}
+
+@media (min-width: 920px) {
+    .div-rigth-heading-value-img { bottom: 390px; }
+}
+
+@media (min-width: 940px) {
+    .div-rigth-heading-value-img { bottom: 402px; }
+}
+
+@media (min-width: 960px) {
+    .div-rigth-heading-value-img { bottom: 444px; }
+}
+
+
+
+
+ @media (min-width: 980px) {
+    .div-rigth-heading-value-img { bottom: 456px; }
+}
+
+@media (min-width: 1000px) {
+    .div-rigth-heading-value-img { bottom: 488px; }
+}
+
+@media (min-width: 1020px) {
+    .div-rigth-heading-value-img { bottom: 490px; }
+}
+
+
+@media (min-width: 1040px) {
+    .div-rigth-heading-value-img { bottom: 502px; }
+}
+
+@media (min-width: 1060px) {
+    .div-rigth-heading-value-img { bottom: 514px; }
+}
+
+@media (min-width: 1080px) {
+    .div-rigth-heading-value-img { bottom: 536px; }
+}
+
+@media (min-width: 1100px) {
+    .div-rigth-heading-value-img { bottom: 568px; }
+}
+
+
+@media (min-width: 1120px) {
+    .div-rigth-heading-value-img { bottom: 580px; }
+}
+
+@media (min-width: 1140px) {
+    .div-rigth-heading-value-img { bottom: 592px; }
+}
+
+@media (min-width: 1160px) {
+    .div-rigth-heading-value-img { bottom: 614px; }
+}
+
+@media (min-width: 1180px) {
+    .div-rigth-heading-value-img { bottom: 626px; }
+}
+
+@media (min-width: 1200px) {
+    .div-rigth-heading-value-img { bottom: 648px; }
+}
+
+@media (min-width: 1220px) {
+    .div-rigth-heading-value-img { bottom: 660px; }
+}
+
+@media (min-width: 1240px) {
+    .div-rigth-heading-value-img { bottom: 682px; }
+}
+
+@media (min-width: 1260px) {
+    .div-rigth-heading-value-img { bottom: 694px; }
+}
+
+@media (min-width: 1280px) {
+    .div-rigth-heading-value-img { bottom: 716px; }
+}
+
+
+@media (min-width: 1300px) {
+    .div-rigth-heading-value-img { bottom: 728px; }
+}
+
+@media (min-width: 1320px) {
+    .div-rigth-heading-value-img { bottom: 740px; }
+}
+
+@media (min-width: 1340px) {
+    .div-rigth-heading-value-img { bottom: 752px; }
+}
+
+@media (min-width: 1360px) {
+    .div-rigth-heading-value-img { bottom: 764px; }
+}
+
+@media (min-width: 1380px) {
+    .div-rigth-heading-value-img { bottom: 776px; }
+}
+
+@media (min-width: 1400px) {
+    .div-rigth-heading-value-img { bottom: 788px; }
+}
+
+@media (min-width: 1420px) {
+    .div-rigth-heading-value-img { bottom: 800px; }
+}
+
+@media (min-width: 1440px) {
+    .div-rigth-heading-value-img { bottom: 812px; }
+}
+
+@media (min-width: 1460px) {
+    .div-rigth-heading-value-img { bottom: 824px; }
+}
+
+@media (min-width: 1480px) {
+    .div-rigth-heading-value-img { bottom: 836px; }
+}
+
+@media (min-width: 1500px) {
+    .div-rigth-heading-value-img { bottom: 848px; }
+}
+
+@media (min-width: 1520px) {
+    .div-rigth-heading-value-img { bottom: 860px; }
+}
+
+@media (min-width: 1540px) {
+    .div-rigth-heading-value-img { bottom: 872px; }
+}
+
+@media (min-width: 1560px) {
+    .div-rigth-heading-value-img { bottom: 884px; }
+}
+
+@media (min-width: 1580px) {
+    .div-rigth-heading-value-img { bottom: 896px; }
+}
+
+@media (min-width: 1600px) {
+    .div-rigth-heading-value-img { bottom: 908px; }
+}
+
+@media (min-width: 1620px) {
+    .div-rigth-heading-value-img { bottom: 920px; }
+}
+
+@media (min-width: 1640px) {
+    .div-rigth-heading-value-img { bottom: 932px; }
+}
+
+@media (min-width: 1660px) {
+    .div-rigth-heading-value-img { bottom: 944px; }
+}
+
+@media (min-width: 1680px) {
+    .div-rigth-heading-value-img { bottom: 956px; }
+}
+
+@media (min-width: 1700px) {
+    .div-rigth-heading-value-img { bottom: 968px; }
+}
+
+@media (min-width: 1720px) {
+    .div-rigth-heading-value-img { bottom: 980px; }
+}
+
+@media (min-width: 1740px) {
+    .div-rigth-heading-value-img { bottom: 992px; }
+}
+
+@media (min-width: 1760px) {
+    .div-rigth-heading-value-img { bottom: 1004px; }
+}
+
+@media (min-width: 1780px) {
+    .div-rigth-heading-value-img { bottom: 1016px; }
+}
+
+@media (min-width: 1800px) {
+    .div-rigth-heading-value-img { bottom: 1028px; }
+}
+
+@media (min-width: 1820px) {
+    .div-rigth-heading-value-img { bottom: 1040px; }
+}
+
+@media (min-width: 1840px) {
+    .div-rigth-heading-value-img { bottom: 1052px; }
+}
+
+@media (min-width: 1860px) {
+    .div-rigth-heading-value-img { bottom: 1064px; }
+}
+
+@media (min-width: 1880px) {
+    .div-rigth-heading-value-img { bottom: 1076px; }
+}
+
+@media (min-width: 1900px) {
+    .div-rigth-heading-value-img { bottom: 1088px; }
+}
+
+@media (min-width: 1920px) {
+    .div-rigth-heading-value-img { bottom: 1100px; }
+}
+
+@media (min-width: 1940px) {
+    .div-rigth-heading-value-img { bottom: 1112px; }
+}
+
+@media (min-width: 1960px) {
+    .div-rigth-heading-value-img { bottom: 1124px; }
+}
+
+@media (min-width: 1980px) {
+    .div-rigth-heading-value-img { bottom: 1136px; }
+}
+
+@media (min-width: 2000px) {
+    .div-rigth-heading-value-img { bottom: 1148px; }
+}
+
+@media (min-width: 2000px) {
+    .div-rigth-heading-value-img { bottom: 1148px; }
+}
+
+@media (min-width: 2020px) {
+    .div-rigth-heading-value-img { bottom: 1160px; }
+}
+
+@media (min-width: 2040px) {
+    .div-rigth-heading-value-img { bottom: 1172px; }
+}
+
+@media (min-width: 2060px) {
+    .div-rigth-heading-value-img { bottom: 1184px; }
+}
+
+@media (min-width: 2080px) {
+    .div-rigth-heading-value-img { bottom: 1196px; }
+}
+
+@media (min-width: 2100px) {
+    .div-rigth-heading-value-img { bottom: 1208px; }
+}
+
+@media (min-width: 2120px) {
+    .div-rigth-heading-value-img { bottom: 1220px; }
+}
+
+@media (min-width: 2140px) {
+    .div-rigth-heading-value-img { bottom: 1232px; }
+}
+
+@media (min-width: 2160px) {
+    .div-rigth-heading-value-img { bottom: 1244px; }
+}
+
+@media (min-width: 2180px) {
+    .div-rigth-heading-value-img { bottom: 1256px; }
+}
+
+@media (min-width: 2200px) {
+    .div-rigth-heading-value-img { bottom: 1268px; }
+}
+
+@media (min-width: 2220px) {
+    .div-rigth-heading-value-img { bottom: 1280px; }
+}
+
+@media (min-width: 2240px) {
+    .div-rigth-heading-value-img { bottom: 1292px; }
+}
+
+@media (min-width: 2260px) {
+    .div-rigth-heading-value-img { bottom: 1304px; }
+}
+
+@media (min-width: 2280px) {
+    .div-rigth-heading-value-img { bottom: 1316px; }
+}
+
+@media (min-width: 2300px) {
+    .div-rigth-heading-value-img { bottom: 1328px; }
+}
+
+@media (min-width: 2320px) {
+    .div-rigth-heading-value-img { bottom: 1340px; }
+}
+
+@media (min-width: 2340px) {
+    .div-rigth-heading-value-img { bottom: 1352px; }
+}
+
+@media (min-width: 2360px) {
+    .div-rigth-heading-value-img { bottom: 1364px; }
+}
+
+@media (min-width: 2380px) {
+    .div-rigth-heading-value-img { bottom: 1376px; }
+}
+
+@media (min-width: 2400px) {
+    .div-rigth-heading-value-img { bottom: 1388px; }
+}
+
+@media (min-width: 2420px) {
+    .div-rigth-heading-value-img { bottom: 1400px; }
+}
+
+@media (min-width: 2440px) {
+    .div-rigth-heading-value-img { bottom: 1412px; }
+}
+
+@media (min-width: 2460px) {
+    .div-rigth-heading-value-img { bottom: 1424px; }
+}
+
+@media (min-width: 2480px) {
+    .div-rigth-heading-value-img { bottom: 1436px; }
+}
+
+@media (min-width: 2500px) {
+    .div-rigth-heading-value-img { bottom: 1448px; }
+}
+
+@media (min-width: 2520px) {
+    .div-rigth-heading-value-img { bottom: 1460px; }
+}
+
+@media (min-width: 2540px) {
+    .div-rigth-heading-value-img { bottom: 1472px; }
+}
+
+@media (min-width: 2560px) {
+    .div-rigth-heading-value-img { bottom: 1484px; }
+}
+
+
+
+
+
+.divheading-ofthevalue3 {
+    width: 80%;
+}
+
+.div-headingjne3 {
+    display: flex;
+    justify-content: center;
+}
+
+
+@media (min-width: 350px) {
+    .div-down-section-of-value-box {
+        margin-top: 50%;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 40px;
+        margin-top: 0;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 120px;
+        margin-top: 20px;
+    }
+
+}
+
+@media (min-width: 400px) {
+    .div-down-section-of-value-box {
+        margin-top: 40%;
+    }
+
+    .paragraph-about-nect-box {
+        margin-left: 20px;
+        font-size: 8px;
+    }
+    .divheading-ofthevalue3 {
+        font-size: 6px;
+    }
+
+    .heading-ofthevalue {
+        font-size: 12px;
+        margin: 0;
+        margin-top: 10px;
+        margin-bottom: 7px;
+    }
+
+    .slogan1-value {
+        font-size: 6px;
+        margin: 0;
+        margin-top: 10px;
+        margin-left: 14px;
+    }
+
+    .slogan2-value {
+        font-size: 6px;
+        margin-left: 14px;
+        margin-bottom: 10px;
+    }
+
+
+    .img-arrow-vauers {
+        width: 10px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 34px;
+    }
+
+
+    .headin-of-the-values-section {
+        font-size: 45px;
+        margin-top: 0;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 20px;
+    }
+
+
+    .button-next-box-1 {
+        font-size: 13px;
+    }
+
+    .button-next-box-2 {
+        font-size: 13px;
+        margin-right: 15px;
+    }
+
+    .paragraph-about-nect-box {
+        margin-left: 10px;
+    }
+
+}
+
+
+
+@media (min-width: 500px) {
+    .div-down-section-of-value-box {
+        margin-top: 54%;
+    }
+
+    .paragraph-about-nect-box {
+        margin-left: 20px;
+        font-size: 10px;
+    }
+    .divheading-ofthevalue3 {
+        font-size: 7px;
+        font-weight: lighter;
+    }
+
+    .heading-ofthevalue {
+        font-size: 12px;
+        margin: 0;
+        margin-top: 10px;
+        margin-bottom: 7px;
+    }
+
+    .slogan1-value {
+        font-size: 8px;
+        margin: 0;
+        margin-top: 20px;
+        margin-left: 14px;
+    }
+
+    .slogan2-value {
+        font-size: 8px;
+        margin-left: 14px;
+        margin-bottom: 10px;
+    }
+
+
+    .img-arrow-vauers {
+        width: 10px;
+        margin-left: 70px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 34px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 55px;
+        margin-top: 0;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 10px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 55px;
+        margin-top: 0;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 20px;
+    }
+
+
+    .button-next-box-1 {
+        font-size: 14px;
+    }
+
+    .button-next-box-2 {
+        font-size: 14px;
+        margin-right: 15px;
+    }
+
+    .paragraph-about-nect-box {
+        margin-left: 10px;
+    }
+
+}
+
+
+@media (min-width: 600px) {
+    .div-down-section-of-value-box {
+        margin-top: 54%;
+    }
+
+    .paragraph-about-nect-box {
+        margin-left: 20px;
+        font-size: 10px;
+    }
+    .divheading-ofthevalue3 {
+        font-size: 7px;
+        font-weight: lighter;
+    }
+
+    .heading-ofthevalue {
+        font-size: 12px;
+        margin: 0;
+        margin-top: 10px;
+        margin-bottom: 7px;
+    }
+
+    .slogan1-value {
+        font-size: 10px;
+        margin: 0;
+        margin-top: 20px;
+        margin-left: 14px;
+    }
+
+    .slogan2-value {
+        font-size: 10px;
+        margin-left: 14px;
+        margin-bottom: 10px;
+    }
+
+
+    .img-arrow-vauers {
+        width: 12px;
+        margin-left: 85px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 34px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 80px;
+        margin-top: 0;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 10px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 55px;
+        margin-top: 0;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 20px;
+    }
+
+
+    .button-next-box-1 {
+        font-size: 14px;
+    }
+
+    .button-next-box-2 {
+        font-size: 14px;
+        margin-right: 15px;
+    }
+
+    .paragraph-about-nect-box {
+        margin-left: 10px;
+    }
+
+}
+
+@media (min-width: 700px) {
+    .div-down-section-of-value-box {
+        margin-top: 52%;
+    }
+
+    .paragraph-about-nect-box {
+        margin-left: 90px;
+        font-size: 14px;
+    }
+    .divheading-ofthevalue3 {
+        font-size: 10px;
+        font-weight: lighter;
+    }
+
+    .heading-ofthevalue {
+        font-size: 20px;
+        margin: 0;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+
+    .slogan1-value {
+        font-size: 11px;
+        margin: 0;
+        margin-top: 20px;
+        margin-left: 14px;
+        margin-bottom: 20px;
+    }
+
+    .slogan2-value {
+        font-size: 11px;
+        margin-left: 14px;
+        margin-bottom: 13px;
+        margin-top: 20px;
+    }
+
+
+    .img-arrow-vauers {
+        width: 12px;
+        margin-left: 93px;
+        margin-bottom: 20px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 34px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 100px;
+        margin-top: 0;
+        position: relative;
+        z-index: -11;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 10px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 75px;
+        margin-top: 0;
+        bottom: 15px;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 20px;
+    }
+
+
+    .button-next-box-1 {
+        font-size: 18px;
+        margin-right: 10px;
+    }
+
+    .button-next-box-2 {
+        font-size: 18px;
+        margin-right: 25px;
+    }
+
+    .paragraph-about-nect-box {
+        margin-left: 10px;
+    }
+
+}
+
+
+
+@media (min-width: 800px) {
+    .div-black-box-values-1-value {
+        border-top-right-radius: 15px;
+        border-bottom-right-radius: 15px;
+    }
+
+    .headin-of-the-values-section-img {
+        border-top-left-radius: 15px;
+        border-bottom-left-radius: 15px;
+    }
+
+    .div-down-section-of-value-box {
+        margin-top: 56%;
+    }
+
+    .div-paragraph-about-nect-box {
+        margin-left: 30px;
+        font-size: 19px;
+        margin-top: 8px;
+    }
+    .divheading-ofthevalue3 {
+        font-size: 10px;
+        font-weight: lighter;
+    }
+
+    .heading-ofthevalue {
+        font-size: 25px;
+        margin: 0;
+        margin-top: 27px;
+        margin-bottom: 13px;
+    }
+
+    .slogan1-value {
+        font-size: 13px;
+        margin: 0;
+        margin-top: 20px;
+        margin-left: 17px;
+        margin-bottom: 30px;
+    }
+
+    .slogan2-value {
+        font-size: 13px;
+        margin-left: 17px;
+        margin-bottom: 13px;
+        margin-top: 20px;
+    }
+
+
+    .img-arrow-vauers {
+        width: 12px;
+        margin-left: 115px;
+        margin-bottom: 30px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 34px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 100px;
+        margin-top: 0;
+        position: relative;
+        z-index: -11;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 10px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 90px;
+        margin-top: 0;
+        bottom: 10px;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 20px;
+    }
+
+
+    .button-next-box-1 {
+        font-size: 20px;
+        margin-right: 10px;
+        padding: 8px 9px 9px 9px;
+    }
+
+    .button-next-box-2 {
+        font-size: 20px;
+        margin-right: 30px;
+        padding: 8px 9px 9px 9px;
+    }
+
+    .paragraph-about-nect-box {
+        margin-left: 10px;
+    }
+
+}
+
+
+
+
+@media (min-width: 900px) {
+    .div-down-section-of-value-box {
+        margin-top: 49%;
+    }
+
+    .div-paragraph-about-nect-box {
+        margin-left: 40px;
+        font-size: 20px;
+        margin-top: 8px;
+    }
+
+    .divheading-ofthevalue3 {
+        font-size: 12px;
+        font-weight: lighter;
+    }
+
+    .heading-ofthevalue {
+        font-size: 30px;
+        margin: 0;
+        margin-top: 30px;
+        margin-bottom: 15px;
+    }
+
+    .slogan1-value {
+        font-size: 15px;
+        margin: 0;
+        margin-top: 20px;
+        margin-left: 20px;
+        margin-bottom: 35px;
+    }
+
+    .slogan2-value {
+        font-size: 15px;
+        margin-left: 20px;
+        margin-bottom: 15px;
+        margin-top: 25px;
+    }
+
+    .img-arrow-vauers {
+        width: 14px;
+        margin-left: 130px;
+        margin-bottom: 35px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 34px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 120px;
+        margin-top: 0;
+        position: relative;
+        z-index: -11;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 10px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 100px;
+        margin-top: 0;
+        bottom: 10px;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 20px;
+    }
+
+    .button-next-box-1 {
+        font-size: 22px;
+        margin-right: 12px;
+        padding: 10px 12px 12px 12px;
+    }
+
+    .button-next-box-2 {
+        font-size: 22px;
+        margin-right: 32px;
+        padding: 10px 12px 12px 12px;
+    }
+
+    .paragraph-about-nect-box {
+        margin-left: 10px;
+    }
+}
+
+@media (min-width: 1000px) {
+    .div-down-section-of-value-box {
+        margin-top: 46%;
+    }
+
+    .div-black-box-values-1-value {
+        border-top-right-radius: 17px;
+        border-bottom-right-radius: 17px;
+    }
+
+    .headin-of-the-values-section-img {
+        border-top-left-radius: 17px;
+        border-bottom-left-radius: 17px;
+    }
+
+    .div-paragraph-about-nect-box {
+        margin-left: 50px;
+        font-size: 22px;
+        margin-top: 10px;
+    }
+
+    .divheading-ofthevalue3 {
+        font-size: 14px;
+        font-weight: lighter;
+    }
+
+    .heading-ofthevalue {
+        font-size: 35px;
+        margin: 0;
+        margin-top: 35px;
+        margin-bottom: 20px;
+    }
+
+    .slogan1-value {
+        font-size: 17px;
+        margin: 0;
+        margin-top: 25px;
+        margin-left: 22px;
+        margin-bottom: 40px;
+    }
+
+    .slogan2-value {
+        font-size: 17px;
+        margin-left: 22px;
+        margin-bottom: 18px;
+        margin-top: 30px;
+    }
+
+    .img-arrow-vauers {
+        width: 16px;
+        margin-left: 150px;
+        margin-bottom: 40px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 34px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 130px;
+        margin-top: 0;
+        position: relative;
+        z-index: -11;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 10px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 110px;
+        margin-top: 0;
+        bottom: 10px;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 20px;
+    }
+
+    .button-next-box-1 {
+        font-size: 24px;
+        margin-right: 14px;
+        padding: 12px 14px 14px 14px;
+        border-width: 1px;
+    }
+
+    .button-next-box-2 {
+        font-size: 24px;
+        margin-right: 34px;
+        padding: 12px 14px 14px 14px;
+        border-width: 1px;
+    }
+
+    .paragraph-about-nect-box {
+        margin-left: 10px;
+    }
+}
+
+@media (min-width: 1100px) {
+    .div-down-section-of-value-box {
+        margin-top: 45%;
+    }
+
+    .div-paragraph-about-nect-box {
+        margin-left: 60px;
+        font-size: 24px;
+        margin-top: 12px;
+    }
+
+    .divheading-ofthevalue3 {
+        font-size: 16px;
+        font-weight: lighter;
+    }
+
+    .heading-ofthevalue {
+        font-size: 40px;
+        margin: 0;
+        margin-top: 40px;
+        margin-bottom: 25px;
+    }
+
+    .slogan1-value {
+        font-size: 19px;
+        margin: 0;
+        margin-top: 30px;
+        margin-left: 25px;
+        margin-bottom: 45px;
+    }
+
+    .slogan2-value {
+        font-size: 19px;
+        margin-left: 25px;
+        margin-bottom: 20px;
+        margin-top: 35px;
+    }
+
+    .img-arrow-vauers {
+        width: 18px;
+        margin-left: 170px;
+        margin-bottom: 45px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 34px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 140px;
+        margin-top: 0;
+        position: relative;
+        z-index: -11;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 10px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 120px;
+        margin-top: 0;
+        bottom: 10px;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 20px;
+    }
+
+    .button-next-box-1 {
+        font-size: 26px;
+        margin-right: 16px;
+        padding: 14px 16px 16px 16px;
+        border-width: 1px;
+    }
+
+    .button-next-box-2 {
+        font-size: 26px;
+        margin-right: 36px;
+        padding: 14px 16px 16px 16px;
+        border-width: 1px;
+    }
+
+    .paragraph-about-nect-box {
+        margin-left: 10px;
+    }
+}
+
+@media (min-width: 1200px) {
+   
+
+    .div-down-section-of-value-box {
+        margin-top: 43%;
+    }
+
+    .div-paragraph-about-nect-box {
+        margin-left: 70px;
+        font-size: 26px;
+        margin-top: 14px;
+    }
+
+    .divheading-ofthevalue3 {
+        font-size: 18px;
+        font-weight: lighter;
+    }
+
+    .heading-ofthevalue {
+        font-size: 45px;
+        margin: 0;
+        margin-top: 45px;
+        margin-bottom: 30px;
+    }
+
+    .slogan1-value {
+        font-size: 21px;
+        margin: 0;
+        margin-top: 35px;
+        margin-left: 28px;
+        margin-bottom: 50px;
+    }
+
+    .slogan2-value {
+        font-size: 21px;
+        margin-left: 28px;
+        margin-bottom: 25px;
+        margin-top: 40px;
+    }
+
+    .img-arrow-vauers {
+        width: 20px;
+        margin-left: 190px;
+        margin-bottom: 50px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 34px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 150px;
+        margin-top: 0;
+        position: relative;
+        z-index: -11;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 10px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 130px;
+        margin-top: 0;
+        bottom: 10px;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 20px;
+    }
+
+    .button-next-box-1 {
+        font-size: 28px;
+        margin-right: 18px;
+        padding: 16px 18px 18px 18px;
+        border-width: 1px;
+    }
+
+    .button-next-box-2 {
+        font-size: 28px;
+        margin-right: 38px;
+        padding: 16px 18px 18px 18px;
+        border-width: 1px;
+    }
+
+    .paragraph-about-nect-box {
+        margin-left: 10px;
+    }
+
+    .div-black-box-values-1-value {
+        border-top-right-radius: 19px;
+        border-bottom-right-radius: 19px;
+    }
+
+    .headin-of-the-values-section-img {
+        border-top-left-radius: 19px;
+        border-bottom-left-radius: 19px;
+    }
+}
+
+
+
+@media (min-width: 1300px) {
+    .div-down-section-of-value-box {
+        margin-top: 45%;
+    }
+
+    .div-paragraph-about-nect-box {
+        margin-left: 80px;
+        font-size: 28px;
+        margin-top: 16px;
+    }
+
+    .divheading-ofthevalue3 {
+        font-size: 20px;
+        font-weight: lighter;
+    }
+
+    .heading-ofthevalue {
+        font-size: 35px;
+        margin: 0;
+        margin-top: 35px;
+        margin-bottom: 15px;
+    }
+
+    .slogan1-value {
+        font-size: 23px;
+        margin: 0;
+        margin-top: 40px;
+        margin-left: 30px;
+        margin-bottom: 55px;
+    }
+
+    .slogan2-value {
+        font-size: 23px;
+        margin-left: 30px;
+        margin-bottom: 30px;
+        margin-top: 45px;
+    }
+
+    .img-arrow-vauers {
+        width: 22px;
+        margin-left: 210px;
+        margin-bottom: 55px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 34px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 160px;
+        margin-top: 0;
+        position: relative;
+        z-index: -11;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 10px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 140px;
+        margin-top: 0;
+        bottom: 10px;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 20px;
+    }
+
+    .button-next-box-1 {
+        font-size: 30px;
+        margin-right: 20px;
+        padding: 18px 20px 20px 20px;
+        border-width: 1px;
+    }
+
+    .button-next-box-2 {
+        font-size: 30px;
+        margin-right: 40px;
+        padding: 18px 20px 20px 20px;
+        border-width: 1px;
+    }
+
+    .paragraph-about-nect-box {
+        margin-left: 10px;
+    }
+
+    .paragraph-about-nect-box {
+        font-size: 24px;
+    }
+}
+
+@media (min-width: 1400px) {
+    .div-down-section-of-value-box {
+        margin-top: 50%;
+    }
+
+    .div-paragraph-about-nect-box {
+        margin-left: 90px;
+        font-size: 20px;
+        margin-top: 18px;
+    }
+
+    .divheading-ofthevalue3 {
+        font-size: 20px;
+        font-weight: lighter;
+    }
+
+    .heading-ofthevalue {
+        font-size: 35px;
+        margin: 0;
+        margin-top: 35px;
+        margin-bottom: 25px;
+    }
+
+    .slogan1-value {
+        font-size: 22px;
+        margin: 0;
+        margin-top: 45px;
+        margin-left: 32px;
+        margin-bottom: 90px;
+    }
+
+    .slogan2-value {
+        font-size: 22px;
+        margin-left: 32px;
+        margin-bottom: 35px;
+        margin-top: 50px;
+    }
+
+    .img-arrow-vauers {
+        width: 24px;
+        margin-left: 200px;
+        margin-bottom: 60px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 34px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 170px;
+        margin-top: 0;
+        position: relative;
+        z-index: -11;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 10px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 150px;
+        margin-top: 0;
+        bottom: 10px;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 20px;
+    }
+
+    .button-next-box-1 {
+        font-size: 32px;
+        margin-right: 22px;
+        padding: 20px 22px 22px 22px;
+        border-width: 1px;
+    }
+
+    .button-next-box-2 {
+        font-size: 32px;
+        margin-right: 42px;
+        padding: 20px 22px 22px 22px;
+        border-width: 1px;
+    }
+
+    .paragraph-about-nect-box {
+        margin-left: 10px;
+    }
+
+    .paragraph-about-nect-box {
+        font-size: 24px;
+    }
+
+    .div-black-box-values-1-value {
+        border-top-right-radius: 21px;
+        border-bottom-right-radius: 21px;
+    }
+
+    .headin-of-the-values-section-img {
+        border-top-left-radius: 21px;
+        border-bottom-left-radius: 21px;
+    }
+}
+
+@media (min-width: 1500px) {
+    .div-down-section-of-value-box {
+        margin-top: 37%;
+    }
+
+    .div-paragraph-about-nect-box {
+        margin-left: 100px;
+        font-size: 32px;
+        margin-top: 20px;
+    }
+
+    .divheading-ofthevalue3 {
+        font-size: 24px;
+        font-weight: lighter;
+    }
+
+    .heading-ofthevalue {
+        font-size: 45px;
+        margin: 0;
+        margin-top: 45px;
+        margin-bottom: 30px;
+    }
+
+    .slogan1-value {
+        font-size: 23px;
+        margin: 0;
+        margin-top: 50px;
+        margin-left: 35px;
+        margin-bottom: 105px;
+    }
+
+    .slogan2-value {
+        font-size: 23px;
+        margin-left: 35px;
+        margin-bottom: 40px;
+        margin-top: 55px;
+    }
+
+    .img-arrow-vauers {
+        width: 26px;
+        margin-left: 220px;
+        margin-bottom: 65px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 34px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 180px;
+        margin-top: 0;
+        position: relative;
+        z-index: -11;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 10px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 160px;
+        margin-top: 0;
+        bottom: 10px;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 20px;
+    }
+
+    .button-next-box-1 {
+        font-size: 34px;
+        margin-right: 24px;
+        padding: 22px 24px 24px 24px;
+    }
+
+    .button-next-box-2 {
+        font-size: 34px;
+        margin-right: 44px;
+        padding: 22px 24px 24px 24px;
+    }
+
+    .paragraph-about-nect-box {
+        margin-left: 10px;
+    }
+
+    .paragraph-about-nect-box {
+        font-size: 26px;
+    }
+}
+
+@media (min-width: 1600px) {
+    .div-down-section-of-value-box {
+        margin-top: 35%;
+    }
+
+    .div-paragraph-about-nect-box {
+        margin-left: 110px;
+        font-size: 34px;
+        margin-top: 22px;
+    }
+
+    .divheading-ofthevalue3 {
+        font-size: 26px;
+        font-weight: lighter;
+    }
+
+    .heading-ofthevalue {
+        font-size: 50px;
+        margin: 0;
+        margin-top: 50px;
+        margin-bottom: 35px;
+    }
+
+    .slogan1-value {
+        font-size: 26px;
+        margin: 0;
+        margin-top: 55px;
+        margin-left: 38px;
+        margin-bottom: 100px;
+    }
+
+    .slogan2-value {
+        font-size: 26px;
+        margin-left: 38px;
+        margin-bottom: 45px;
+        margin-top: 60px;
+    }
+
+    .img-arrow-vauers {
+        width: 28px;
+        margin-left: 240px;
+        margin-bottom: 70px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 34px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 190px;
+        margin-top: 0;
+        position: relative;
+        z-index: -11;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 10px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 170px;
+        margin-top: 0;
+        bottom: 10px;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 20px;
+    }
+
+    .button-next-box-1 {
+        font-size: 36px;
+        margin-right: 26px;
+        padding: 24px 26px 26px 26px;
+    }
+
+    .button-next-box-2 {
+        font-size: 36px;
+        margin-right: 46px;
+        padding: 24px 26px 26px 26px;
+    }
+
+    .paragraph-about-nect-box {
+        margin-left: 10px;
+    }
+
+    .paragraph-about-nect-box {
+        font-size: 28px;
+    }
+}
+
+
+@media (min-width: 1700px) {
+    .div-down-section-of-value-box {
+        margin-top: 29%;
+    }
+
+    .div-paragraph-about-nect-box {
+        margin-left: 80px;
+        font-size: 36px;
+        margin-top: 24px;
+    }
+
+    .divheading-ofthevalue3 {
+        font-size: 28px;
+        font-weight: lighter;
+    }
+
+    .heading-ofthevalue {
+        font-size: 55px;
+        margin: 0;
+        margin-top: 55px;
+        margin-bottom: 40px;
+    }
+
+    .slogan1-value {
+        font-size: 28px;
+        margin: 0;
+        margin-top: 60px;
+        margin-left: 40px;
+        margin-bottom: 105px;
+    }
+
+    .slogan2-value {
+        font-size: 28px;
+        margin-left: 40px;
+        margin-bottom: 50px;
+        margin-top: 65px;
+    }
+
+    .img-arrow-vauers {
+        width: 30px;
+        margin-left: 250px;
+        margin-bottom: 75px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 34px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 200px;
+        margin-top: 0;
+        position: relative;
+        z-index: -11;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 10px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 190px;
+        margin-top: 0;
+        bottom: 10px;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 20px;
+    }
+
+    .button-next-box-1 {
+        font-size: 38px;
+        margin-right: 28px;
+        padding: 26px 28px 28px 28px;
+    }
+
+    .button-next-box-2 {
+        font-size: 38px;
+        margin-right: 48px;
+        padding: 26px 28px 28px 28px;
+    }
+
+    .paragraph-about-nect-box {
+        margin-left: 10px;
+    }
+
+    .paragraph-about-nect-box {
+        font-size: 31px;
+    }
+
+    .div-black-box-values-1-value {
+        border-top-right-radius: 24px;
+        border-bottom-right-radius: 24px;
+    }
+
+    .headin-of-the-values-section-img {
+        border-top-left-radius: 24px;
+        border-bottom-left-radius: 24px;
+    }
+} 
+
+
+
+
+@media (min-width: 1800px) {
+    .div-down-section-of-value-box {
+        margin-top: 29%;
+    }
+
+    .div-paragraph-about-nect-box {
+        margin-left: 100px;
+        font-size: 38px;
+        margin-top: 26px;
+    }
+
+    .divheading-ofthevalue3 {
+        font-size: 30px;
+        font-weight: lighter;
+    }
+
+    .heading-ofthevalue {
+        font-size: 60px;
+        margin: 0;
+        margin-top: 60px;
+        margin-bottom: 45px;
+    }
+
+    .slogan1-value {
+        font-size: 30px;
+        margin: 0;
+        margin-top: 65px;
+        margin-left: 45px;
+        margin-bottom: 120px;
+    }
+
+    .slogan2-value {
+        font-size: 30px;
+        margin-left: 45px;
+        margin-bottom: 55px;
+        margin-top: 70px;
+    }
+
+    .img-arrow-vauers {
+        width: 32px;
+        margin-left: 270px;
+        margin-bottom: 80px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 34px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 210px;
+        margin-top: 0;
+        position: relative;
+        z-index: -11;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 10px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 190px;
+        margin-top: 0;
+        bottom: 10px;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 20px;
+    }
+
+    .button-next-box-1 {
+        font-size: 40px;
+        margin-right: 30px;
+        padding: 28px 30px 30px 30px;
+        border-width: 1.5px;
+    }
+
+    .button-next-box-2 {
+        font-size: 40px;
+        margin-right: 50px;
+        padding: 28px 30px 30px 30px;
+        border-width: 1.5px;
+    }
+
+    .paragraph-about-nect-box {
+        margin-left: 10px;
+    }
+    .paragraph-about-nect-box {
+        font-size: 32px;
+    }
+}
+
+@media (min-width: 1900px) {
+    .div-down-section-of-value-box {
+        margin-top: 29%;
+    }
+
+    .div-paragraph-about-nect-box {
+        margin-left: 70px;
+        font-size: 40px;
+        margin-top: 28px;
+    }
+
+    .divheading-ofthevalue3 {
+        font-size: 32px;
+        font-weight: lighter;
+    }
+
+    .heading-ofthevalue {
+        font-size: 65px;
+        margin: 0;
+        margin-top: 65px;
+        margin-bottom: 50px;
+    }
+
+    .paragraph-about-nect-box {
+        font-size: 38px;
+    }
+
+    .slogan1-value {
+        font-size: 30px;
+        margin: 0;
+        margin-top: 70px;
+        margin-left: 50px;
+        margin-bottom: 120px;
+    }
+
+    .slogan2-value {
+        font-size: 30px;
+        margin-left: 50px;
+        margin-bottom: 60px;
+        margin-top: 75px;
+    }
+
+    .img-arrow-vauers {
+        width: 30px;
+        margin-left: 280px;
+        margin-bottom: 70px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 34px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 220px;
+        margin-top: 0;
+        position: relative;
+        z-index: -11;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 10px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 210px;
+        margin-top: 0;
+        bottom: 10px;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 20px;
+    }
+
+    .button-next-box-1 {
+        font-size: 42px;
+        margin-right: 32px;
+        padding: 30px 32px 32px 32px;
+        border-width: 2px;
+    }
+
+    .button-next-box-2 {
+        font-size: 42px;
+        margin-right: 52px;
+        padding: 30px 32px 32px 32px;
+        border-width: 2px;
+    }
+
+    .paragraph-about-nect-box {
+        margin-left: 10px;
+    }
+}
+
+@media (min-width: 2000px) {
+    .div-down-section-of-value-box {
+        margin-top: 28%;
+    }
+
+    .div-paragraph-about-nect-box {
+        margin-left: 60px;
+        font-size: 42px;
+        margin-top: 30px;
+    }
+
+    .paragraph-about-nect-box {
+        font-size: 42px;
+    }
+
+    .divheading-ofthevalue3 {
+        font-size: 37px;
+        font-weight: lighter;
+        font-weight: 300;
+    }
+
+    .heading-ofthevalue {
+        font-size: 70px;
+        margin: 0;
+        margin-top: 70px;
+        margin-bottom: 55px;
+        font-weight: 300;
+    }
+
+    .slogan1-value {
+        font-size: 33px;
+        margin: 0;
+        margin-top: 75px;
+        margin-left: 55px;
+        margin-bottom: 200px;
+    }
+
+    .slogan2-value {
+        font-size: 33px;
+        margin-left: 55px;
+        margin-bottom: 35px;
+        margin-top: 80px;
+    }
+
+    .img-arrow-vauers {
+        width: 36px;
+        margin-left: 300px;
+        margin-bottom: 90px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 34px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 230px;
+        margin-top: 0;
+        position: relative;
+        z-index: -11;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 10px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 220px;
+        margin-top: 0;
+        bottom: 10px;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 20px;
+    }
+
+    .button-next-box-1 {
+        font-size: 44px;
+        margin-right: 34px;
+        padding: 32px 34px 34px 34px;
+        border-width: 2px;
+
+    }
+
+    .button-next-box-2 {
+        font-size: 44px;
+        margin-right: 54px;
+        padding: 32px 34px 34px 34px;
+        border-width: 2px;
+    }
+
+    .paragraph-about-nect-box {
+        margin-left: 10px;
+    }
+
+    .div-black-box-values-1-value {
+        border-top-right-radius: 27px;
+        border-bottom-right-radius: 27px;
+    }
+
+    .headin-of-the-values-section-img {
+        border-top-left-radius: 27px;
+        border-bottom-left-radius: 27px;
+    }
+}
+
+
+
+@media (min-width: 2350px) {
+    .div-down-section-of-value-box {
+        margin-top: 44%;
+    }
+
+    .div-paragraph-about-nect-box {
+        margin-left: 60px;
+        font-size: 42px;
+        margin-top: 30px;
+    }
+
+    .paragraph-about-nect-box {
+        font-size: 42px;
+    }
+
+    .divheading-ofthevalue3 {
+        font-size: 37px;
+        font-weight: lighter;
+        font-weight: 300;
+    }
+
+    .heading-ofthevalue {
+        font-size: 70px;
+        margin: 0;
+        margin-top: 70px;
+        margin-bottom: 55px;
+        font-weight: 300;
+    }
+
+    .slogan1-value {
+        font-size: 33px;
+        margin: 0;
+        margin-top: 75px;
+        margin-left: 55px;
+        margin-bottom: 200px;
+    }
+
+    .slogan2-value {
+        font-size: 33px;
+        margin-left: 55px;
+        margin-bottom: 35px;
+        margin-top: 80px;
+    }
+
+    .img-arrow-vauers {
+        width: 36px;
+        margin-left: 300px;
+        margin-bottom: 90px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 34px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 230px;
+        margin-top: 0;
+        position: relative;
+        z-index: -11;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 10px;
+    }
+
+    .headin-of-the-values-section {
+        font-size: 220px;
+        margin-top: 0;
+        bottom: 10px;
+    }
+
+    .div-headin-of-the-values-section {
+        left: 35%;
+        margin-top: 20px;
+    }
+
+    .button-next-box-1 {
+        font-size: 44px;
+        margin-right: 34px;
+        padding: 32px 34px 34px 34px;
+        border-width: 2px;
+
+    }
+
+    .button-next-box-2 {
+        font-size: 44px;
+        margin-right: 54px;
+        padding: 32px 34px 34px 34px;
+        border-width: 2px;
+    }
+
+    .paragraph-about-nect-box {
+        margin-left: 10px;
+    }
+
+    .div-black-box-values-1-value {
+        border-top-right-radius: 27px;
+        border-bottom-right-radius: 27px;
+    }
+
+    .headin-of-the-values-section-img {
+        border-top-left-radius: 27px;
+        border-bottom-left-radius: 27px;
+    }
+}
+
+
+
+
+
+.div-backround-img-for-the-section {
+    position: relative;
+    z-index: -1;
+    margin-top: -306px; /* Säädä tarvittaessa */
+    z-index: -99;
+    background-image: url(images/image.png);
+    width: 100%;
+    height: 300px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.div-main-main-whole-site {
+    overflow-y: hidden;
+}
+
+
+
+
+.div-the-whole-meet-the-team-section {
+    position: relative;
+    z-index: 1;
+    transform: translateY(-290px); /* Nosta osio ylös ilman vaikutusta muihin */
+}
+
+
+.the-heading-of-the-section {
+    font-size: 20px;
+    font-family: cactus classical serif;
+    font-weight: 200;
+    margin-left: 30px;
+    margin-top: 45px;
+}
+
+
+.div-container-for-paragraphs {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.div-main-black-box-team-p-slogan-main-main {
+    width: 87%;
+    height: 190px;
+    background-color: #1e1e1e;
+    border-radius: 8px;
+}
+
+.main-black-box-team-p1 {
+    font-size: 8px;
+    color: white;
+    width: 80%;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.div-mainmaina-main-main-jne-team {
+    display: flex;
+    justify-content: center;
+}
+
+.main-black-box-team-p2 {
+    font-size: 12px;
+    color: white;
+    width: 80%;
+    margin-top: 20px;
+    font-family: cactus classical serif;
+}
+
+.main-black-box-team-p-slogan {
+    font-size: 12px;
+    color: white;
+    width: 320px;
+    margin-top: 20px;
+    font-family: cactus classical serif;
+    font-weight: 200;
+}
+
+.div-main-about-team-box-line {
+    width: 250px;
+    height: 170px;
+    border: #1e1e1e 1px solid;
+    border-radius: 6px;
+}
+
+.div-heading-about-position-team {
+    display: flex;
+    justify-content: center;
+}
+
+.heading-about-position-team {
+    margin: 0;
+    font-size: 15px;
+    margin-top: 10px;
+    font-family: cactus classical serif;
+    font-weight: 200;
+}
+
+.theicon-of-the-firts-info3 {
+    width: 20px;
+}
+.theicon-of-the-firts-info2 {
+    width: 22px;
+}
+.theicon-of-the-firts-info1 {
+    width: 22px;
+
+}
+
+.div-frst-main-info-name-div1 {
+    display: flex;
+    justify-content: baseline;
+    margin-left: 16px;
+    margin-top: 15px;
+}
+.div-frst-main-info-name-div {
+    display: flex;
+    justify-content: baseline;
+    margin-left: 16px;
+    margin-top: 0px;
+}
+
+.info-for-the-icon-jne3 {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 15px;
+}
+
+.info-for-the-icon-jne2 {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 15px;
+}
+
+.info-for-the-icon-jne1 {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 15px;
+}
+
+
+
+.div-main-about-team-box-line {
+     margin-top: 50px;
+}
+
+
+/* last section before footer */
+
+.div-main-last-one-before-footer {
+    transform: translateY(-200px);
+}
+
+.div-the-div-keep-arrrow-and-heading {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.headin-of-last-section {
+    font-size: 20px;
+    font-family: cactus classical serif;
+    font-weight: 100;
+    margin-left: 20px;
+}
+
+.headin-of-last-section5 {
+    font-size: 20px;
+    font-family: cactus classical serif;
+    font-weight: 100;
+    margin-right: 20px;
+}
+
+.headin-of-last-section2 {
+    font-size: 10px;
+    padding: 10px 25px;
+    text-align: center;
+    background: none;
+    border: black 0.7px solid;
+    border-radius: 20px;
+    font-family: cactus classical serif;
+    margin-left: 20px;
+}
+
+.headin-of-last-section3 {
+    font-size: 7px;
+    width: 150px;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+@media (min-width: 450px) {
+    .headin-of-last-section3 {
+        font-size: 10px;
+        width: 240px;
+    }
+
+    .headin-of-last-section2 {
+        margin-top: 23px;
+    }
+}
+
+
+@media (min-width: 700px) {
+    .headin-of-last-section3 {
+        font-size: 15px;
+        width: 390px;
+        margin-right: 50px;
+    }
+
+    .headin-of-last-section2 {
+        margin-top: 29px;
+        font-size: 18px;
+        padding: 15px 30px;
+        border-radius: 30px;
+        margin-left: 50px;
+        border: 1px solid;
+    }
+
+    .headin-of-last-section {
+        font-size: 25px;
+        margin-left: 50px;
+    }
+
+    .headin-of-last-section5 {
+        font-size: 35px;
+        margin-right: 50px;
+    }
+}
+
+
+
+@media (min-width: 1000px) {
+    .headin-of-last-section3 {
+        font-size: 19px;
+        width: 490px;
+        margin-right: 50px;
+    }
+
+    .headin-of-last-section2 {
+        margin-top: 29px;
+        font-size: 20px;
+        padding: 17px 35px;
+        border-radius: 30px;
+        margin-left: 50px;
+        border: 1px solid;
+    }
+
+    .headin-of-last-section {
+        font-size: 30px;
+        margin-left: 50px;
+    }
+
+    .headin-of-last-section5 {
+        font-size: 35px;
+        margin-right: 50px;
+    }
+}
+
+
+@media (min-width: 1500px) {
+    .headin-of-last-section3 {
+        font-size: 25px;
+        width: 690px;
+        margin-right: 50px;
+    }
+
+    .headin-of-last-section2 {
+        margin-top: 50px;
+        font-size: 27px;
+        padding: 21px 42px;
+        border-radius: 50px;
+        margin-left: 50px;
+        border: 1px solid;
+    }
+
+    .headin-of-last-section {
+        font-size: 45px;
+        margin-left: 50px;
+    }
+
+    .headin-of-last-section5 {
+        font-size: 45px;
+        margin-right: 50px;
+    }
+}
+
+
+@media (min-width: 2000px) {
+    .headin-of-last-section3 {
+        font-size: 30px;
+        width: 790px;
+        margin-right: 50px;
+    }
+
+    .headin-of-last-section2 {
+        margin-top: 100px;
+        font-size: 33px;
+        padding: 21px 54px;
+        border-radius: 50px;
+        margin-left: 50px;
+        border: 2px solid;
+    }
+
+    .headin-of-last-section {
+        font-size: 60px;
+        margin-left: 50px;
+    }
+
+    .headin-of-last-section5 {
+        font-size: 60px;
+        margin-right: 50px;
+    }
+}
+
+
+
+
+
+@media (min-width: 2560px) {
+    .headin-of-last-section3 {
+        font-size: 38px;
+        width: 990px;
+        margin-right: 150px;
+    }
+
+    .headin-of-last-section2 {
+        margin-top: 100px;
+        font-size: 45px;
+        padding: 21px 54px;
+        border-radius: 50px;
+        margin-left: 150px;
+        border: 2px solid;
+    }
+
+    .headin-of-last-section {
+        font-size: 80px;
+        margin-left: 150px;
+    }
+
+    .headin-of-last-section5 {
+        font-size: 80px;
+        margin-right: 150px;
+    }
+}
+
+
+
+
+
+
+
+
+
+/* footer */
+
+.div-line-1 {
+    background-color: black;
+    width: 100%;
+    height: 0.5px;
+    margin-top: 50px;
+}
+
+.brand-name-big-footer {
+    color:  black;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 52px;
+    margin: 0;
+    margin-top: 10px;
+}
+
+.div-brand-name-big-footer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.div-slogan-text-footer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+
+.slogan-text-footer {
+    text-align: center;
+    color:  black;
+    font-size: 9px;
+    font-family: cactus classical serif;
+    font-weight: 300;
+    margin: 0;
+    margin-top: 5px;
+}
+
+.div-line-2 {
+    background-color: black;
+    width: 100%;
+    height: 0.5px;
+    margin-top: 15px;
+}
+
+.contact-info-footer {
+    color: black;
+    font-size: 20px;
+    font-family: cactus classical serif;
+    font-weight: 300;
+    margin: 0;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.contact-info-footer2 {
+    color: black;
+    font-size: 13px;
+    font-family: cactus classical serif;
+    font-weight: 300;
+    margin: 0;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.div-phone-numbers-footer {
+    width: 100%;
+    display: flex;
+
+}
+
+.contact-info-footer22 {
+    color: black;
+    font-size: 13px;
+    font-family: cactus classical serif;
+    font-weight: 300;
+    margin: 0;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.contact-info-footer222 {
+    color: black;
+    font-size: 13px;
+    font-family: cactus classical serif;
+    font-weight: 300;
+    margin: 0;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+.contact-info-footer2222 {
+    color: black;
+    font-size: 13px;
+    font-family: cactus classical serif;
+    font-weight: 300;
+    margin: 0;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+.div-phone-numbers-footer1 {
+    width: 100%;
+    display: flex;
+    
+}
+
+.div-buttons-social {
+    width: 100%;
+    display: flex;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.img1-social {
+    width: 40px;
+    margin-right: 10px;
+}
+
+.img2-social {
+    width: 40px;
+}
+
+.img-logo-footer {
+    width: 80px;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+.div-pages-paragraph-footer {
+    display: flex;
+    color: black;
+    font-family: cactus classical serif;
+    font-weight: 300;
+    font-size: 12px;
+    margin-top: 45px;
+}
+
+.pages-paragraph-footer {
+    margin-right: 15px;
+    text-decoration: underline;
+}
+
+.div-pages-and-end-logo {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+@media  (min-width: 450px) {
+    .brand-name-big-footer {
+        font-size: 75px;
+    }
+
+    .slogan-text-footer {
+        font-size: 13px;
+    }
+    .contact-info-footer {
+        font-size: 25px;
+        margin-top: 40px;
+    }
+
+    .contact-info-footer2 {
+        font-size: 17px;
+    }
+    .contact-info-footer22 {
+        font-size: 17px;
+    }
+    .contact-info-footer222 {
+        font-size: 17px;
+        
+    }
+
+    .contact-info-footer2222 {
+        font-size: 17px;
+    }
+
+    .img1-social {
+        width: 50px;
+    }
+
+    .img2-social {
+        width: 50px;
+    }
+
+    .img-logo-footer {
+        width: 100px;
+        margin-top: 80px;
+    }
+
+    .div-pages-paragraph-footer {
+        margin-top: 85px;
+        font-size: 15px;
+    }
+
+    .pages-paragraph-footer {
+        margin-right: 30px;
+    }
+}
+
+
+
+
+
+@media  (min-width: 600px) {
+    .brand-name-big-footer {
+        font-size: 95px;
+    }
+
+    .slogan-text-footer {
+        font-size: 13px;
+    }
+    .contact-info-footer {
+        font-size: 25px;
+        margin-top: 40px;
+    }
+
+    .contact-info-footer2 {
+        font-size: 17px;
+    }
+    .contact-info-footer22 {
+        font-size: 17px;
+    }
+    .contact-info-footer222 {
+        font-size: 17px;
+        
+    }
+
+    .contact-info-footer2222 {
+        font-size: 17px;
+    }
+
+    .img1-social {
+        width: 50px;
+    }
+
+    .img2-social {
+        width: 50px;
+    }
+
+    .img-logo-footer {
+        width: 100px;
+        margin-top: 80px;
+    }
+
+    .div-pages-paragraph-footer {
+        margin-top: 85px;
+        font-size: 18px;
+    }
+
+    .pages-paragraph-footer {
+        margin-right: 30px;
+    }
+}
+
+
+.div-whole-footer-div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.div-footer-fotm-2 animated from-right visible {
+    display: none;
+}
+
+
+.email-adress-footer-input {
+    display: flex;
+    justify-content: baseline;
+    margin-top: 83px;
+    margin-right: 40px;
+}
+
+input-email-adress::placeholder {
+    font-size: 20px;
+    font-family: cactus classical serif;
+    font-weight: 500;
+    color: hsla(0, 0%, 16%, 0.7);
+    margin: 0;
+}
+
+input[type=text] {
+    border-bottom: black solid 1px;
+    background: none;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    padding-left: 0;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    font-family: cactus classical serif;
+    margin: 0;
+    font-size: 20px;
+  }
+
+
+  input[type=text]:focus {
+    outline: none;
+    border-bottom: black solid 1px;
+    background: none;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    padding-left: 0;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    font-family: cactus classical serif;
+    margin: 0;
+    color: black;
+  }
+
+
+  .email-adress-submit-button {
+    font-family: cactus classical serif;
+    margin: 0;
+  }
+
+  .button-email-arrow-footer {
+    background: none;
+    border-radius: 0;
+    border: none;
+    border-bottom: black solid 1px;
+    font-family: cactus classical serif;
+    font-weight: 500;
+    font-size: 20px;
+    font-family: cactus classical serif;
+    margin: 0;
+    color: black;
+  }
+
+
+  .paragraph-after-input-text {
+    color: black;
+    font-family: cactus classical serif;
+    font-size: 13px;
+    font-weight: 200;
+  }
+
+
+/* .email-adress-footer-input {
+    width: 10px;
+    height: 50px;
+    font-family: cactus classical serif;
+    display: flex;
+    justify-content: baseline;
+}
+
+.input-email-adress::placeholder {
+    font-size: 27px;
+    letter-spacing: -0.5px;
+    font-family: inter, Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    color: hsla(0, 0%, 100%, 0.700);
+    margin: 0;
+    font-family: cactus classical serif;
+}
+
+input[type=text] {
+    border-bottom: white solid 2px;
+    background: none;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    padding-top: 13px;
+    padding-left: 0;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    font-family: cactus classical serif;
+    margin: 0;
+  }
+
+  input[type=text]:focus {
+    outline: none;
+    border-bottom: white solid 2px;
+    background: none;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    padding-top: 13px;
+    padding-left: 0;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    font-family: cactus classical serif;
+    margin: 0;
+  }
+
+  .input-email-adress {
+    width: 10px;
+    margin: 0;
+    font-size: 27px;
+    letter-spacing: -0.5px;
+    font-family: cactus classical serif;
+    font-weight: 500;
+    color: hsl(0, 0%, 100%);
+    font-family: cactus classical serif;
+    margin: 0;
+  }
+
+  .email-adress-submit-button {
+    margin-top: 2px;
+    font-family: cactus classical serif;
+    margin: 0;
+  }
+
+
+  .button-email-arrow-footer {
+    background: none;
+    border-radius: 0;
+    border: none;
+    border-bottom: white solid 2px;
+    font-family: cactus classical serif;
+    font-weight: 500;
+    font-size: 35px;
+    font-family: cactus classical serif;
+    margin: 0;
+  }
+  
+
+.about-submitting-email-footer-p {
+    font-size: 15px;
+    font-family: cactus classical serif;
+    letter-spacing: -0.5px;
+    margin: 0;
+    margin-left: 40px;
+    margin-top: 2px;
+    font-family: cactus classical serif;
+    margin: 0;
+}
+
+.rigth-section-footer-div {
+    width: 50%;
+    margin-top: 40px;
+    font-family: cactus classical serif;
+    margin: 0;
+}
+
+.rigth-section-footer-div-top1 {
+    display: flex;
+    justify-content: baseline;
+    width: 100%;
+    font-family: cactus classical serif;
+    margin: 0;
+}
+
+.button-email-arrow-footer {
+    color: white;
+    font-family: cactus classical serif;
+    margin: 0;
+} */
+
+
+.div-whole-whole-whole-footer-jne {
+    transform: translateY(-200px);
+}
+
+
+
+
+
+
+
+
+
+
+.div-footer-fotm-2 animated from-right visible {
+    display: none;
+}
+
+.paragraph-after-input-text {
+    display: none;
+}
+
+input {
+    display: none;
+}
+
+.button-email-arrow-footer {
+    display: none;
+}
+
+@media  (min-width: 700px) {
+    .brand-name-big-footer {
+        font-size: 115px;
+    }
+
+    .slogan-text-footer {
+        font-size: 15px;
+    }
+    .contact-info-footer {
+        font-size: 26px;
+        margin-top: 45px;
+    }
+
+    .contact-info-footer2 {
+        font-size: 18px;
+    }
+    .contact-info-footer22 {
+        font-size: 18px;
+    }
+    .contact-info-footer222 {
+        font-size: 18px;
+        
+    }
+
+    .contact-info-footer2222 {
+        font-size: 18px;
+    }
+
+    .img1-social {
+        width: 55px;
+    }
+
+    .img2-social {
+        width: 55px;
+    }
+
+    .img-logo-footer {
+        width: 130px;
+        margin-top: 80px;
+    }
+
+    .div-pages-paragraph-footer {
+        margin-top: 90px;
+        font-size: 19px;
+    }
+
+    .pages-paragraph-footer {
+        margin-right: 30px;
+    }
+
+    .button-email-arrow-footer {
+        background: none;
+        border-radius: 0;
+        border: none;
+        border-bottom: black solid 1px;
+        font-family: cactus classical serif;
+        font-weight: 500;
+        font-size: 25px;
+        font-family: cactus classical serif;
+        margin: 0;
+        color: black;
+      }
+
+      input[type=text] {
+        border-bottom: black solid 1px;
+        background: none;
+        border-top: 0;
+        border-left: 0;
+        border-right: 0;
+        padding-left: 0;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+        font-family: cactus classical serif;
+        margin: 0;
+        font-size: 25px;
+      }
+
+      .paragraph-after-input-text {
+        color: black;
+        font-family: cactus classical serif;
+        font-size: 15px;
+        font-weight: 200;
+      }
+
+
+      .div-footer-fotm-2 animated from-right visible {
+        display: inline-block;
+    }
+    
+    .paragraph-after-input-text {
+        display: inline-block;
+    }
+    
+    input {
+        display: inline-block;
+    }
+    
+    .button-email-arrow-footer {
+        display: inline-block;
+    }
+}
+
+
+
+
+
+
+@media  (min-width: 900px) {
+    .brand-name-big-footer {
+        font-size: 145px;
+    }
+
+    .slogan-text-footer {
+        font-size: 18px;
+    }
+    .contact-info-footer {
+        font-size: 28px;
+        margin-top: 50px;
+    }
+
+    .contact-info-footer2 {
+        font-size: 19px;
+    }
+    .contact-info-footer22 {
+        font-size: 19px;
+    }
+    .contact-info-footer222 {
+        font-size: 19px;
+        
+    }
+
+    .contact-info-footer2222 {
+        font-size: 19px;
+    }
+
+    .img1-social {
+        width: 55px;
+    }
+
+    .img2-social {
+        width: 55px;
+    }
+
+    .img-logo-footer {
+        width: 130px;
+        margin-top: 110px;
+    }
+
+    .div-pages-paragraph-footer {
+        margin-top: 90px;
+        font-size: 23px;
+    }
+
+    .pages-paragraph-footer {
+        margin-right: 70px;
+    }
+
+    .button-email-arrow-footer {
+        background: none;
+        border-radius: 0;
+        border: none;
+        border-bottom: black solid 1px;
+        font-family: cactus classical serif;
+        font-weight: 500;
+        font-size: 35px;
+        font-family: cactus classical serif;
+        margin: 0;
+        color: black;
+      }
+
+      input[type=text] {
+        border-bottom: black solid 1px;
+        background: none;
+        border-top: 0;
+        border-left: 0;
+        border-right: 0;
+        padding-left: 0;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+        font-family: cactus classical serif;
+        margin: 0;
+        font-size: 35px;
+      }
+
+      .paragraph-after-input-text {
+        color: black;
+        font-family: cactus classical serif;
+        font-size: 20px;
+        font-weight: 200;
+      }
+}
+
+
+
+
+
+
+
+@media  (min-width: 1200px) {
+    .brand-name-big-footer {
+        font-size: 190px;
+    }
+
+    .slogan-text-footer {
+        font-size: 25px;
+    }
+    .contact-info-footer {
+        font-size: 30px;
+        margin-top: 60px;
+        margin-left: 50px;
+    }
+
+    .contact-info-footer2 {
+        font-size: 20px;
+        margin-left: 50px;
+    }
+    .contact-info-footer22 {
+        font-size: 20px;
+        margin-left: 50px;
+    }
+    .contact-info-footer222 {
+        font-size: 20px;
+        margin-left: 50px;
+        
+    }
+
+    .contact-info-footer2222 {
+        font-size: 20px;
+        margin-left: 50px;
+    }
+
+    .img1-social {
+        width: 60px;
+        margin-left: 30px;
+        margin-top: 10px;
+    }
+
+    .img2-social {
+        width: 60px;
+        margin-top: 10px;
+    }
+
+    .img-logo-footer {
+        width: 150px;
+        margin-top: 110px;
+        margin-left: 50px;
+    }
+
+    .div-pages-paragraph-footer {
+        margin-top: 100px;
+        font-size: 25px;
+    }
+
+    .pages-paragraph-footer {
+        margin-right: 80px;
+    }
+
+    .button-email-arrow-footer {
+        background: none;
+        border-radius: 0;
+        border: none;
+        border-bottom: black solid 1px;
+        font-family: cactus classical serif;
+        font-weight: 500;
+        font-size: 50px;
+        font-family: cactus classical serif;
+        margin: 0;
+        color: black;
+      }
+
+      input[type=text] {
+        border-bottom: black solid 1px;
+        background: none;
+        border-top: 0;
+        border-left: 0;
+        border-right: 0;
+        padding-left: 0;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+        font-family: cactus classical serif;
+        margin: 0;
+        font-size: 50px;
+      }
+
+      .paragraph-after-input-text {
+        color: black;
+        font-family: cactus classical serif;
+        font-size: 20px;
+        font-weight: 200;
+      }
+
+    }
+
+
+
+    @media  (min-width: 1700px) {
+        .brand-name-big-footer {
+            font-size: 230px;
+        }
+    
+        .slogan-text-footer {
+            font-size: 45px;
+        }
+        .contact-info-footer {
+            font-size: 50px;
+            margin-top: 60px;
+            margin-left: 50px;
+        }
+    
+        .contact-info-footer2 {
+            font-size: 30px;
+            margin-left: 50px;
+        }
+        .contact-info-footer22 {
+            font-size: 30px;
+            margin-left: 50px;
+        }
+        .contact-info-footer222 {
+            font-size: 30px;
+            margin-left: 50px;
+            
+        }
+    
+        .contact-info-footer2222 {
+            font-size: 30px;
+            margin-left: 50px;
+        }
+    
+        .img1-social {
+            width: 70px;
+            margin-left: 30px;
+            margin-top: 15px;
+        }
+    
+        .img2-social {
+            width: 70px;
+            margin-top: 15px;
+        }
+    
+        .img-logo-footer {
+            width: 170px;
+            margin-top: 110px;
+            margin-left: 50px;
+        }
+    
+        .div-pages-paragraph-footer {
+            margin-top: 100px;
+            font-size: 35px;
+        }
+    
+        .pages-paragraph-footer {
+            margin-right: 80px;
+        }
+    
+        .button-email-arrow-footer {
+            background: none;
+            border-radius: 0;
+            border: none;
+            border-bottom: black solid 1px;
+            font-family: cactus classical serif;
+            font-weight: 500;
+            font-size: 70px;
+            font-family: cactus classical serif;
+            margin: 0;
+            color: black;
+          }
+    
+          input[type=text] {
+            border-bottom: black solid 1px;
+            background: none;
+            border-top: 0;
+            border-left: 0;
+            border-right: 0;
+            padding-left: 0;
+            background-repeat: no-repeat;
+            box-sizing: border-box;
+            font-family: cactus classical serif;
+            margin: 0;
+            font-size: 70px;
+          }
+    
+          .paragraph-after-input-text {
+            color: black;
+            font-family: cactus classical serif;
+            font-size: 20px;
+            font-weight: 200;
+          }
+    
+        }
+
+
+
+
+        @media  (min-width: 2100px) {
+            .brand-name-big-footer {
+                font-size: 290px;
+            }
+        
+            .slogan-text-footer {
+                font-size: 45px;
+            }
+            .contact-info-footer {
+                font-size: 60px;
+                margin-top: 60px;
+                margin-left: 50px;
+            }
+        
+            .contact-info-footer2 {
+                font-size: 40px;
+                margin-left: 50px;
+            }
+            .contact-info-footer22 {
+                font-size: 40px;
+                margin-left: 50px;
+            }
+            .contact-info-footer222 {
+                font-size: 40px;
+                margin-left: 50px;
+                
+            }
+        
+            .contact-info-footer2222 {
+                font-size: 40px;
+                margin-left: 50px;
+            }
+        
+            .img1-social {
+                width: 85px;
+                margin-left: 30px;
+                margin-top: 15px;
+            }
+        
+            .img2-social {
+                width: 85px;
+                margin-top: 15px;
+            }
+        
+            .img-logo-footer {
+                width: 230px;
+                margin-top: 110px;
+                margin-left: 50px;
+            }
+        
+            .div-pages-paragraph-footer {
+                margin-top: 100px;
+                font-size: 45px;
+            }
+        
+            .pages-paragraph-footer {
+                margin-right: 80px;
+            }
+        
+            .button-email-arrow-footer {
+                background: none;
+                border-radius: 0;
+                border: none;
+                border-bottom: black solid 1px;
+                font-family: cactus classical serif;
+                font-weight: 500;
+                font-size: 90px;
+                font-family: cactus classical serif;
+                margin: 0;
+                color: black;
+              }
+        
+              input[type=text] {
+                border-bottom: black solid 1px;
+                background: none;
+                border-top: 0;
+                border-left: 0;
+                border-right: 0;
+                padding-left: 0;
+                background-repeat: no-repeat;
+                box-sizing: border-box;
+                font-family: cactus classical serif;
+                margin: 0;
+                font-size: 90px;
+              }
+        
+              .paragraph-after-input-text {
+                color: black;
+                font-family: cactus classical serif;
+                font-size: 35px;
+                font-weight: 200;
+              }
+        
+            }
+
+
+
+
+
+
+
+            @media  (min-width: 2560px) {
+                .brand-name-big-footer {
+                    font-size: 390px;
+                }
+            
+                .slogan-text-footer {
+                    font-size: 65px;
+                }
+                .contact-info-footer {
+                    font-size: 80px;
+                    margin-top: 60px;
+                    margin-left: 50px;
+                }
+            
+                .contact-info-footer2 {
+                    font-size: 60px;
+                    margin-left: 50px;
+                }
+                .contact-info-footer22 {
+                    font-size: 60px;
+                    margin-left: 50px;
+                }
+                .contact-info-footer222 {
+                    font-size: 60px;
+                    margin-left: 50px;
+                    
+                }
+            
+                .contact-info-footer2222 {
+                    font-size: 60px;
+                    margin-left: 50px;
+                }
+            
+                .img1-social {
+                    width: 95px;
+                    margin-left: 30px;
+                    margin-top: 15px;
+                }
+            
+                .img2-social {
+                    width: 95px;
+                    margin-top: 15px;
+                }
+            
+                .img-logo-footer {
+                    width: 290px;
+                    margin-top: 180px;
+                    margin-left: 50px;
+                }
+            
+                .div-pages-paragraph-footer {
+                    margin-top: 180px;
+                    font-size: 65px;
+                }
+            
+                .pages-paragraph-footer {
+                    margin-right: 80px;
+                }
+            
+                .button-email-arrow-footer {
+                    background: none;
+                    border-radius: 0;
+                    border: none;
+                    border-bottom: black solid 2px;
+                    font-family: cactus classical serif;
+                    font-weight: 500;
+                    font-size: 115px;
+                    font-family: cactus classical serif;
+                    margin: 0;
+                    color: black;
+                  }
+            
+                  input[type=text] {
+                    border-bottom: black solid 2px;
+                    background: none;
+                    border-top: 0;
+                    border-left: 0;
+                    border-right: 0;
+                    padding-left: 0;
+                    background-repeat: no-repeat;
+                    box-sizing: border-box;
+                    font-family: cactus classical serif;
+                    margin: 0;
+                    font-size: 115px;
+                  }
+            
+                  .paragraph-after-input-text {
+                    color: black;
+                    font-family: cactus classical serif;
+                    font-size: 55px;
+                    font-weight: 200;
+                  }
+            
+                }
+
+
+.button-book-visit:hover {
+    background-color: black;
+    border: black;
+    color:black;
+}
+
+.button-book-visit {
+    transition-duration: 0.5s;
+}
+
+
+
+
+
+
+
+.animated {
+    opacity: 0;
+    transition: all 0.7s ease-out;
+}
+
+.from-right {
+    transform: translateX(100px);
+}
+
+.from-left {
+    transform: translateX(-100px);
+}
+
+.from-top {
+    transform: translateY(-50px);
+}
+
+.visible {
+    opacity: 1;
+    transform: translateX(0) translateY(0);
+}
+
+
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden; /* Estää sivuttaisen skrollauksen */
+    
+}
+
+
+
+.div-main-main-whole-site {
+    overflow-y: clip; /* Leikkaa ylimenevän osan ilman piilottamatta skrollausta */
+}
+
+
+
+.div-main-about-team-box-line-div-main {
+    display: flex;
+    justify-content: space-between;
+    text-wrap: nowrap;
+    width: 2000px;
+    
+    flex-wrap: nowrap;
+    animation: 18s slide infinite linear;
+}
+
+.div-div-siv-main-caroiusel {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    overflow: hidden;
+}
+
+.div-main-about-team-box-line {
+    margin-right: 20px;
+}
+
+
+@keyframes slide {
+    from {
+        transform: translateX(0);
+    }
+
+    to {
+        transform: translateX(-100%);
+    }
+}
+
+
+.div-main-black-box-team-p-slogan-main-main {
+    width: 280px;
+}
+
+.the-heading-of-the-section {
+    margin-top: 0;
+    margin-bottom: 50px;
+}
+
+.div-the-main-main-display-team {
+    display: block;
+}
+
+
+@media  (min-width: 450px) {
+
+    .div-main-black-box-team-p-slogan-main-main {
+        transform: scale(1.2);
+     }
+    
+    .the-heading-of-the-section {
+        margin-top: 0;
+        margin-bottom: 50px;
+        font-size: 35px;
+    }
+}
+
+
+
+.div-the-heading-of-the-section {
+    display: flex;
+    justify-content: center;
+    margin-left: 0;
+}
+
+.the-heading-of-the-section {
+    margin-left: 0;
+}
+
+
+
+@media  (min-width: 700px) {
+
+    .div-main-black-box-team-p-slogan-main-main {
+        transform: scale(1.4);
+        margin-bottom: 50px;
+     }
+    
+    .the-heading-of-the-section {
+        margin-top: 0;
+        margin-bottom: 50px;
+        font-size: 35px;
+    }
+
+    .div-main-about-team-box-line {
+        transform: scale(1.1);
+        margin-right:  30px;
+        margin-bottom: 50px;
+    }
+    .div-the-whole-meet-the-team-section {
+        transform: translateY(-390px);
+    }
+    
+}
+
+
+
+
+
+
+@media  (min-width: 900px) {
+
+    .div-main-black-box-team-p-slogan-main-main {
+        transform: scale(2);
+        margin-bottom: 0px;
+        z-index: 2;
+        margin-left: 200px;
+        margin-top: 40px;
+     }
+
+     .div-the-heading-of-the-section {
+        display: flex;
+        justify-content: left;
+        margin-bottom: 150px;
+        margin-left: 60px;
+    } 
+    
+    .the-heading-of-the-section {
+        margin-top: 0;
+        font-size: 55px;
+    }
+
+    .div-main-about-team-box-line {
+        transform: scale(1.5);
+        margin-right:  160px;
+        margin-bottom: 50px;
+
+    }
+
+    .div-the-main-main-display-team {
+        display: flex;
+        justify-content: space-between;
+    
+    } 
+
+
+    .div-main-about-team-box-line-div-main {
+        display: flex;
+        justify-content: space-between;
+        text-wrap: nowrap;
+        width: 20000px;
+        
+        flex-wrap: nowrap;
+        animation: 18s slide infinite linear;
+    }
+
+    .div-the-whole-meet-the-team-section {
+        transform: translateY(-550px);
+    }
+
+    .div-main-about-team-box-line {
+        margin-top: 50px;
+    }
+
+    .the-heading-of-the-section {
+        margin-top: 0;
+        font-size: 55px;
+    }
+}
+
+
+
+
+@media  (min-width: 1200px) {
+
+    .div-main-black-box-team-p-slogan-main-main {
+        transform: scale(2);
+        margin-bottom: 0px;
+        z-index: 2;
+        margin-left: 200px;
+        margin-top: 40px;
+     }
+
+     .div-the-heading-of-the-section {
+        display: flex;
+        justify-content: left;
+        margin-bottom: 150px;
+        margin-left: 60px;
+    } 
+    
+    .the-heading-of-the-section {
+        margin-top: 0;
+        font-size: 55px;
+    }
+
+    .div-main-about-team-box-line {
+        transform: scale(1.5);
+        margin-right:  160px;
+        margin-bottom: 50px;
+
+    }
+
+    .div-the-main-main-display-team {
+        display: flex;
+        justify-content: space-between;
+    
+    } 
+
+
+    .div-main-about-team-box-line-div-main {
+        display: flex;
+        justify-content: space-between;
+        text-wrap: nowrap;
+        width: 20000px;
+        
+        flex-wrap: nowrap;
+        animation: 18s slide infinite linear;
+    }
+
+    .div-the-whole-meet-the-team-section {
+        transform: translateY(-650px);
+    }
+
+    .div-main-about-team-box-line {
+        margin-top: 50px;
+    }
+
+    .the-heading-of-the-section {
+        margin-top: 0;
+        font-size: 70px;
+    }
+
+    .div-the-main-main-display-team {
+        transform: scale(1.3);
+        margin-left: 150px;
+    }
+
+    
+}
+
+
+
+
+@media  (min-width: 1500px) {
+
+    .div-main-black-box-team-p-slogan-main-main {
+        transform: scale(2);
+        margin-bottom: 0px;
+        z-index: 2;
+        margin-left: 200px;
+        margin-top: 40px;
+     }
+
+     .div-the-heading-of-the-section {
+        display: flex;
+        justify-content: left;
+        margin-bottom: 150px;
+        margin-left: 60px;
+    } 
+    
+    .the-heading-of-the-section {
+        margin-top: 0;
+        font-size: 55px;
+    }
+
+    .div-main-about-team-box-line {
+        transform: scale(1.5);
+        margin-right:  160px;
+        margin-bottom: 50px;
+
+    }
+
+    .div-the-main-main-display-team {
+        display: flex;
+        justify-content: space-between;
+    
+    } 
+
+
+    .div-main-about-team-box-line-div-main {
+        display: flex;
+        justify-content: space-between;
+        text-wrap: nowrap;
+        width: 20000px;
+        
+        flex-wrap: nowrap;
+        animation: 18s slide infinite linear;
+    }
+
+    .div-the-whole-meet-the-team-section {
+        transform: translateY(-750px);
+    }
+
+    .div-main-about-team-box-line {
+        margin-top: 50px;
+    }
+
+    .the-heading-of-the-section {
+        margin-top: 0;
+        font-size: 70px;
+    }
+
+    .div-the-main-main-display-team {
+        transform: scale(1.7);
+        margin-left: 400px;
+    }
+
+    
+}
+
+
+@media  (min-width: 1800px) {
+
+    .div-main-black-box-team-p-slogan-main-main {
+        transform: scale(2);
+        margin-bottom: 0px;
+        z-index: 2;
+        margin-left: 200px;
+        margin-top: 40px;
+     }
+
+     .div-the-heading-of-the-section {
+        display: flex;
+        justify-content: left;
+        margin-bottom: 150px;
+        margin-left: 60px;
+    } 
+    
+    .the-heading-of-the-section {
+        margin-top: 0;
+        font-size: 55px;
+    }
+
+    .div-main-about-team-box-line {
+        transform: scale(1.5);
+        margin-right:  160px;
+        margin-bottom: 50px;
+
+    }
+
+    .div-the-main-main-display-team {
+        display: flex;
+        justify-content: space-between;
+    
+    } 
+
+
+    .div-main-about-team-box-line-div-main {
+        display: flex;
+        justify-content: space-between;
+        text-wrap: nowrap;
+        width: 20000px;
+        
+        flex-wrap: nowrap;
+        animation: 18s slide infinite linear;
+    }
+
+    .div-the-whole-meet-the-team-section {
+        transform: translateY(-1050px);
+    }
+
+    .div-main-about-team-box-line {
+        margin-top: 50px;
+    }
+
+    .the-heading-of-the-section {
+        margin-top: 0;
+        font-size: 90px;
+        margin-bottom: 300px;
+    }
+
+    .div-the-main-main-display-team {
+        transform: scale(2);
+        margin-left: 600px;
+    }
+
+    
+}
+
+
+
+@media  (min-width: 2000px) {
+
+    .div-main-black-box-team-p-slogan-main-main {
+        transform: scale(2);
+        margin-bottom: 0px;
+        z-index: 2;
+        margin-left: 200px;
+        margin-top: 40px;
+     }
+
+     .div-the-heading-of-the-section {
+        display: flex;
+        justify-content: left;
+        margin-bottom: 150px;
+        margin-left: 60px;
+    } 
+    
+    .the-heading-of-the-section {
+        margin-top: 0;
+        font-size: 55px;
+    }
+
+    .div-main-about-team-box-line {
+        transform: scale(1.5);
+        margin-right:  160px;
+        margin-bottom: 50px;
+
+    }
+
+    .div-the-main-main-display-team {
+        display: flex;
+        justify-content: space-between;
+    
+    } 
+
+
+    .div-main-about-team-box-line-div-main {
+        display: flex;
+        justify-content: space-between;
+        text-wrap: nowrap;
+        width: 20000px;
+        
+        flex-wrap: nowrap;
+        animation: 18s slide infinite linear;
+    }
+
+    .div-the-whole-meet-the-team-section {
+        transform: translateY(-1050px);
+    }
+
+    .div-main-about-team-box-line {
+        margin-top: 50px;
+    }
+
+    .the-heading-of-the-section {
+        margin-top: 0;
+        font-size: 120px;
+        margin-bottom: 300px;
+        margin-left: 100px;
+    }
+
+    .div-the-main-main-display-team {
+        transform: scale(2.3);
+        margin-left: 800px;
+    }
+
+    
+}
+
+
+
+@media  (min-width: 2250px) {
+
+    .div-main-black-box-team-p-slogan-main-main {
+        transform: scale(2);
+        margin-bottom: 0px;
+        z-index: 2;
+        margin-left: 200px;
+        margin-top: 40px;
+     }
+
+     .div-the-heading-of-the-section {
+        display: flex;
+        justify-content: left;
+        margin-bottom: 150px;
+        margin-left: 60px;
+    } 
+    
+    .the-heading-of-the-section {
+        margin-top: 0;
+        font-size: 55px;
+    }
+
+    .div-main-about-team-box-line {
+        transform: scale(1.5);
+        margin-right:  160px;
+        margin-bottom: 50px;
+
+    }
+
+    .div-the-main-main-display-team {
+        display: flex;
+        justify-content: space-between;
+    
+    } 
+
+
+    .div-main-about-team-box-line-div-main {
+        display: flex;
+        justify-content: space-between;
+        text-wrap: nowrap;
+        width: 20000px;
+        
+        flex-wrap: nowrap;
+        animation: 18s slide infinite linear;
+    }
+
+    .div-the-whole-meet-the-team-section {
+        transform: translateY(-1050px);
+    }
+
+    .div-main-about-team-box-line {
+        margin-top: 50px;
+    }
+
+    .the-heading-of-the-section {
+        margin-top: 0;
+        font-size: 120px;
+        margin-bottom: 300px;
+        margin-left: 100px;
+    }
+
+    .div-the-main-main-display-team {
+        transform: scale(2.4);
+        margin-left: 950px;
+    }
+
+    
+}
+
+
+@media  (min-width: 2560px) {
+
+    .div-main-black-box-team-p-slogan-main-main {
+        transform: scale(2);
+        margin-bottom: 0px;
+        z-index: 2;
+        margin-left: 200px;
+        margin-top: 40px;
+     }
+
+     .div-the-heading-of-the-section {
+        display: flex;
+        justify-content: left;
+        margin-bottom: 150px;
+        margin-left: 60px;
+    } 
+    
+    .the-heading-of-the-section {
+        margin-top: 0;
+        font-size: 55px;
+    }
+
+    .div-main-about-team-box-line {
+        transform: scale(1.5);
+        margin-right:  160px;
+        margin-bottom: 50px;
+
+    }
+
+    .div-the-main-main-display-team {
+        display: flex;
+        justify-content: space-between;
+    
+    } 
+
+
+    .div-main-about-team-box-line-div-main {
+        display: flex;
+        justify-content: space-between;
+        text-wrap: nowrap;
+        width: 20000px;
+        
+        flex-wrap: nowrap;
+        animation: 18s slide infinite linear;
+    }
+
+    .div-the-whole-meet-the-team-section {
+        transform: translateY(-1050px);
+    }
+
+    .div-main-about-team-box-line {
+        margin-top: 50px;
+    }
+
+    .the-heading-of-the-section {
+        margin-top: 0;
+        font-size: 120px;
+        margin-bottom: 300px;
+        margin-left: 100px;
+    }
+
+    .div-the-main-main-display-team {
+        transform: scale(2.6);
+        margin-left: 1150px;
+    }
+
+}
+
+
+.butoon-for-div-hero23:hover {
+    background-color: white;
+    color: #1e1e1e;
+    transition-duration: 0.4s;
+}
+
+.butoon-for-div-hero:hover {
+    background-color: white;
+    color: #1e1e1e;
+    transition-duration: 0.4s;
+}
+
+.button-next-box-1:hover {
+    background-color: white;
+    color: #1e1e1e;
+    transition-duration: 0.4s;
+}
+.button-next-box-2:hover {
+    background-color: white;
+    color: #1e1e1e;
+    transition-duration: 0.4s;
+}
+
+.headin-of-last-section2:hover {
+    background-color: black;
+    color: white;
+    transition-duration: 0.4s;
+}
+
+
+.changeable {
+    transition: opacity 0.5s ease-in-out;
+}
+
+.fade {
+    opacity: 0;
+}

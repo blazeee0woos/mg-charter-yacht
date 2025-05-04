@@ -1,0 +1,910 @@
+
+body {
+    margin: 0;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+
+html {
+    margin: 0;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.the-whole-left-and-rigth-section {
+    display: block;
+}
+
+.div-left-section-of-menu {
+    display: none;
+}
+
+.div-exit-button-nav2 {
+    display: none;
+}
+
+.div-header-menu-nav-main {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.div-button-nav-talk {
+    display: none;
+}
+
+.logo-img-nav {
+    width: 90px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.div-exit-button-nav {
+    width: 45px;
+    margin-top: 9px;
+    margin-right: 20px;
+}
+
+.div-hero-main-of-pages {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25vh;
+}
+
+.nav-page-numb1 {
+    font-size: 60px;
+    margin: 0;
+    text-align: center;
+    font-family: Playfair Display;
+    font-weight: 500;
+}
+
+.nav-page-numb2 {
+    font-size: 60px;
+    margin: 0;
+    text-align: center;
+    font-family: Playfair Display;
+    font-weight: 500;
+}
+
+.nav-page-numb3 {
+    font-size: 60px;
+    margin: 0;
+    text-align: center;
+    font-family: Playfair Display;
+    font-weight: 500;
+}
+
+.div-paragrpah-about-menu {
+    display: flex;
+    justify-content: center;
+   
+}
+
+.paragrpah-about-menu {
+    text-align: center;
+    margin-top: 15vh;
+    font-size: 14px;
+    width: 90%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+@media (max-width: 320px) {
+    
+}
+
+@media (min-width: 321px) {
+    
+}
+
+
+@media (min-width: 500px) {
+    .logo-img-nav {
+        width: 110px;
+        margin-top: 30px;
+        margin-left: 30px;
+    }
+    
+    .div-exit-button-nav {
+        width: 50px;
+        margin-top: 15px;
+        margin-right: 30px;
+    }
+    
+    .div-hero-main-of-pages {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 24vh;
+    }
+    
+    .nav-page-numb1 {
+        font-size: 75px;
+        margin: 0;
+        text-align: center;
+        font-family: Playfair Display;
+        font-weight: 500;
+    }
+    
+    .nav-page-numb2 {
+        font-size: 75px;
+        margin: 0;
+        text-align: center;
+        font-family: Playfair Display;
+        font-weight: 500;
+    }
+    
+    .nav-page-numb3 {
+        font-size: 75px;
+        margin: 0;
+        text-align: center;
+        font-family: Playfair Display;
+        font-weight: 500;
+    }
+    
+    .div-paragrpah-about-menu {
+        display: flex;
+        justify-content: center;
+       
+    }
+    
+    .paragrpah-about-menu {
+        text-align: center;
+        margin-top: 15vh;
+        font-size: 20px;
+        width: 80%;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+}
+
+
+@media (min-width: 700px) {
+    .logo-img-nav {
+        width: 140px;
+        margin-top: 30px;
+        margin-left: 30px;
+    }
+    
+    .div-exit-button-nav {
+        width: 60px;
+        margin-top: 15px;
+        margin-right: 30px;
+    }
+    
+    .div-hero-main-of-pages {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 24vh;
+    }
+    
+    .nav-page-numb1 {
+        font-size: 95px;
+        margin: 0;
+        text-align: center;
+        font-family: Playfair Display;
+        font-weight: 500;
+    }
+    
+    .nav-page-numb2 {
+        font-size: 95px;
+        margin: 0;
+        text-align: center;
+        font-family: Playfair Display;
+        font-weight: 500;
+    }
+    
+    .nav-page-numb3 {
+        font-size: 95px;
+        margin: 0;
+        text-align: center;
+        font-family: Playfair Display;
+        font-weight: 500;
+    }
+    
+    .div-paragrpah-about-menu {
+        display: flex;
+        justify-content: center;
+       
+    }
+    
+    .paragrpah-about-menu {
+        text-align: center;
+        margin-top: 15vh;
+        font-size: 25px;
+        width: 80%;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+}
+
+@media (min-width: 1000px) {
+    .logo-img-nav {
+        width: 160px;
+        margin-top: 30px;
+        margin-left: 30px;
+    }
+    
+    .div-exit-button-nav {
+        width: 70px;
+        margin-top: 15px;
+        margin-right: 30px;
+    }
+    
+    .div-hero-main-of-pages {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 24vh;
+    }
+    
+    .nav-page-numb1 {
+        font-size: 125px;
+        margin: 0;
+        text-align: center;
+        font-family: Playfair Display;
+        font-weight: 500;
+    }
+    
+    .nav-page-numb2 {
+        font-size: 125px;
+        margin: 0;
+        text-align: center;
+        font-family: Playfair Display;
+        font-weight: 500;
+    }
+    
+    .nav-page-numb3 {
+        font-size: 125px;
+        margin: 0;
+        text-align: center;
+        font-family: Playfair Display;
+        font-weight: 500;
+    }
+    
+    .div-paragrpah-about-menu {
+        display: flex;
+        justify-content: center;
+       
+    }
+    
+    .paragrpah-about-menu {
+        text-align: center;
+        margin-top: 15vh;
+        font-size: 30px;
+        width: 80%;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+}
+
+@media (min-width: 1200px) {
+    .the-whole-left-and-rigth-section {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .div-button-nav-talk {
+        display: inline-block;
+        margin-top: 30px;
+        margin-right: 30px;
+    }
+
+    .mennu-heading {
+        font-size: 35px;
+        font-family: Playfair Display;
+        font-weight: 200;
+    }
+
+    .mennu-heading2 {
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 200;
+        width: 400px;
+    }
+
+    .img-arrow-to-button {
+        width: 50px;
+        margin-left: 55px;
+        margin-top: 95px;
+        margin-bottom: 95px;
+    }
+
+    .button-embarak-now {
+        background: none;
+        border: black 1.5px solid;
+        font-family: Playfair Display;
+        padding: 15px 35px;
+        font-size: 15px;
+        border-radius: 80px;
+    }
+
+    .div-left-section-of-menu {
+        display: inline-block;
+        margin-left: 30px;
+        margin-top: 10vh;
+    }
+
+    .button-nav-talk {
+        background: none;
+        border: black 1.5px solid;
+        font-family: Playfair Display;
+        padding: 15px 35px;
+        font-size: 15px;
+        border-radius: 80px;
+    }
+
+    .logo-img-nav {
+        width: 140px;
+        margin-top: 30px;
+        margin-left: 30px;
+    }
+
+    .div-exit-button-nav2 {
+        display: inline-block;
+        margin-top: 30px;
+    }
+
+    .exit-button-nav2 {
+       width: 250px;
+    }
+    
+    .div-exit-button-nav {
+        width: 60px;
+        margin-top: 15px;
+        margin-right: 30px;
+        display: none;
+    }
+    
+    .div-hero-main-of-pages {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 24vh;
+    }
+    
+    .nav-page-numb1 {
+        font-size: 95px;
+        margin: 0;
+        text-align: center;
+        font-family: Playfair Display;
+        font-weight: 500;
+    }
+    
+    .nav-page-numb2 {
+        font-size: 95px;
+        margin: 0;
+        text-align: center;
+        font-family: Playfair Display;
+        font-weight: 500;
+    }
+    
+    .nav-page-numb3 {
+        font-size: 95px;
+        margin: 0;
+        text-align: center;
+        font-family: Playfair Display;
+        font-weight: 500;
+    }
+    
+    .div-paragrpah-about-menu {
+        display: flex;
+        justify-content: center;
+        display: none;
+    }
+    
+    .paragrpah-about-menu {
+        text-align: center;
+        margin-top: 15vh;
+        font-size: 25px;
+        width: 80%;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .div-hero-main-of-pages {
+        margin-top: 15vh;
+        margin-right: 30px;
+    }
+
+    .nav-page-numb3 {
+        font-size: 150px;
+        text-align: right;
+       
+    }
+    .nav-page-numb2 {
+        font-size: 150px;
+        text-align: right;
+        height: 140px;
+    }
+    .nav-page-numb1 {
+        font-size: 150px;
+        text-align: right;
+        height: 170px;
+    }
+}
+
+
+
+
+@media (min-width: 1400px) {
+    .the-whole-left-and-rigth-section {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .button-embarak-now {
+        font-size: 25px;
+    }
+
+    .div-button-nav-talk {
+        display: inline-block;
+        margin-top: 50px;
+        margin-right: 50px;
+    }
+
+    .mennu-heading {
+        font-size: 50px;
+        font-family: Playfair Display;
+        font-weight: 200;
+    }
+
+    .mennu-heading2 {
+        font-size: 30px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 200;
+        width: 600px;
+    }
+
+    .img-arrow-to-button {
+        width: 60px;
+        margin-left: 55px;
+        margin-top: 95px;
+        margin-bottom: 95px;
+    }
+
+    .button-embarak-now {
+        background: none;
+        border: black 1.5px solid;
+        font-family: Playfair Display;
+        padding: 15px 35px;
+        font-size: 15px;
+        border-radius: 80px;
+    }
+
+    .div-left-section-of-menu {
+        display: inline-block;
+        margin-left: 50px;
+        margin-top: 10vh;
+    }
+
+    .button-nav-talk {
+        background: none;
+        border: black 1.5px solid;
+        font-family: Playfair Display;
+        padding: 15px 35px;
+        font-size: 20px;
+        border-radius: 80px;
+    }
+
+    .logo-img-nav {
+        width: 175px;
+        margin-top: 30px;
+        margin-left: 30px;
+    }
+
+    .div-exit-button-nav2 {
+        display: inline-block;
+        margin-top: 30px;
+    }
+
+    .exit-button-nav2 {
+       width: 290px;
+    }
+    
+    .div-exit-button-nav {
+        width: 60px;
+        margin-top: 15px;
+        margin-right: 30px;
+        display: none;
+    }
+    
+    .div-hero-main-of-pages {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 24vh;
+    }
+    
+    .nav-page-numb1 {
+        font-size: 195px;
+        margin: 0;
+        text-align: center;
+        font-family: Playfair Display;
+        font-weight: 500;
+    }
+    
+    .nav-page-numb2 {
+        font-size: 100px;
+        margin: 0;
+        text-align: center;
+        font-family: Playfair Display;
+        font-weight: 500;
+    }
+    
+    .nav-page-numb3 {
+        font-size: 95px;
+        margin: 0;
+        text-align: center;
+        font-family: Playfair Display;
+        font-weight: 500;
+    }
+    
+    .div-paragrpah-about-menu {
+        display: flex;
+        justify-content: center;
+        display: none;
+    }
+    
+    .paragrpah-about-menu {
+        text-align: center;
+        margin-top: 15vh;
+        font-size: 25px;
+        width: 80%;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .div-hero-main-of-pages {
+        margin-top: 15vh;
+        margin-right: 100px;
+    }
+
+    .nav-page-numb3 {
+        font-size: 220px;
+        text-align: right;
+       
+    }
+    .nav-page-numb2 {
+        font-size: 220px;
+        text-align: right;
+        height: 200px;
+    }
+    .nav-page-numb1 {
+        font-size:220px;
+        text-align: right;
+        height:200px;
+    }
+
+    .button-embarak-now {
+        font-size: 25px;
+        padding: 20px 49px;
+    }
+
+    .img-arrow-to-button {
+        margin-left: 90px;
+    }
+}
+
+
+
+
+
+@media (min-width: 1800px) {
+    .the-whole-left-and-rigth-section {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .button-embarak-now {
+        font-size: 30px;
+    }
+
+    .div-button-nav-talk {
+        display: inline-block;
+        margin-top: 50px;
+        margin-right: 50px;
+    }
+
+    .mennu-heading {
+        font-size: 70px;
+        font-family: Playfair Display;
+        font-weight: 200;
+    }
+
+    .mennu-heading2 {
+        font-size: 30px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 200;
+        width: 600px;
+    }
+
+    .img-arrow-to-button {
+        width: 60px;
+        margin-left: 55px;
+        margin-top: 125px;
+        margin-bottom: 125px;
+    }
+
+    .button-embarak-now {
+        background: none;
+        border: black 1.5px solid;
+        font-family: Playfair Display;
+        padding: 15px 35px;
+        font-size: 20px;
+        border-radius: 80px;
+    }
+
+    .div-left-section-of-menu {
+        display: inline-block;
+        margin-left: 50px;
+        margin-top: 10vh;
+    }
+
+    .button-nav-talk {
+        background: none;
+        border: black 1.5px solid;
+        font-family: Playfair Display;
+        padding: 20px 43px;
+        font-size: 27px;
+        border-radius: 80px;
+    }
+
+    .logo-img-nav {
+        width: 205px;
+        margin-top: 30px;
+        margin-left: 30px;
+    }
+
+    .div-exit-button-nav2 {
+        display: inline-block;
+        margin-top: 30px;
+    }
+
+    .exit-button-nav2 {
+       width: 390px;
+    }
+    
+    .div-exit-button-nav {
+        width: 60px;
+        margin-top: 15px;
+        margin-right: 30px;
+        display: none;
+    }
+    
+    .div-hero-main-of-pages {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 24vh;
+    }
+    
+    .nav-page-numb1 {
+        font-size: 195px;
+        margin: 0;
+        text-align: center;
+        font-family: Playfair Display;
+        font-weight: 500;
+    }
+    
+    .nav-page-numb2 {
+        font-size: 100px;
+        margin: 0;
+        text-align: center;
+        font-family: Playfair Display;
+        font-weight: 500;
+    }
+    
+    .nav-page-numb3 {
+        font-size: 95px;
+        margin: 0;
+        text-align: center;
+        font-family: Playfair Display;
+        font-weight: 500;
+    }
+    
+    .div-paragrpah-about-menu {
+        display: flex;
+        justify-content: center;
+        display: none;
+    }
+    
+    .paragrpah-about-menu {
+        text-align: center;
+        margin-top: 15vh;
+        font-size: 25px;
+        width: 80%;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .div-hero-main-of-pages {
+        margin-top: 15vh;
+        margin-right: 100px;
+    }
+
+    .nav-page-numb3 {
+        font-size: 270px;
+        text-align: right;
+       
+    }
+    .nav-page-numb2 {
+        font-size: 270px;
+        text-align: right;
+        height: 230px;
+    }
+    .nav-page-numb1 {
+        font-size:270px;
+        text-align: right;
+        height:230px;
+    }
+
+    .button-embarak-now {
+        font-size: 30px;
+        padding: 27px 52px;
+    }
+
+    .img-arrow-to-button {
+        margin-left: 90px;
+    }
+}
+
+
+
+@media (min-width: 2560px) {
+    .the-whole-left-and-rigth-section {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .button-embarak-now {
+        font-size: 30px;
+    }
+
+    .div-button-nav-talk {
+        display: inline-block;
+        margin-top: 100px;
+        margin-right: 100px;
+    }
+
+    .mennu-heading {
+        font-size: 100px;
+        font-family: Playfair Display;
+        font-weight: 200;
+    }
+
+    .mennu-heading2 {
+        font-size: 40px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 200;
+        width: 900px;
+    }
+
+    .img-arrow-to-button {
+        width: 80px;
+        margin-left: 55px;
+        margin-top: 195px;
+        margin-bottom: 195px;
+    }
+
+    .button-embarak-now {
+        background: none;
+        border: black 1.5px solid;
+        font-family: Playfair Display;
+        padding: 15px 35px;
+        font-size: 30px;
+        border-radius: 80px;
+    }
+
+    .div-left-section-of-menu {
+        display: inline-block;
+        margin-left: 50px;
+        margin-top: 10vh;
+    }
+
+    .button-nav-talk {
+        background: none;
+        border: black 1.5px solid;
+        font-family: Playfair Display;
+        padding: 29px 53px;
+        font-size: 35px;
+        border-radius: 80px;
+    }
+
+    .logo-img-nav {
+        width: 280px;
+        margin-left: 100px;
+        margin-top: 100px;
+    }
+
+    .div-exit-button-nav2 {
+        display: inline-block;
+        margin-top: 30px;
+    }
+
+    .exit-button-nav2 {
+       width: 490px;
+       margin-top: 100px;
+    }
+    
+    .div-exit-button-nav {
+        width: 60px;
+        margin-top: 15px;
+        margin-right: 30px;
+        display: none;
+    }
+    
+    .div-hero-main-of-pages {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 24vh;
+    }
+    
+    .nav-page-numb1 {
+        font-size: 195px;
+        margin: 0;
+        text-align: center;
+        font-family: Playfair Display;
+        font-weight: 500;
+    }
+    
+    .nav-page-numb2 {
+        font-size: 100px;
+        margin: 0;
+        text-align: center;
+        font-family: Playfair Display;
+        font-weight: 500;
+    }
+    
+    .nav-page-numb3 {
+        font-size: 95px;
+        margin: 0;
+        text-align: center;
+        font-family: Playfair Display;
+        font-weight: 500;
+    }
+    
+    .div-paragrpah-about-menu {
+        display: flex;
+        justify-content: center;
+        display: none;
+    }
+    
+    .paragrpah-about-menu {
+        text-align: center;
+        margin-top: 15vh;
+        font-size: 25px;
+        width: 80%;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .div-hero-main-of-pages {
+        margin-top: 15vh;
+        margin-right: 100px;
+    }
+
+    .nav-page-numb3 {
+        font-size: 370px;
+        text-align: right;
+       
+    }
+    .nav-page-numb2 {
+        font-size: 370px;
+        text-align: right;
+        height: 330px;
+    }
+    .nav-page-numb1 {
+        font-size:370px;
+        text-align: right;
+        height: 330px;
+    }
+
+    .button-embarak-now {
+        font-size: 35px;
+        padding: 29px 60px;
+    }
+
+    .img-arrow-to-button {
+        margin-left: 90px;
+    }
+}
